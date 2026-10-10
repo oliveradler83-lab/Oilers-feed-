@@ -20,11 +20,14 @@
   button { font:inherit; border:0; border-radius:8px; padding:10px 16px; cursor:pointer; }
   .share { background:#25d366; color:#fff; font-weight:600; }
   .copy { background:transparent; color:var(--muted); }
+  .post { background:#25d366; color:#fff; font-weight:600; }
+  .row { display:flex; flex-wrap:wrap; gap:8px; align-items:center; }
+  header .copy { display:block; font-size:13px; text-decoration:underline; }
   .empty { text-align:center; color:var(--muted); padding:40px 0; }
 </style>
 </head>
 <body>
-<header><h1>🏒 Oilers <span>Feed</span></h1></header>
+<header><h1>🏒 Oilers <span>Feed</span></h1><button id="chan" class="copy" style="color:#fff;padding:4px 0">Kanal-Link festlegen</button></header>
 <main id="list"><p class="empty">Lade …</p></main>
 <script>
 const done = new Set(JSON.parse(localStorage.getItem("done") || "[]"));
@@ -35,6 +38,35 @@ function markDone(id, card) {
   localStorage.setItem("done", JSON.stringify([...done]));
   card.classList.add("done");
   const nb = card.querySelector(".badge"); if (nb) nb.remove();
+}
+
+function channelUrl() { try { return localStorage.getItem("channel") || ""; } catch (e) { return ""; } }
+function updateChan() { document.getElementById("chan").textContent = channelUrl() ? "Kanal-Link ändern" : "Kanal-Link festlegen"; }
+document.getElementById("chan").onclick = () => {
+  const v = prompt("Link deines WhatsApp-Kanals (WhatsApp → Kanal → Info → Link teilen), z. B. https://whatsapp.com/channel/…", channelUrl());
+  if (v !== null) { try { localStorage.setItem("channel", v.trim()); } catch (e) {} updateChan(); }
+};
+updateChan();
+
+async function copyText(text) {
+  try { await navigator.clipboard.writeText(text); return true; } catch (e) { return false; }
+}
+
+async function postToChannel(p, card) {
+  if (!(await copyText(p.text))) { alert("Kopieren nicht möglich. Bitte Text markieren und kopieren."); return; }
+  markDone(p.id, card);
+  const url = channelUrl();
+  if (!url) { alert("Text kopiert ✓\nÖffne jetzt deinen Kanal in WhatsApp, tippe ins Textfeld und füge ihn ein.\nTipp: Oben auf „Kanal-Link festlegen“ tippen, dann öffnet der Button den Kanal direkt."); return; }
+  location.href = url;
+}
+
+async function saveImage(p) {
+  try {
+    const blob = await (await fetch(p.image)).blob();
+    const file = new File([blob], "oilers.png", { type: blob.type || "image/png" });
+    if (navigator.canShare && navigator.canShare({ files: [file] })) { await navigator.share({ files: [file] }); return; }
+  } catch (e) { if (e.name === "AbortError") return; }
+  window.open(p.image, "_blank");
 }
 
 async function share(p, card) {
@@ -66,18 +98,24 @@ fetch("posts.json?" + Date.now()).then(r => r.json()).then(posts => {
     card.append(tag);
     if (p.image) { const i = document.createElement("img"); i.src = p.image; card.append(i); }
     const t = document.createElement("div"); t.className = "text"; t.textContent = p.text; card.append(t);
-    const b = document.createElement("button"); b.className = "share"; b.textContent = "Teilen";
-    b.onclick = () => share(p, card);
-    const c = document.createElement("button"); c.className = "copy"; c.textContent = "Text kopieren";
-    c.onclick = () => navigator.clipboard.writeText(p.text).then(() => c.textContent = "Kopiert ✓");
-    card.append(b, c);
+    const row = document.createElement("div"); row.className = "row";
+    const b = document.createElement("button"); b.className = "post"; b.textContent = "📢 In Kanal posten";
+    b.onclick = () => postToChannel(p, card);
+    row.append(b);
+    if (p.image) {
+      const im = document.createElement("button"); im.className = "copy"; im.textContent = "🖼️ Bild speichern";
+      im.onclick = () => saveImage(p); row.append(im);
+    }
+    const c = document.createElement("button"); c.className = "copy"; c.textContent = "Teilen (Chat/Status)";
+    c.onclick = () => share(p, card); row.append(c);
+    card.append(row);
     if (p.answer) {
       const r = document.createElement("button"); r.className = "copy"; r.textContent = "Auflösung zeigen";
       r.onclick = () => {
         r.remove();
         const a = document.createElement("div"); a.className = "text"; a.textContent = p.answer;
-        const sb = document.createElement("button"); sb.className = "share"; sb.textContent = "Auflösung teilen";
-        sb.onclick = () => share({ id: p.id + "-a", text: p.answer, image: null }, card);
+        const sb = document.createElement("button"); sb.className = "post"; sb.textContent = "📢 Auflösung in Kanal posten";
+        sb.onclick = () => postToChannel({ id: p.id + "-a", text: p.answer, image: null }, card);
         card.append(a, sb);
       };
       card.append(r);

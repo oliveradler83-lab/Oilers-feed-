@@ -16,3 +16,8 @@ Spielergebnisse, Vorschau auf das nächste Spiel (deutsche Uhrzeit), Tabellen-Up
 News-Zusammenfassungen mit Quellenlink und Quizfragen (Lösung kommt aus den Statistikdaten, nicht von der KI;
 mit "Auflösung zeigen" bzw. "Auflösung teilen" später als eigener Post).
 Tipp: Quiz im Kanal zusätzlich als WhatsApp-Umfrage anlegen, das bringt Interaktion.
+
+## In den Kanal posten
+WhatsApp erlaubt über das Teilen-Menü nur Chats und Status, keine Kanäle. Deshalb: Oben auf der Seite einmal den Kanal-Link festlegen,
+dann tippst du bei einem Post auf **📢 In Kanal posten**: der Text wird kopiert und der Kanal geöffnet, dort nur noch ins Textfeld einfügen und senden.
+Bei Posts mit Foto vorher **🖼️ Bild speichern**, das Bild im Kanal anhängen und den Text als Beschreibung einfügen.
