@@ -15,6 +15,7 @@ import urllib.request
 from zoneinfo import ZoneInfo
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from html import unescape
 from pathlib import Path
 
@@ -24,6 +25,29 @@ POSTS_FILE = DOCS / "posts.json"
 CFG = json.loads((ROOT / "config.json").read_text())
 NHL = "https://api-web.nhle.com/v1"
 UA = {"User-Agent": "oilers-feed/1.0"}
+
+MAX_FACTS_PER_DAY = 3
+MAX_QUIZ_PER_DAY = 1
+MAX_NEWS_PER_RUN = 2
+MAX_NEWS_PER_DAY = 5
+NEWS_MAX_AGE_HOURS = 24
+HEADERS = {
+    "News": "📰 NEWS",
+    "Spiel": "🏒 SPIELBERICHT",
+    "Vorschau": "🔜 SPIELVORSCHAU",
+    "Fact": "⭐ FACT DES TAGES",
+    "Tabelle": "📊 TABELLE",
+}
+SEEN = set()      # IDs aller bereits erzeugten Posts
+EXISTING = []     # bisherige Posts (für Tageslimits)
+
+
+def today():
+    return datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+
+def posts_today(kind):
+    return [p for p in EXISTING if p["type"] == kind and p["created"].startswith(today())]
 
 
 def get(url, data=None, headers=None):
@@ -104,13 +128,19 @@ def game_posts():
 
 
 def fact_post():
+    if len(posts_today("Fact")) >= MAX_FACTS_PER_DAY:
+        return []
     stats = get_json(f"{NHL}/club-stats/{CFG['team']}/now")
-    skaters = sorted(stats["skaters"], key=lambda s: s.get("points", 0), reverse=True)[:5]
-    s = random.choice(skaters)
+    skaters = sorted(stats["skaters"], key=lambda s: s.get("points", 0), reverse=True)[:8]
+    free = [x for x in skaters
+            if pid("fact", f"{x['firstName']['default']} {x['lastName']['default']}", today()) not in SEEN]
+    if not free:
+        return []
+    s = random.choice(free)
     name = f"{s['firstName']['default']} {s['lastName']['default']}"
     info = f"{name}: {s['gamesPlayed']} Spiele, {s['goals']} Tore, {s['assists']} Vorlagen, {s['points']} Punkte in dieser Saison."
     text = ask_claude(f"Schreibe einen kurzen Fun-Fact-Post. Infos: {info}", f"⭐ {info}\n#Oilers #LetsGoOilers")
-    day = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    day = today()
     return [{"id": pid("fact", name, day), "type": "Fact", "text": text,
              "image": save_image(s["headshot"]) if s.get("headshot") else None, "link": None}]
 
@@ -149,6 +179,8 @@ def standings_post():
 
 def quiz_post():
     """Quiz mit garantiert korrekter Lösung aus den Statistikdaten (nicht von der KI erfunden)."""
+    if len(posts_today("Quiz")) >= MAX_QUIZ_PER_DAY:
+        return []
     stats = get_json(f"{NHL}/club-stats/{CFG['team']}/now")["skaters"]
     stats = [s for s in stats if s.get("gamesPlayed", 0) > 0]
     if len(stats) < 4:
@@ -163,14 +195,17 @@ def quiz_post():
     letters = "ABCD"
     lines = "\n".join(f"{letters[i]}) {name(o)}" for i, o in enumerate(options))
     right = letters[options.index(ranked[0])]
-    day = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    day = today()
     q = f"🧠 OILERS-QUIZ\nWer hat aktuell {label} bei den Oilers in dieser Saison?\n\n{lines}\n\nAntwort in den Kanal-Reaktionen! 👇"
     a = f"✅ Auflösung: {right}) {name(ranked[0])} mit {ranked[0][key]}! 🔥\n#Oilers #LetsGoOilers"
-    return [{"id": pid("quiz", key, day), "type": "Quiz", "text": q, "answer": a, "image": None, "link": None}]
+    return [{"id": pid("quiz", day), "type": "Quiz", "text": q, "answer": a, "image": None, "link": None}]
 
 
 def news_posts():
     posts = []
+    budget = min(MAX_NEWS_PER_RUN, MAX_NEWS_PER_DAY - len(posts_today("News")))
+    if budget <= 0:
+        return posts
     for feed in CFG["news_feeds"]:
         try:
             root = ET.fromstring(get(feed))
@@ -180,8 +215,14 @@ def news_posts():
         for item in root.iter("item"):
             title = unescape(item.findtext("title", "")).strip()
             link = item.findtext("link", "").strip()
-            if not title or not link:
+            if not title or not link or pid("news", link) in SEEN:
                 continue
+            try:
+                age = datetime.now(timezone.utc) - parsedate_to_datetime(item.findtext("pubDate", ""))
+                if age.total_seconds() > NEWS_MAX_AGE_HOURS * 3600:
+                    continue
+            except Exception:
+                pass  # ohne Datum: trotzdem zulassen
             desc = re.sub(r"<[^>]+>", " ", unescape(item.findtext("description", "")))
             text = ask_claude(
                 f"Fasse diese News in eigenen Worten als Post zusammen (nicht wörtlich übernehmen). Titel: {title}. Teaser: {desc[:300]}",
@@ -189,7 +230,7 @@ def news_posts():
             )
             posts.append({"id": pid("news", link), "type": "News", "text": text + f"\n\nQuelle: {link}",
                           "image": None, "link": link})
-            if len(posts) >= 8:
+            if len(posts) >= budget:
                 break
     return posts
 
@@ -198,12 +239,17 @@ def main():
     DOCS.joinpath("img").mkdir(parents=True, exist_ok=True)
     existing = json.loads(POSTS_FILE.read_text()) if POSTS_FILE.exists() else []
     seen = {p["id"] for p in existing}
+    SEEN.update(seen)
+    EXISTING.extend(existing)
     new = []
     for fn in (game_posts, preview_post, quiz_post, fact_post, standings_post, news_posts):
         try:
             for p in fn():
                 if p["id"] not in seen and len(new) < CFG["max_new_per_run"]:
                     p["created"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+                    if p["type"] in HEADERS:
+                        p["text"] = HEADERS[p["type"]] + "\n\n" + p["text"]
+                    EXISTING.append(p)
                     new.append(p)
                     seen.add(p["id"])
         except Exception as e:
