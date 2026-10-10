@@ -32,6 +32,14 @@
 <div id="toast"></div>
 <main id="list"><p class="empty">Lade …</p></main>
 <script>
+const VERSION = "v6";   // bei Änderungen an dieser Seite hochzählen: Handys laden sich dann selbst neu
+async function checkVersion() {
+  try {
+    const t = await (await fetch("index.html?v=" + Date.now(), { cache: "no-store" })).text();
+    const m = t.match(/const VERSION = "([^"]+)"/);
+    if (m && m[1] !== VERSION) location.reload();
+  } catch (e) {}
+}
 const done = new Set(JSON.parse(localStorage.getItem("done") || "[]"));
 const list = document.getElementById("list");
 
@@ -153,8 +161,9 @@ function load(manual) {
 }
 load();
 // automatisch aktualisieren: beim Zurückkehren in die App und alle 5 Minuten
-document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") load(); });
-setInterval(() => { if (document.visibilityState === "visible") load(); }, 5 * 60 * 1000);
+document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") { checkVersion(); load(); } });
+setInterval(() => { if (document.visibilityState === "visible") { checkVersion(); load(); } }, 5 * 60 * 1000);
+checkVersion();
 document.getElementById("refresh").onclick = () => load(true);
 </script>
 </body>
