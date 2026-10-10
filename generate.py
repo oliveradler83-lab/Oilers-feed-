@@ -9,8 +9,10 @@ import hashlib
 import json
 import os
 import random
+import traceback
 import re
 import urllib.request
+from zoneinfo import ZoneInfo
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from html import unescape
@@ -101,8 +103,62 @@ def fact_post():
     info = f"{name}: {s['gamesPlayed']} Spiele, {s['goals']} Tore, {s['assists']} Vorlagen, {s['points']} Punkte in dieser Saison."
     text = ask_claude(f"Schreibe einen kurzen Fun-Fact-Post. Infos: {info}", f"⭐ {info}\n#Oilers #LetsGoOilers")
     day = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    return {"id": pid("fact", name, day), "type": "Fact", "text": text,
-            "image": save_image(s.get("headshot", "")) if s.get("headshot") else None, "link": None}
+    return [{"id": pid("fact", name, day), "type": "Fact", "text": text,
+             "image": save_image(s["headshot"]) if s.get("headshot") else None, "link": None}]
+
+
+def team_name(t):
+    return f"{t['placeName']['default']} {t['commonName']['default']}"
+
+
+def preview_post():
+    """Vorschau auf das nächste Oilers-Spiel (Uhrzeit in deutscher Zeit)."""
+    sched = get_json(f"{NHL}/club-schedule-season/{CFG['team']}/now")
+    nxt = next((g for g in sched.get("games", []) if g.get("gameState") in ("FUT", "PRE")), None)
+    if not nxt:
+        return []
+    start = datetime.fromisoformat(nxt["startTimeUTC"].replace("Z", "+00:00"))
+    de = start.astimezone(ZoneInfo("Europe/Berlin"))
+    h, a = nxt["homeTeam"], nxt["awayTeam"]
+    home = h["abbrev"] == CFG["team"]
+    opp = a if home else h
+    info = (f"Nächstes Spiel: {de.strftime('%d.%m.%Y')} um {de.strftime('%H:%M')} Uhr deutscher Zeit, "
+            f"{'Heimspiel' if home else 'Auswärtsspiel'} gegen {team_name(opp)}, Halle: {nxt['venue']['default']}.")
+    text = ask_claude(f"Schreibe einen Vorfreude-Post zum nächsten Spiel mit Aufruf zum Mitfiebern. Infos: {info}",
+                      f"🔜 {info}\n#Oilers #LetsGoOilers")
+    return [{"id": pid("preview", nxt["id"]), "type": "Vorschau", "text": text, "image": None, "link": None}]
+
+
+def standings_post():
+    st = get_json(f"{NHL}/standings/now")["standings"]
+    e = next(t for t in st if t["teamAbbrev"]["default"] == CFG["team"])
+    info = (f"Oilers-Bilanz: {e['wins']} Siege, {e['losses']} Niederlagen, {e['otLosses']} OT-Niederlagen aus {e['gamesPlayed']} Spielen, "
+            f"{e['points']} Punkte. Platz {e['divisionSequence']} in der {e['divisionName']} Division, "
+            f"Platz {e['conferenceSequence']} in der {e['conferenceName']} Conference. Serie: {e['streakCount']}x {e['streakCode']}.")
+    text = ask_claude(f"Schreibe einen kurzen Tabellen-Update-Post. Infos: {info}", f"📊 {info}\n#Oilers #LetsGoOilers")
+    return [{"id": pid("standings", e["gamesPlayed"], e["points"]), "type": "Tabelle", "text": text, "image": None, "link": None}]
+
+
+def quiz_post():
+    """Quiz mit garantiert korrekter Lösung aus den Statistikdaten (nicht von der KI erfunden)."""
+    stats = get_json(f"{NHL}/club-stats/{CFG['team']}/now")["skaters"]
+    stats = [s for s in stats if s.get("gamesPlayed", 0) > 0]
+    if len(stats) < 4:
+        return []
+    name = lambda s: f"{s['firstName']['default']} {s['lastName']['default']}"
+    key, label = random.choice([("goals", "die meisten Tore"), ("assists", "die meisten Vorlagen"), ("points", "die meisten Punkte")])
+    ranked = sorted(stats, key=lambda s: s[key], reverse=True)
+    if ranked[0][key] == ranked[1][key] or ranked[0][key] == 0:
+        return []  # kein eindeutiger Sieger
+    options = [ranked[0]] + random.sample(ranked[1:6], 3)
+    random.shuffle(options)
+    letters = "ABCD"
+    lines = "\n".join(f"{letters[i]}) {name(o)}" for i, o in enumerate(options))
+    right = letters[options.index(ranked[0])]
+    day = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    q = f"🧠 OILERS-QUIZ\nWer hat aktuell {label} bei den Oilers in dieser Saison?\n\n{lines}\n\nAntwort in den Kanal-Reaktionen! 👇"
+    a = f"✅ Auflösung: {right}) {name(ranked[0])} mit {ranked[0][key]}! 🔥\n#Oilers #LetsGoOilers"
+    return [{"id": pid("quiz", key, day), "type": "Quiz", "text": q, "answer": a, "image": None, "link": None}]
 
 
 def news_posts():
@@ -135,7 +191,7 @@ def main():
     existing = json.loads(POSTS_FILE.read_text()) if POSTS_FILE.exists() else []
     seen = {p["id"] for p in existing}
     new = []
-    for fn in (game_posts, fact_post, news_posts):
+    for fn in (game_posts, preview_post, quiz_post, fact_post, standings_post, news_posts):
         try:
             for p in fn():
                 if p["id"] not in seen and len(new) < CFG["max_new_per_run"]:
@@ -143,7 +199,7 @@ def main():
                     new.append(p)
                     seen.add(p["id"])
         except Exception as e:
-            print(f"{fn.__name__} fehlgeschlagen:", e)
+            print(f"{fn.__name__} fehlgeschlagen:", repr(e)); traceback.print_exc()
     posts = (new + existing)[: CFG["keep_posts"]]
     POSTS_FILE.write_text(json.dumps(posts, ensure_ascii=False, indent=1))
     keep = {Path(p["image"]).name for p in posts if p.get("image")}

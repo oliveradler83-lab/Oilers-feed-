@@ -1,7 +1,7 @@
 {
   "team": "EDM",
   "model": "claude-haiku-5-5",
-  "max_new_per_run": 5,
+  "max_new_per_run": 8,
   "keep_posts": 60,
   "news_feeds": [
     "https://news.google.com/rss/search?q=%22Edmonton+Oilers%22+when:2d&hl=en-CA&gl=CA&ceid=CA:en"

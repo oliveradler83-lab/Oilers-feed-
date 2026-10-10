@@ -67,7 +67,19 @@ fetch("posts.json?" + Date.now()).then(r => r.json()).then(posts => {
     b.onclick = () => share(p, card);
     const c = document.createElement("button"); c.className = "copy"; c.textContent = "Text kopieren";
     c.onclick = () => navigator.clipboard.writeText(p.text).then(() => c.textContent = "Kopiert ✓");
-    card.append(b, c); list.append(card);
+    card.append(b, c);
+    if (p.answer) {
+      const r = document.createElement("button"); r.className = "copy"; r.textContent = "Auflösung zeigen";
+      r.onclick = () => {
+        r.remove();
+        const a = document.createElement("div"); a.className = "text"; a.textContent = p.answer;
+        const sb = document.createElement("button"); sb.className = "share"; sb.textContent = "Auflösung teilen";
+        sb.onclick = () => share({ id: p.id + "-a", text: p.answer, image: null }, card);
+        card.append(a, sb);
+      };
+      card.append(r);
+    }
+    list.append(card);
   }
 }).catch(() => list.innerHTML = '<p class="empty">Posts konnten nicht geladen werden.</p>');
 </script>
