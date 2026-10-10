@@ -74,7 +74,10 @@ def ask_claude(prompt, fallback):
             "https://api.anthropic.com/v1/messages", body,
             {"x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"},
         ))
-        return out["content"][0]["text"].strip()
+        text = "".join(b.get("text", "") for b in out["content"] if b.get("type") == "text").strip()
+        if not text:
+            raise ValueError(f"Antwort ohne Text: {str(out)[:300]}")
+        return text
     except Exception as e:
         print("Claude-Fehler:", e)
         return fallback
