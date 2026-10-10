@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Oilers Feed</title>
+<style>
+  :root { --bg:#f4f5f7; --card:#fff; --text:#111; --muted:#667; --accent:#ff4c00; --blue:#041e42; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#10131a; --card:#1a1f2b; --text:#eee; --muted:#9aa; } }
+  body { margin:0; background:var(--bg); color:var(--text); font:16px/1.4 system-ui,sans-serif; }
+  header { background:var(--blue); color:#fff; padding:16px; position:sticky; top:0; }
+  header h1 { margin:0; font-size:20px; } header h1 span { color:var(--accent); }
+  main { padding:12px 16px; max-width:600px; margin:auto; }
+  .card { background:var(--card); border-radius:12px; padding:14px; margin-bottom:14px; box-shadow:0 1px 3px #0002; }
+  .card.done { opacity:.5; }
+  .tag { font-size:12px; color:var(--muted); }
+  .card img { max-width:100%; max-height:260px; display:block; margin:8px 0; border-radius:8px; }
+  .text { white-space:pre-wrap; margin:8px 0 12px; }
+  button { font:inherit; border:0; border-radius:8px; padding:10px 16px; cursor:pointer; }
+  .share { background:#25d366; color:#fff; font-weight:600; }
+  .copy { background:transparent; color:var(--muted); }
+  .empty { text-align:center; color:var(--muted); padding:40px 0; }
+</style>
+</head>
+<body>
+<header><h1>🏒 Oilers <span>Feed</span></h1></header>
+<main id="list"><p class="empty">Lade …</p></main>
+<script>
+const done = new Set(JSON.parse(localStorage.getItem("done") || "[]"));
+const list = document.getElementById("list");
+
+function markDone(id, card) {
+  done.add(id);
+  localStorage.setItem("done", JSON.stringify([...done]));
+  card.classList.add("done");
+}
+
+async function share(p, card) {
+  const data = { text: p.text };
+  try {
+    if (p.image) {
+      const blob = await (await fetch(p.image)).blob();
+      const file = new File([blob], "oilers.png", { type: blob.type || "image/png" });
+      if (navigator.canShare && navigator.canShare({ files: [file] })) data.files = [file];
+    }
+  } catch (e) {}
+  try {
+    if (!navigator.share) throw new Error("no share");
+    await navigator.share(data);
+    markDone(p.id, card);
+  } catch (e) {
+    if (e.name !== "AbortError") { await navigator.clipboard.writeText(p.text); alert("Text kopiert – bitte in WhatsApp einfügen."); }
+  }
+}
+
+fetch("posts.json?" + Date.now()).then(r => r.json()).then(posts => {
+  list.innerHTML = posts.length ? "" : '<p class="empty">Noch keine Posts.</p>';
+  for (const p of posts) {
+    const card = document.createElement("div");
+    card.className = "card" + (done.has(p.id) ? " done" : "");
+    const tag = document.createElement("div"); tag.className = "tag";
+    tag.textContent = p.type + " · " + new Date(p.created).toLocaleString("de-DE", { dateStyle: "short", timeStyle: "short" });
+    card.append(tag);
+    if (p.image) { const i = document.createElement("img"); i.src = p.image; card.append(i); }
+    const t = document.createElement("div"); t.className = "text"; t.textContent = p.text; card.append(t);
+    const b = document.createElement("button"); b.className = "share"; b.textContent = "Teilen";
+    b.onclick = () => share(p, card);
+    const c = document.createElement("button"); c.className = "copy"; c.textContent = "Text kopieren";
+    c.onclick = () => navigator.clipboard.writeText(p.text).then(() => c.textContent = "Kopiert ✓");
+    card.append(b, c); list.append(card);
+  }
+}).catch(() => list.innerHTML = '<p class="empty">Posts konnten nicht geladen werden.</p>');
+</script>
+</body>
+</html>
