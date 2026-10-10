@@ -28,7 +28,7 @@
 </style>
 </head>
 <body>
-<header><h1>🏒 Oilers <span>Feed</span></h1><button id="chan" class="copy" style="color:#fff;padding:4px 0">Kanal-Link festlegen</button></header>
+<header><h1>🏒 Oilers <span>Feed</span></h1><div style="display:flex;gap:16px;margin-top:4px"><button id="refresh" class="copy" style="color:#fff;padding:4px 0">🔄 Aktualisieren</button><button id="chan" class="copy" style="color:#fff;padding:4px 0">Kanal-Link festlegen</button></div></header>
 <div id="toast"></div>
 <main id="list"><p class="empty">Lade …</p></main>
 <script>
@@ -106,7 +106,14 @@ async function share(p, card) {
   }
 }
 
-fetch("posts.json?" + Date.now()).then(r => r.json()).then(posts => {
+let lastSig = "";
+function load(manual) {
+  return fetch("posts.json?" + Date.now(), { cache: "no-store" }).then(r => r.json()).then(posts => {
+  const sig = posts.map(p => p.id).join(",");
+  if (!manual && sig === lastSig) return;   // nichts Neues: Liste nicht neu aufbauen
+  if (manual && sig === lastSig) toast("Schon aktuell ✓", 2500);
+  else if (manual) toast("Neue Posts geladen ✓", 2500);
+  lastSig = sig;
   list.innerHTML = posts.length ? "" : '<p class="empty">Noch keine Posts.</p>';
   for (const p of posts) {
     const card = document.createElement("div");
@@ -142,7 +149,13 @@ fetch("posts.json?" + Date.now()).then(r => r.json()).then(posts => {
     }
     list.append(card);
   }
-}).catch(() => list.innerHTML = '<p class="empty">Posts konnten nicht geladen werden.</p>');
+  }).catch(() => { if (!lastSig) list.innerHTML = '<p class="empty">Posts konnten nicht geladen werden.</p>'; });
+}
+load();
+// automatisch aktualisieren: beim Zurückkehren in die App und alle 5 Minuten
+document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") load(); });
+setInterval(() => { if (document.visibilityState === "visible") load(); }, 5 * 60 * 1000);
+document.getElementById("refresh").onclick = () => load(true);
 </script>
 </body>
 </html>
