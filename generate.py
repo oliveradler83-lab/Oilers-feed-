@@ -59,7 +59,7 @@ def ask_claude(prompt, fallback):
         return fallback
     body = json.dumps({
         "model": CFG["model"],
-        "max_tokens": 400,
+        "max_tokens": 1500,
         "system": (
             "Du schreibst Posts für einen WhatsApp-Kanal von Edmonton-Oilers-Fans, "
             "betrieben von einem Jugendlichen. Schreibe auf Deutsch, locker, begeistert, "
@@ -90,7 +90,12 @@ def game_posts():
     for g in finished[-2:]:  # nur die letzten beiden Spiele
         h, a = g["homeTeam"], g["awayTeam"]
         line = f"{a['abbrev']} {a['score']} - {h['score']} {h['abbrev']}"
-        info = f"Spielende am {g['gameDate']}: {line}. Edmonton Oilers beteiligt."
+        home = h["abbrev"] == CFG["team"]
+        mine, theirs = (h, a) if home else (a, h)
+        result = "Sieg" if mine["score"] > theirs["score"] else "Niederlage"
+        info = (f"Spielende am {g['gameDate']}: Die Edmonton Oilers haben {result} "
+                f"{'zuhause' if home else 'auswärts'} gegen {team_name(theirs)} "
+                f"mit {mine['score']}:{theirs['score']} (aus Oilers-Sicht).")
         if g.get("periodDescriptor", {}).get("periodType") in ("OT", "SO"):
             info += " Entscheidung nach Verlängerung/Shootout."
         text = ask_claude(f"Schreibe einen Ergebnis-Post. Infos: {info}", f"🏒 Endstand: {line}\n#Oilers #LetsGoOilers")
