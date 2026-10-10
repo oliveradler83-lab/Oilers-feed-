@@ -23,11 +23,13 @@
   .post { background:#25d366; color:#fff; font-weight:600; }
   .row { display:flex; flex-wrap:wrap; gap:8px; align-items:center; }
   header .copy { display:block; font-size:13px; text-decoration:underline; }
+  #toast { position:fixed; left:16px; right:16px; bottom:16px; background:#111c; color:#fff; padding:12px 14px; border-radius:10px; display:none; z-index:9; }
   .empty { text-align:center; color:var(--muted); padding:40px 0; }
 </style>
 </head>
 <body>
 <header><h1>🏒 Oilers <span>Feed</span></h1><button id="chan" class="copy" style="color:#fff;padding:4px 0">Kanal-Link festlegen</button></header>
+<div id="toast"></div>
 <main id="list"><p class="empty">Lade …</p></main>
 <script>
 const done = new Set(JSON.parse(localStorage.getItem("done") || "[]"));
@@ -48,25 +50,42 @@ document.getElementById("chan").onclick = () => {
 };
 updateChan();
 
+function toast(msg, ms) {
+  const t = document.getElementById("toast"); t.textContent = msg; t.style.display = "block";
+  clearTimeout(toast.t); toast.t = setTimeout(() => t.style.display = "none", ms || 6000);
+}
+
 async function copyText(text) {
-  try { await navigator.clipboard.writeText(text); return true; } catch (e) { return false; }
+  try { await navigator.clipboard.writeText(text); return true; } catch (e) {}
+  try {  // Fallback für Browser ohne Clipboard-API
+    const ta = document.createElement("textarea"); ta.value = text; ta.style.position = "fixed"; ta.style.opacity = "0";
+    document.body.append(ta); ta.focus(); ta.select(); ta.setSelectionRange(0, text.length);
+    const ok = document.execCommand("copy"); ta.remove(); return ok;
+  } catch (e) { return false; }
 }
 
 async function postToChannel(p, card) {
-  if (!(await copyText(p.text))) { alert("Kopieren nicht möglich. Bitte Text markieren und kopieren."); return; }
+  if (!(await copyText(p.text))) { prompt("Kopieren nicht möglich – bitte diesen Text selbst kopieren:", p.text); return; }
   markDone(p.id, card);
   const url = channelUrl();
-  if (!url) { alert("Text kopiert ✓\nÖffne jetzt deinen Kanal in WhatsApp, tippe ins Textfeld und füge ihn ein.\nTipp: Oben auf „Kanal-Link festlegen“ tippen, dann öffnet der Button den Kanal direkt."); return; }
-  location.href = url;
+  if (!url) { toast("Text kopiert ✓ Öffne jetzt deinen Kanal in WhatsApp und füge ihn ins Textfeld ein. (Oben „Kanal-Link festlegen“ spart dir das Öffnen.)", 10000); return; }
+  toast("Text kopiert ✓ – Kanal wird geöffnet. Dort ins Textfeld tippen und „Einfügen“ wählen.", 8000);
+  const a = document.createElement("a"); a.href = url; a.target = "_blank"; a.rel = "noopener";
+  document.body.append(a); setTimeout(() => { a.click(); a.remove(); }, 700);
 }
 
-async function saveImage(p) {
-  try {
-    const blob = await (await fetch(p.image)).blob();
-    const file = new File([blob], "oilers.png", { type: blob.type || "image/png" });
-    if (navigator.canShare && navigator.canShare({ files: [file] })) { await navigator.share({ files: [file] }); return; }
-  } catch (e) { if (e.name === "AbortError") return; }
-  window.open(p.image, "_blank");
+const isIOS = /iPhone|iPad|iPod/.test(navigator.userAgent);
+
+async function saveImage(p, ev) {
+  if (isIOS) {  // iOS: Teilen-Menü bietet „Bild sichern“
+    ev.preventDefault();
+    try {
+      const blob = await (await fetch(p.image)).blob();
+      const file = new File([blob], "oilers.png", { type: blob.type || "image/png" });
+      if (navigator.canShare && navigator.canShare({ files: [file] })) { await navigator.share({ files: [file] }); return; }
+    } catch (e) { if (e.name === "AbortError") return; }
+    window.open(p.image, "_blank"); toast("Bild gedrückt halten → „Zu Fotos hinzufügen“.", 8000);
+  } else { toast("Bild wird heruntergeladen – danach im Kanal über die Büroklammer anhängen.", 8000); }
 }
 
 async function share(p, card) {
@@ -103,8 +122,9 @@ fetch("posts.json?" + Date.now()).then(r => r.json()).then(posts => {
     b.onclick = () => postToChannel(p, card);
     row.append(b);
     if (p.image) {
-      const im = document.createElement("button"); im.className = "copy"; im.textContent = "🖼️ Bild speichern";
-      im.onclick = () => saveImage(p); row.append(im);
+      const im = document.createElement("a"); im.className = "copy"; im.textContent = "🖼️ Bild speichern";
+      im.href = p.image; im.download = "oilers.png"; im.style.cssText = "padding:10px 16px;color:var(--muted);text-decoration:none";
+      im.onclick = (ev) => saveImage(p, ev); row.append(im);
     }
     const c = document.createElement("button"); c.className = "copy"; c.textContent = "Teilen (Chat/Status)";
     c.onclick = () => share(p, card); row.append(c);
