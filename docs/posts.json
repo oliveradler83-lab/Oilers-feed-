@@ -1,5 +1,38 @@
 [
  {
+  "id": "2548ab161c62",
+  "type": "Quiz",
+  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Punkte bei den Oilers in dieser Saison?\n\nA) Vasily Podkolzin\nB) Evan Bouchard\nC) Connor McDavid\nD) Kasperi Kapanen\n\nAntwort in den Kanal-Reaktionen! 👇",
+  "answer": "✅ Auflösung: C) Connor McDavid mit 13! 🔥\n#Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-10-13T06:48:29+00:00"
+ },
+ {
+  "id": "b1a27ea59aeb",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\n🏒 Fun Fact der Woche: Ryan Shea hat in dieser Saison schon 5 Spiele absolviert und dabei 3 Punkte gesammelt: 1 Tor und 2 Vorlagen! 🔥 Wer hätte gedacht, dass er so zum Scorer wird? Weiter so, Shea! 💙🧡\n\n#Oilers #LetsGoOilers #RyanShea",
+  "image": "img/54414cf1f3b1.png",
+  "link": null,
+  "created": "2026-10-13T06:48:32+00:00"
+ },
+ {
+  "id": "661732f90694",
+  "type": "News",
+  "text": "📰 NEWS\n\n🔥 Ein Power Forward der Edmonton Oilers wurde einst mit Oilers-Legende Mark Messier verglichen! Laut Edmonton Journal gilt er als vielversprechendster Power Forward des Teams. Ein Messier-Vergleich sagt schon einiges über das Potenzial aus! 🏒 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU041V2Z1SGZEeUNOaUFLdGVuZVJjNzZCOUY3NWtMSVZVT3pPenpjbVJlLWpRNkt2OWVHbS1TRHhyQ1VDbHJZSFhjZk5jNDB6MW5OVExjQWdBVkZzdFhVOGpvdXFCUmJZZFZfTm1UT0ZuTmlOdzdwdzNtY2RvTE42cGNmYmIySVJtNnJnandNLUdaLTZENklkLUp1Q0hxOVlqVnRyMXZFWVRzR3JVWWNpV1hwRGZNVGpOeU0tdDhOMlpZdw?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU041V2Z1SGZEeUNOaUFLdGVuZVJjNzZCOUY3NWtMSVZVT3pPenpjbVJlLWpRNkt2OWVHbS1TRHhyQ1VDbHJZSFhjZk5jNDB6MW5OVExjQWdBVkZzdFhVOGpvdXFCUmJZZFZfTm1UT0ZuTmlOdzdwdzNtY2RvTE42cGNmYmIySVJtNnJnandNLUdaLTZENklkLUp1Q0hxOVlqVnRyMXZFWVRzR3JVWWNpV1hwRGZNVGpOeU0tdDhOMlpZdw?oc=5",
+  "created": "2026-10-13T06:48:41+00:00"
+ },
+ {
+  "id": "99d53bb518d4",
+  "type": "News",
+  "text": "📰 NEWS\n\n🏒 Die Oilers sind auf dem Weg zu den Kings! Auf NHL.com gibt's die Vorschau zum Spiel. Schaut rein und stimmt euch schon mal ein! 🔥 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMickFVX3lxTFBvVUtqbVpxNnpmTjRpYjFpaVNMMG1NWkgtUENXLS1PdU1Bb1p1bkVxaUpsYllsNHBMd2diVXFYa2YyUnJRM0YycURVZFZ3U3JaM3BrNWdXNFdZTzRHS3p5SFNsVWNfZjJsSWpMVlhadUk2QQ?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvVUtqbVpxNnpmTjRpYjFpaVNMMG1NWkgtUENXLS1PdU1Bb1p1bkVxaUpsYllsNHBMd2diVXFYa2YyUnJRM0YycURVZFZ3U3JaM3BrNWdXNFdZTzRHS3p5SFNsVWNfZjJsSWpMVlhadUk2QQ?oc=5",
+  "created": "2026-10-13T06:48:41+00:00"
+ },
+ {
   "id": "757375cddc6d",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans: Connor McDavid hat in den ersten 5 Spielen dieser Saison schon 13 Punkte gesammelt, mit 3 Toren und 10 Vorlagen! 🔥 Der Kapitän ist einfach eine Maschine. Wer hätte gedacht, dass er so zum Start abliefert? 🏒 Let's go Oilers! 💙🧡\n\n#Oilers #LetsGoOilers #McDavid",
