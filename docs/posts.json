@@ -1,5 +1,53 @@
 [
  {
+  "id": "f6ba54a15945",
+  "type": "Spiel",
+  "text": "🏒 SPIELBERICHT\n\nOilers-Fans, was für ein Auswärtssieg! 🔥 Am 13.10.2026 haben unsere Jungs bei den Los Angeles Kings mit 4:1 gewonnen. Starke Leistung, Edmonton, weiter so! 🏒💙🧡 #Oilers #LetsGoOilers #LAKings",
+  "image": null,
+  "link": null,
+  "created": "2026-10-14T07:39:50+00:00"
+ },
+ {
+  "id": "343bd222806b",
+  "type": "Vorschau",
+  "text": "🔜 SPIELVORSCHAU\n\nLeute, es ist so weit! 🔥 Am 16.10. um 03:00 Uhr (deutsche Zeit) geht's im Rogers Place los: Heimspiel gegen die Utah Mammoth! Wer schläft heute schon? Stellt den Wecker, holt euch Snacks und fiebert mit uns jeden Puck lang! 🧊💙🧡 Let's go, Oilers! #Oilers #LetsGoOilers #Mitfiebern",
+  "image": null,
+  "link": null,
+  "created": "2026-10-14T07:39:51+00:00"
+ },
+ {
+  "id": "94eb5085884e",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact für die Oilers-Fans! 🔥 Mattias Ekholm hat in dieser Saison bisher in 6 Spielen 2 Punkte gesammelt, mit 1 Tor und 1 Vorlage. Kleiner Start, aber die Richtung stimmt! 💙🧡 Wer glaubt, dass der Schwede noch mehr auf dem Konto hat? 👀\n\n#Oilers #LetsGoOilers #Ekholm",
+  "image": "img/6b87cbb35a30.png",
+  "link": null,
+  "created": "2026-10-14T07:39:54+00:00"
+ },
+ {
+  "id": "5e270145ac31",
+  "type": "Tabelle",
+  "text": "📊 TABELLE\n\nDie Oilers räumen ab! 🔥 5 Siege, nur 1 Niederlage nach Verlängerung aus 6 Spielen, das macht 11 Punkte! Platz 2 in der Pacific Division und Platz 2 in der Western Conference. Dazu der Lauf: 5 Siege in Serie! 🏒 Let's go, Oilers Nation! #Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-10-14T07:39:57+00:00"
+ },
+ {
+  "id": "830df553236f",
+  "type": "News",
+  "text": "📰 NEWS\n\n🏒🔥 McDavid war an diesem Abend der Unterschied! Die Oilers haben die Kings geschlagen, und Connor hat dabei richtig groß aufgespielt. Starke Leistung, Jungs! 💙🧡\n\n#Oilers #LetsGoOilers #McDavid\n\nQuelle: https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTExaEgzMnNPNWNiZHRJN0owam5fY3dYalVJSHlycjUzeHlla3JBUkpRVEVnbWFTQjcwak5aUWc1YmNzYmlsVUU5TU9jVjVKWUpHdk9EWThKTENueHBQbXhqUThJTV9EWE83Q1lBTHp1RDZVTC05NldWc1MxMjZiOHFlMEpUME0?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTExaEgzMnNPNWNiZHRJN0owam5fY3dYalVJSHlycjUzeHlla3JBUkpRVEVnbWFTQjcwak5aUWc1YmNzYmlsVUU5TU9jVjVKWUpHdk9EWThKTENueHBQbXhqUThJTV9EWE83Q1lBTHp1RDZVTC05NldWc1MxMjZiOHFlMEpUME0?oc=5",
+  "created": "2026-10-14T07:40:02+00:00"
+ },
+ {
+  "id": "986ee96b7849",
+  "type": "News",
+  "text": "📰 NEWS\n\n🏒 Heute geht's gegen die Kings, und NHL.com hat die Live-Updates zum Spiel! Wer gerade nicht vor dem Bildschirm sitzt, kann hier den Stand verfolgen. Let's go, Oilers! 🔥\n\n#Oilers #LetsGoOilers #NHL\n\nQuelle: https://news.google.com/rss/articles/CBMibEFVX3lxTE5uLUtNYVlsYWRtejBQRzZZTzdaaDA1enE0NDNMbElpRkZpd1BEaDRLR2xqMmFTNDlOTnB1NS1GQUczTFM3aWNkRmhJU1huWmFJUDZFblo2ZlhpREctNTd3SGMwbzBwVEhjQkhiVA?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uLUtNYVlsYWRtejBQRzZZTzdaaDA1enE0NDNMbElpRkZpd1BEaDRLR2xqMmFTNDlOTnB1NS1GQUczTFM3aWNkRmhJU1huWmFJUDZFblo2ZlhpREctNTd3SGMwbzBwVEhjQkhiVA?oc=5",
+  "created": "2026-10-14T07:40:02+00:00"
+ },
+ {
   "id": "f328f5157d4b",
   "type": "Quiz",
   "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Vorlagen bei den Oilers in dieser Saison?\n\nA) Leon Draisaitl\nB) Evan Bouchard\nC) Ryan Shea\nD) Connor McDavid\n\nAntwort in den Kanal-Reaktionen! 👇",
