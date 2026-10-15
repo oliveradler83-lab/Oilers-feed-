@@ -1,5 +1,21 @@
 [
  {
+  "id": "1f991a604415",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\n🏒 Fun Fact für alle Oilers-Fans: Mattias Ekholm hat in dieser Saison bisher 6 Spiele absolviert und dabei 1 Tor und 1 Vorlage beigesteuert. Das macht zusammen 2 Punkte! Wie seht ihr seinen Start? Schreibt es in die Kommentare 👇🔥\n\n#Oilers #LetsGoOilers #Ekholm",
+  "image": "img/6b87cbb35a30.png",
+  "link": null,
+  "created": "2026-10-15T17:02:52+00:00"
+ },
+ {
+  "id": "1047f829976b",
+  "type": "News",
+  "text": "📰 NEWS\n\n🏒 Das Edmonton Journal stellt in seiner Mailbag-Kolumne die Frage: Wie tief würden die Oilers eigentlich sinken, um den Stanley Cup zu holen? 🤔 Eine spannende Frage, über die man als Fan sicher ewig diskutieren kann. Wo zieht ihr die Grenze? 🏆 #Oilers #LetsGoOilers #StanleyCup\n\nQuelle: https://news.google.com/rss/articles/CBMipwFBVV95cUxQMFNESUhKbkFVbUtBRzMzVF90em5kYUJ1b3J1RDhkS3BCZnZaS3RsaVBPb2lhZ1ZGcWlZS3pqY3JESWFpQjUzdW0wN1Q2V19vanBmcXRWTGEtMEE4U2d4N1Bic2JpbkFmeTVmN2ZNcGY2aF84OUFTdXlXM3lOSkRQQ2dTNkloaWFUa1BPVFFhNEQ2bkZjYzZ5cHJRdkVrREl0WUVMdm51WQ?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMFNESUhKbkFVbUtBRzMzVF90em5kYUJ1b3J1RDhkS3BCZnZaS3RsaVBPb2lhZ1ZGcWlZS3pqY3JESWFpQjUzdW0wN1Q2V19vanBmcXRWTGEtMEE4U2d4N1Bic2JpbkFmeTVmN2ZNcGY2aF84OUFTdXlXM3lOSkRQQ2dTNkloaWFUa1BPVFFhNEQ2bkZjYzZ5cHJRdkVrREl0WUVMdm51WQ?oc=5",
+  "created": "2026-10-15T17:02:58+00:00"
+ },
+ {
   "id": "a4f75e17ffb5",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\n🏒 Fun Fact der Woche: Alex Formenton hat in dieser Saison in 6 Spielen 3 Punkte gesammelt, mit 1 Tor und 2 Vorlagen! 🔥 Jeder Scorer zählt, und wir freuen uns auf die nächsten Spiele! 💙🧡\n\n#Oilers #LetsGoOilers #FormentonFact",
@@ -468,21 +484,5 @@
   "image": null,
   "link": null,
   "created": "2026-10-10T07:22:39+00:00"
- },
- {
-  "id": "939cf527bd6c",
-  "type": "Fact",
-  "text": "🔥 Fun Fact: Vasily Podkolzin hat in dieser Saison erst 4 Spiele gebraucht, um 4 Tore zu erzielen! Dazu kommen 2 Vorlagen, macht insgesamt 6 Punkte. Jedes Spiel ein Treffer im Schnitt, und das ist einfach stark! 🙌\n\n#Oilers #LetsGoOilers #Podkolzin",
-  "image": "img/5c57d34b21cf.png",
-  "link": null,
-  "created": "2026-10-10T07:22:41+00:00"
- },
- {
-  "id": "998a01912dbe",
-  "type": "Tabelle",
-  "text": "Oilers-Update! 🛢️🔥 Nach 4 Spielen stehen 7 Punkte auf dem Konto: 3 Siege, 0 reguläre Niederlagen und 1 OT-Niederlage. Damit sind wir Zweiter in der Pacific Division und Zweiter in der Western Conference. Dazu kommt eine Siegesserie von 3 Spielen in Folge! Weiter so, Jungs! 💙🧡\n\n#Oilers #LetsGoOilers #NHL",
-  "image": null,
-  "link": null,
-  "created": "2026-10-10T07:22:43+00:00"
  }
 ]
