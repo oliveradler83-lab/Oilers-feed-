@@ -1,5 +1,37 @@
 [
  {
+  "id": "b8d458cdbdb2",
+  "type": "Spiel",
+  "text": "🏒 SPIELBERICHT\n\nSchade, Leute! 🏒 Die Oilers verlieren zuhause gegen die Utah Mammoth mit 2:4. Kopf hoch, wir stehen trotzdem hinter unseren Jungs! Nächstes Spiel wird wieder besser. 💙🧡 #Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-10-16T07:11:47+00:00"
+ },
+ {
+  "id": "b6b9f2f06f9b",
+  "type": "Vorschau",
+  "text": "🔜 SPIELVORSCHAU\n\nEs ist so weit! 🔥 Am 18.10. geht's für die Oilers auswärts gegen die Utah Mammoth ins Delta Center. Anpfiff ist um 04:00 Uhr deutscher Zeit. Ja, das ist früh, aber dafür gibt's Vorfreude pur! Wecker stellen, Snacks bereitlegen und ab auf die Couch. Lasst uns gemeinsam mitfiebern und zeigen, dass Oilers-Fans überall dabei sind! 🏒 Let's go, Oilers! #Oilers #LetsGoOilers #Mammoth",
+  "image": null,
+  "link": null,
+  "created": "2026-10-16T07:11:50+00:00"
+ },
+ {
+  "id": "175dabb59acb",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans! 🤩 Alex Formenton hat in dieser Saison bisher 6 Spiele absolviert und dabei 1 Tor und 2 Vorlagen gesammelt. Das macht 3 Punkte. Wie gefällt euch sein Start? 🔥\n\n#Oilers #LetsGoOilers #Formenton",
+  "image": "img/d021769d1151.png",
+  "link": null,
+  "created": "2026-10-16T07:11:52+00:00"
+ },
+ {
+  "id": "b238317b1f6f",
+  "type": "Tabelle",
+  "text": "📊 TABELLE\n\nTabellen-Update! 📊 Die Oilers stehen nach 7 Spielen bei 5 Siegen, 1 Niederlage nach regulärer Spielzeit und 1 OT-Niederlage, macht 11 Punkte! 🔥 Damit sind wir Zweiter in der Pacific Division und Dritter in der Western Conference. Aktuell gibt's eine Niederlage in Folge, aber die Richtung stimmt! 💙 #Oilers #LetsGoOilers #Tabelle",
+  "image": null,
+  "link": null,
+  "created": "2026-10-16T07:11:55+00:00"
+ },
+ {
   "id": "c6920510e771",
   "type": "Quiz",
   "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Punkte bei den Oilers in dieser Saison?\n\nA) Ryan Shea\nB) Connor McDavid\nC) Evan Bouchard\nD) Kasperi Kapanen\n\nAntwort in den Kanal-Reaktionen! 👇",
@@ -452,37 +484,5 @@
   "image": "img/a0ea9f702ee5.png",
   "link": null,
   "created": "2026-10-10T07:32:58+00:00"
- },
- {
-  "id": "1ecdf784d129",
-  "type": "News",
-  "text": "📰 NEWS\n\nNeuer Oiler direkt in die 2. Reihe befördert! 🔥 Dazu bekommt der Goalie, der gerade unter Druck steht, die Chance auf den Start. Mal sehen, was er daraus macht! 🏒\n\n#Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMivwFBVV95cUxONThLa3oya2xpbnZKYUpKb3NMNmxEaGZRdXk5NUktck1CZ3BBeW9KZGgycDA5LVhpQ0xXTW5Vc3NhN1NMN0ZNbjZnUW5yTVg5MGZPWXRMMUZhajczSUJKclBvREljcEU1M19oT0RscmFjN1pLVVZXMUhwQnJZTG9VR1NDT3RHYkVaRHJBRHZZSF9EdU9kelB1MlJucEVxYkgzdGUwSzJKSkFXSUhxSlBZV3k5UnJpTElERHpVVkVNUQ?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONThLa3oya2xpbnZKYUpKb3NMNmxEaGZRdXk5NUktck1CZ3BBeW9KZGgycDA5LVhpQ0xXTW5Vc3NhN1NMN0ZNbjZnUW5yTVg5MGZPWXRMMUZhajczSUJKclBvREljcEU1M19oT0RscmFjN1pLVVZXMUhwQnJZTG9VR1NDT3RHYkVaRHJBRHZZSF9EdU9kelB1MlJucEVxYkgzdGUwSzJKSkFXSUhxSlBZV3k5UnJpTElERHpVVkVNUQ?oc=5",
-  "created": "2026-10-10T07:33:05+00:00"
- },
- {
-  "id": "884e9c04290d",
-  "type": "News",
-  "text": "📰 NEWS\n\n🏒 Heute Abend geht's für die Oilers auf Eis bei den San Jose Sharks! Wer nichts verpassen will, schaut bei Yahoo Sports vorbei: Dort gibt's Live-Updates, Statistiken und den Spielverlauf Schritt für Schritt. Let's go, Oilers! 🔥\n\n#Oilers #LetsGoOilers #SanJoseSharks\n\nQuelle: https://news.google.com/rss/articles/CBMifEFVX3lxTE9LRGNWMjRqX2wwcEVoSmQ0QVdUT3hON0tPMzRTcTM2Y2J1RXBvcDdCX2p4Y0o1bUdUM2hfb0ZqNUxMNEpicWtQNWRqNEpCTnl6LTNLSVNnUUwtRWZCVk1kc25yQW1nZVU5RHlMbzhLRjFjanBFNXFYRUQxNlY?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LRGNWMjRqX2wwcEVoSmQ0QVdUT3hON0tPMzRTcTM2Y2J1RXBvcDdCX2p4Y0o1bUdUM2hfb0ZqNUxMNEpicWtQNWRqNEpCTnl6LTNLSVNnUUwtRWZCVk1kc25yQW1nZVU5RHlMbzhLRjFjanBFNXFYRUQxNlY?oc=5",
-  "created": "2026-10-10T07:33:05+00:00"
- },
- {
-  "id": "26368612a823",
-  "type": "Spiel",
-  "text": "Oilers-Fans, was für ein Abend! 🔥 Die Oilers gewinnen zuhause gegen die Seattle Kraken mit 3:1! Das ist genau der Start, den wir uns gewünscht haben. Stark gespielt, Edmonton! 🧡💙 Wie habt ihr das Spiel erlebt? Schreibt's in die Kommentare!\n\n#Oilers #LetsGoOilers #Edmonton",
-  "image": null,
-  "link": null,
-  "created": "2026-10-10T07:22:36+00:00"
- },
- {
-  "id": "e1c28f45330a",
-  "type": "Spiel",
-  "text": "Oilers-Fans, was für ein Auswärtssieg! 🔥 Die Edmonton Oilers haben die Anaheim Ducks am 07.10.2026 mit 5:2 besiegt. Ein starkes Ergebnis auf fremdem Eis, das Lust auf mehr macht! 🏒 Weiter so, Jungs! 💙🧡\n\n#Oilers #LetsGoOilers #NHL",
-  "image": null,
-  "link": null,
-  "created": "2026-10-10T07:22:36+00:00"
  }
 ]
