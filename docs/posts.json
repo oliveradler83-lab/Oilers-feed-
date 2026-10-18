@@ -1,5 +1,45 @@
 [
  {
+  "id": "7b049c365007",
+  "type": "Spiel",
+  "text": "🏒 SPIELBERICHT\n\nOilers-Sieg! 🔥 Am 17.10.2026 haben unsere Jungs auswärts gegen die Utah Mammoth mit 6:2 gewonnen. Was für ein starkes Ergebnis auf fremdem Eis! 🏒 Weiter so, Oilers! 💙🧡\n\n#Oilers #LetsGoOilers #EdmontonOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-10-18T11:08:21+00:00"
+ },
+ {
+  "id": "8930971981e2",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nConnor McDavid ist on fire! 🔥 In gerade mal 8 Spielen stehen schon 6 Tore und 17 Vorlagen zu Buche, also starke 23 Punkte! Wer hat den Assist-König heute schon gefeiert? 🙌 #Oilers #LetsGoOilers #McDavid",
+  "image": "img/a0ea9f702ee5.png",
+  "link": null,
+  "created": "2026-10-18T11:08:26+00:00"
+ },
+ {
+  "id": "0d7956d5b494",
+  "type": "Tabelle",
+  "text": "📊 TABELLE\n\n📊 Tabellen-Update! Die Oilers haben 8 Spiele absolviert: 6 Siege, 1 Niederlage und 1 OT-Niederlage. Das sind 13 Punkte, Platz 2 in der Pacific Division und Platz 2 in der Western Conference! 🏒 Aktuell läuft's: 1 Sieg in Folge. Let's go Oilers! 🔥 #Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-10-18T11:08:29+00:00"
+ },
+ {
+  "id": "3128b0344260",
+  "type": "News",
+  "text": "📰 NEWS\n\n🔥 Oilers-Takeaways sind da: Connor McDavid war der Anführer beim klaren Sieg gegen die Mammoth! Die Mannschaft hat die Mammoth regelrecht auseinandergenommen. Wer's noch nicht gelesen hat, schaut bei Sportsnet.ca vorbei. 🏒\n\n#Oilers #LetsGoOilers #McDavid\n\nQuelle: https://news.google.com/rss/articles/CBMioAFBVV95cUxOeTJlOEhOVVhkdzV1UTY2Q3BOWGlJaC0wZmpCN19Pa1RxZU5MeHU5VWFqNlNfSVVWbDlhbzE4a29oNUZLQy1SU3FkdkItTjd2TTVvMFRCSWFHQnNQbnh5MnBfd1NOYm9BdUJJZkNaeTd0bVNtUHdOOFgxNXBsenR5VmVwNm9seWs1UTAwZEZ4RUtWN0tOdVdIazEzTVl6WGx6?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeTJlOEhOVVhkdzV1UTY2Q3BOWGlJaC0wZmpCN19Pa1RxZU5MeHU5VWFqNlNfSVVWbDlhbzE4a29oNUZLQy1SU3FkdkItTjd2TTVvMFRCSWFHQnNQbnh5MnBfd1NOYm9BdUJJZkNaeTd0bVNtUHdOOFgxNXBsenR5VmVwNm9seWs1UTAwZEZ4RUtWN0tOdVdIazEzTVl6WGx6?oc=5",
+  "created": "2026-10-18T11:08:35+00:00"
+ },
+ {
+  "id": "16245641c500",
+  "type": "News",
+  "text": "📰 NEWS\n\nOilers mit 5 Auswärtssiegen in Serie! 🔥 Beim Rückspiel gegen Utah haben sie erneut bewiesen, dass sie auf fremdem Eis richtig stark sind. Die Road-Warriors sind gerade kaum zu stoppen. Weiter so, Jungs! 🏒💙 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMigwFBVV95cUxPS01TcHJfVGxvLUlwTmsxVEFHTlVvdmM4VFgyNjFKVmJCaTd0Q0ZiSkxCWGhDcjBVQVNOY1FndC1Oc3pBbVMwcHFDM1ctclRHRklxaG5HLXM4ZTBLQlEzcjBOQUZHdngycUZfd1J0MlRaVThsUGlzZkhMcUpuWGFZR2hycw?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS01TcHJfVGxvLUlwTmsxVEFHTlVvdmM4VFgyNjFKVmJCaTd0Q0ZiSkxCWGhDcjBVQVNOY1FndC1Oc3pBbVMwcHFDM1ctclRHRklxaG5HLXM4ZTBLQlEzcjBOQUZHdngycUZfd1J0MlRaVThsUGlzZkhMcUpuWGFZR2hycw?oc=5",
+  "created": "2026-10-18T11:08:35+00:00"
+ },
+ {
   "id": "b40206dfcae8",
   "type": "Vorschau",
   "text": "🔜 SPIELVORSCHAU\n\nEs ist so weit! 🔥 Am 21.10.2026 um 03:00 Uhr (deutsche Zeit) steigt das nächste Heimspiel: Oilers gegen Minnesota Wild in der Rogers Place! Wecker stellen, Oilers-Trikot an und ab 3 Uhr morgens mitfiebern, jeder Schrei zählt! 🏒 Lasst uns gemeinsam die Halle zum Beben bringen. Wer ist dabei?\n\n#Oilers #LetsGoOilers #RogersPlace",
@@ -444,45 +484,5 @@
   "image": null,
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU041V2Z1SGZEeUNOaUFLdGVuZVJjNzZCOUY3NWtMSVZVT3pPenpjbVJlLWpRNkt2OWVHbS1TRHhyQ1VDbHJZSFhjZk5jNDB6MW5OVExjQWdBVkZzdFhVOGpvdXFCUmJZZFZfTm1UT0ZuTmlOdzdwdzNtY2RvTE42cGNmYmIySVJtNnJnandNLUdaLTZENklkLUp1Q0hxOVlqVnRyMXZFWVRzR3JVWWNpV1hwRGZNVGpOeU0tdDhOMlpZdw?oc=5",
   "created": "2026-10-13T06:48:41+00:00"
- },
- {
-  "id": "99d53bb518d4",
-  "type": "News",
-  "text": "📰 NEWS\n\n🏒 Die Oilers sind auf dem Weg zu den Kings! Auf NHL.com gibt's die Vorschau zum Spiel. Schaut rein und stimmt euch schon mal ein! 🔥 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMickFVX3lxTFBvVUtqbVpxNnpmTjRpYjFpaVNMMG1NWkgtUENXLS1PdU1Bb1p1bkVxaUpsYllsNHBMd2diVXFYa2YyUnJRM0YycURVZFZ3U3JaM3BrNWdXNFdZTzRHS3p5SFNsVWNfZjJsSWpMVlhadUk2QQ?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvVUtqbVpxNnpmTjRpYjFpaVNMMG1NWkgtUENXLS1PdU1Bb1p1bkVxaUpsYllsNHBMd2diVXFYa2YyUnJRM0YycURVZFZ3U3JaM3BrNWdXNFdZTzRHS3p5SFNsVWNfZjJsSWpMVlhadUk2QQ?oc=5",
-  "created": "2026-10-13T06:48:41+00:00"
- },
- {
-  "id": "757375cddc6d",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans: Connor McDavid hat in den ersten 5 Spielen dieser Saison schon 13 Punkte gesammelt, mit 3 Toren und 10 Vorlagen! 🔥 Der Kapitän ist einfach eine Maschine. Wer hätte gedacht, dass er so zum Start abliefert? 🏒 Let's go Oilers! 💙🧡\n\n#Oilers #LetsGoOilers #McDavid",
-  "image": "img/a0ea9f702ee5.png",
-  "link": null,
-  "created": "2026-10-12T23:00:18+00:00"
- },
- {
-  "id": "273aefa1d461",
-  "type": "News",
-  "text": "📰 NEWS\n\n🏒 Neues RAW-Video mit Evan Bouchard ist auf NHL.com online! Schaut unbedingt rein, Oilers-Fans. 🔥 Datum: 10.12.26. #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMifkFVX3lxTFBpSkFQVWV1d08xQ2NvdWp0MkFmTTVlR3RhNEs1VXg2V0huRUdXV1dRNEpsaGJTYW1uLW1UN1ZDTjE0ZUYzbXkyZkJMNmJuOTBLVXNpaV94N25xQVhsVVlSWWZKdEdIT3FJMnNMNHZXUkxud1FuWlhCVGNESkN1QQ?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpSkFQVWV1d08xQ2NvdWp0MkFmTTVlR3RhNEs1VXg2V0huRUdXV1dRNEpsaGJTYW1uLW1UN1ZDTjE0ZUYzbXkyZkJMNmJuOTBLVXNpaV94N25xQVhsVVlSWWZKdEdIT3FJMnNMNHZXUkxud1FuWlhCVGNESkN1QQ?oc=5",
-  "created": "2026-10-12T23:00:25+00:00"
- },
- {
-  "id": "a39886f45707",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans! 🔥 Mattias Ekholm hat in dieser Saison bisher 5 Spiele absolviert und dabei 1 Tor und 1 Vorlage beigesteuert, also 2 Punkte insgesamt. Der Schwede zeigt schon jetzt, wie wertvoll er für die Defensive und das Offensivspiel ist! 💙🧡\n\n#Oilers #LetsGoOilers #Ekholm",
-  "image": "img/6b87cbb35a30.png",
-  "link": null,
-  "created": "2026-10-12T15:28:22+00:00"
- },
- {
-  "id": "695ad8b8ccd3",
-  "type": "News",
-  "text": "📰 NEWS\n\nDie Oilers auf dem Trade-Markt? 👀 Oilers Nation stellt im Monday Mailbag die Frage: Haben die Oilers Alex DeBrincat im Blick? Mehr dazu steht im Artikel, also reinschauen und sagen, was ihr davon haltet! 🏒\n\n#Oilers #LetsGoOilers #NHL\n\nQuelle: https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ0p6Sm1fazNLMnVOMll3T1VzV0pneTh2d2N0dTNBMnZyMVBlT1hodzlvQk1yaV9ZNzhRUTRDb2NEUnd4eWpyY1FqTDBvdVk4bVI5QVdqNXI0cVJMLTV5bDJmVGpwcEU0OFZvSlVmX3dVdXFMY0Z4NVZpa3hMS09SVnRkekFERUxkTW1IdXBOWkwxMGFuZUVr?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ0p6Sm1fazNLMnVOMll3T1VzV0pneTh2d2N0dTNBMnZyMVBlT1hodzlvQk1yaV9ZNzhRUTRDb2NEUnd4eWpyY1FqTDBvdVk4bVI5QVdqNXI0cVJMLTV5bDJmVGpwcEU0OFZvSlVmX3dVdXFMY0Z4NVZpa3hMS09SVnRkekFERUxkTW1IdXBOWkwxMGFuZUVr?oc=5",
-  "created": "2026-10-12T15:28:32+00:00"
  }
 ]
