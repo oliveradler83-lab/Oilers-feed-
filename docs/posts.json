@@ -1,5 +1,21 @@
 [
  {
+  "id": "8ed753271527",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact: Leon Draisaitl hat in nur 8 Spielen schon 14 Punkte gesammelt, mit 6 Toren und 8 Vorlagen! 🔥 Jeder Pass zählt, und Leon liefert. Wer feiert heute mit uns? 🏒\n\n#Oilers #LetsGoOilers #Draisaitl",
+  "image": "img/16536e777c2d.png",
+  "link": null,
+  "created": "2026-10-18T15:53:25+00:00"
+ },
+ {
+  "id": "ca7b8df2d4bf",
+  "type": "News",
+  "text": "📰 NEWS\n\nDie Oilers haben die Antwort geliefert! 🔥 Nach \"The Day After 8.0\" kam die Reaktion im Sieg gegen die Mammoth, und die war richtig stark. Genau so will man seine Jungs sehen! 💙🧡 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMilgFBVV95cUxNNWxvM05HdVRwdGZ2RkE1QXdSdXo2WmxMSkVwcjN1NUpSWVVNN1JFalUtc184ck1ISF9DakpKZE5IOXNtTXFrblN4bzdUSUs1Q1l1cDR3ZTRJX1p5a3FjQjgwSXZXVmo1ekVVYm9DQnVlVERSRHowX1lndWFXS2J5VkZsallsYURISEdkT2U5VGJTT0VxbFE?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNWxvM05HdVRwdGZ2RkE1QXdSdXo2WmxMSkVwcjN1NUpSWVVNN1JFalUtc184ck1ISF9DakpKZE5IOXNtTXFrblN4bzdUSUs1Q1l1cDR3ZTRJX1p5a3FjQjgwSXZXVmo1ekVVYm9DQnVlVERSRHowX1lndWFXS2J5VkZsallsYURISEdkT2U5VGJTT0VxbFE?oc=5",
+  "created": "2026-10-18T15:53:31+00:00"
+ },
+ {
   "id": "7b049c365007",
   "type": "Spiel",
   "text": "🏒 SPIELBERICHT\n\nOilers-Sieg! 🔥 Am 17.10.2026 haben unsere Jungs auswärts gegen die Utah Mammoth mit 6:2 gewonnen. Was für ein starkes Ergebnis auf fremdem Eis! 🏒 Weiter so, Oilers! 💙🧡\n\n#Oilers #LetsGoOilers #EdmontonOilers",
@@ -468,21 +484,5 @@
   "image": null,
   "link": null,
   "created": "2026-10-13T06:48:29+00:00"
- },
- {
-  "id": "b1a27ea59aeb",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\n🏒 Fun Fact der Woche: Ryan Shea hat in dieser Saison schon 5 Spiele absolviert und dabei 3 Punkte gesammelt: 1 Tor und 2 Vorlagen! 🔥 Wer hätte gedacht, dass er so zum Scorer wird? Weiter so, Shea! 💙🧡\n\n#Oilers #LetsGoOilers #RyanShea",
-  "image": "img/54414cf1f3b1.png",
-  "link": null,
-  "created": "2026-10-13T06:48:32+00:00"
- },
- {
-  "id": "661732f90694",
-  "type": "News",
-  "text": "📰 NEWS\n\n🔥 Ein Power Forward der Edmonton Oilers wurde einst mit Oilers-Legende Mark Messier verglichen! Laut Edmonton Journal gilt er als vielversprechendster Power Forward des Teams. Ein Messier-Vergleich sagt schon einiges über das Potenzial aus! 🏒 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU041V2Z1SGZEeUNOaUFLdGVuZVJjNzZCOUY3NWtMSVZVT3pPenpjbVJlLWpRNkt2OWVHbS1TRHhyQ1VDbHJZSFhjZk5jNDB6MW5OVExjQWdBVkZzdFhVOGpvdXFCUmJZZFZfTm1UT0ZuTmlOdzdwdzNtY2RvTE42cGNmYmIySVJtNnJnandNLUdaLTZENklkLUp1Q0hxOVlqVnRyMXZFWVRzR3JVWWNpV1hwRGZNVGpOeU0tdDhOMlpZdw?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU041V2Z1SGZEeUNOaUFLdGVuZVJjNzZCOUY3NWtMSVZVT3pPenpjbVJlLWpRNkt2OWVHbS1TRHhyQ1VDbHJZSFhjZk5jNDB6MW5OVExjQWdBVkZzdFhVOGpvdXFCUmJZZFZfTm1UT0ZuTmlOdzdwdzNtY2RvTE42cGNmYmIySVJtNnJnandNLUdaLTZENklkLUp1Q0hxOVlqVnRyMXZFWVRzR3JVWWNpV1hwRGZNVGpOeU0tdDhOMlpZdw?oc=5",
-  "created": "2026-10-13T06:48:41+00:00"
  }
 ]
