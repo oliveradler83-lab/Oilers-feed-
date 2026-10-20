@@ -1,5 +1,38 @@
 [
  {
+  "id": "4c13aa124022",
+  "type": "Quiz",
+  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Tore bei den Oilers in dieser Saison?\n\nA) Kasperi Kapanen\nB) Connor McDavid\nC) Vasily Podkolzin\nD) Leon Draisaitl\n\nAntwort in den Kanal-Reaktionen! 👇",
+  "answer": "✅ Auflösung: C) Vasily Podkolzin mit 7! 🔥\n#Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-10-20T04:53:23+00:00"
+ },
+ {
+  "id": "99e00dd53889",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun-Fact-Time! 🏒 Kasperi Kapanen hat in dieser Saison bisher 8 Spiele absolviert und dabei 3 Tore erzielt sowie 1 Vorlage gegeben. Das macht starke 4 Punkte! Wer hätte gedacht, dass er so direkt für Torgefahr sorgt? Weiter so, Kappy! 🔥\n\n#Oilers #LetsGoOilers #Kapanen",
+  "image": "img/19c80e79b691.png",
+  "link": null,
+  "created": "2026-10-20T04:53:24+00:00"
+ },
+ {
+  "id": "17340703f86b",
+  "type": "News",
+  "text": "📰 NEWS\n\n🏒 Gute Nachricht für alle Oilers-Fans: Coach Babcock denkt nicht daran, McDavid und Draisaitl zu trennen, solange das Team gewinnt. Das Duo bleibt also zusammen auf dem Eis, und das ist genau das, was wir sehen wollen! 🔥\n\n#Oilers #LetsGoOilers #McDavid\n\nQuelle: https://news.google.com/rss/articles/CBMikAFBVV95cUxQLUhWRm5yd2RXTHBnUmR3QzhWSDRNay02RlRLRTdyQWZ0M2c4RjZiQXNtSjVaTzI2WHc2LVlRYVduN2IyMXFZRTdGWVRZbE1pTGZEU3JrMUlTTEQyTS1UNmV6SWlJd28tMTBPR3I4TllOMkg2QlZQa0RsVHMwcHpKTTBJTlh5TnpIWUh2UnpySW4?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLUhWRm5yd2RXTHBnUmR3QzhWSDRNay02RlRLRTdyQWZ0M2c4RjZiQXNtSjVaTzI2WHc2LVlRYVduN2IyMXFZRTdGWVRZbE1pTGZEU3JrMUlTTEQyTS1UNmV6SWlJd28tMTBPR3I4TllOMkg2QlZQa0RsVHMwcHpKTTBJTlh5TnpIWUh2UnpySW4?oc=5",
+  "created": "2026-10-20T04:53:33+00:00"
+ },
+ {
+  "id": "d87e10f6a639",
+  "type": "News",
+  "text": "📰 NEWS\n\nMcDavid sagt: Er kann noch mehr! 🔥 Trotz eines rekordverdächtigen Saisonstarts sieht er bei sich selbst noch Luft nach oben. Wenn er schon so abliefert, wird's richtig spannend! 🏒 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMipwFBVV95cUxQVThDaXNmQ1VhN2JucEg1Yi1jZWo4MHBWSUMzcGpZS2psNFc3dXdsemR3MXl2TExxZ0dmalhmOTZscDdNamJ4WS1ZamVhbHVfSzgyWlFaYmVpMXBPZGVRQVM5VmVQaDA3U2M3SHpfakVjQk5pdGZEU3VVcWI3VEFCNmhmczZZOVoyV09QZjlRR0RQYlVnTlRvb2wwME8zYzg5ZFdJa2Jpaw?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVThDaXNmQ1VhN2JucEg1Yi1jZWo4MHBWSUMzcGpZS2psNFc3dXdsemR3MXl2TExxZ0dmalhmOTZscDdNamJ4WS1ZamVhbHVfSzgyWlFaYmVpMXBPZGVRQVM5VmVQaDA3U2M3SHpfakVjQk5pdGZEU3VVcWI3VEFCNmhmczZZOVoyV09QZjlRR0RQYlVnTlRvb2wwME8zYzg5ZFdJa2Jpaw?oc=5",
+  "created": "2026-10-20T04:53:33+00:00"
+ },
+ {
   "id": "6b47b9ff35d7",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans: Mattias Ekholm hat in dieser Saison schon 8 Spiele absolviert und dabei 3 Punkte gesammelt, mit 1 Tor und 2 Vorlagen! 🔥🏒 Starter für die Defense! 💙🧡\n\n#Oilers #LetsGoOilers #Ekholm",
@@ -451,38 +484,5 @@
   "image": "img/6b87cbb35a30.png",
   "link": null,
   "created": "2026-10-14T07:39:54+00:00"
- },
- {
-  "id": "5e270145ac31",
-  "type": "Tabelle",
-  "text": "📊 TABELLE\n\nDie Oilers räumen ab! 🔥 5 Siege, nur 1 Niederlage nach Verlängerung aus 6 Spielen, das macht 11 Punkte! Platz 2 in der Pacific Division und Platz 2 in der Western Conference. Dazu der Lauf: 5 Siege in Serie! 🏒 Let's go, Oilers Nation! #Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-10-14T07:39:57+00:00"
- },
- {
-  "id": "830df553236f",
-  "type": "News",
-  "text": "📰 NEWS\n\n🏒🔥 McDavid war an diesem Abend der Unterschied! Die Oilers haben die Kings geschlagen, und Connor hat dabei richtig groß aufgespielt. Starke Leistung, Jungs! 💙🧡\n\n#Oilers #LetsGoOilers #McDavid\n\nQuelle: https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTExaEgzMnNPNWNiZHRJN0owam5fY3dYalVJSHlycjUzeHlla3JBUkpRVEVnbWFTQjcwak5aUWc1YmNzYmlsVUU5TU9jVjVKWUpHdk9EWThKTENueHBQbXhqUThJTV9EWE83Q1lBTHp1RDZVTC05NldWc1MxMjZiOHFlMEpUME0?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTExaEgzMnNPNWNiZHRJN0owam5fY3dYalVJSHlycjUzeHlla3JBUkpRVEVnbWFTQjcwak5aUWc1YmNzYmlsVUU5TU9jVjVKWUpHdk9EWThKTENueHBQbXhqUThJTV9EWE83Q1lBTHp1RDZVTC05NldWc1MxMjZiOHFlMEpUME0?oc=5",
-  "created": "2026-10-14T07:40:02+00:00"
- },
- {
-  "id": "986ee96b7849",
-  "type": "News",
-  "text": "📰 NEWS\n\n🏒 Heute geht's gegen die Kings, und NHL.com hat die Live-Updates zum Spiel! Wer gerade nicht vor dem Bildschirm sitzt, kann hier den Stand verfolgen. Let's go, Oilers! 🔥\n\n#Oilers #LetsGoOilers #NHL\n\nQuelle: https://news.google.com/rss/articles/CBMibEFVX3lxTE5uLUtNYVlsYWRtejBQRzZZTzdaaDA1enE0NDNMbElpRkZpd1BEaDRLR2xqMmFTNDlOTnB1NS1GQUczTFM3aWNkRmhJU1huWmFJUDZFblo2ZlhpREctNTd3SGMwbzBwVEhjQkhiVA?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uLUtNYVlsYWRtejBQRzZZTzdaaDA1enE0NDNMbElpRkZpd1BEaDRLR2xqMmFTNDlOTnB1NS1GQUczTFM3aWNkRmhJU1huWmFJUDZFblo2ZlhpREctNTd3SGMwbzBwVEhjQkhiVA?oc=5",
-  "created": "2026-10-14T07:40:02+00:00"
- },
- {
-  "id": "f328f5157d4b",
-  "type": "Quiz",
-  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Vorlagen bei den Oilers in dieser Saison?\n\nA) Leon Draisaitl\nB) Evan Bouchard\nC) Ryan Shea\nD) Connor McDavid\n\nAntwort in den Kanal-Reaktionen! 👇",
-  "answer": "✅ Auflösung: D) Connor McDavid mit 10! 🔥\n#Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-10-14T01:13:56+00:00"
  }
 ]
