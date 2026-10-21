@@ -1,5 +1,21 @@
 [
  {
+  "id": "c7b766ede8bd",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\n🏒 Fun Fact: Leon Draisaitl hat in 9 Spielen genau 8 Tore und 8 Vorlagen gesammelt. Das sind 16 Punkte, und jede Tor- und Vorlagenbeteiligung hat ein Stück dazu beigetragen. Wer hat da mehr Lust auf das nächste Spiel? 🔥\n\n#Oilers #LetsGoOilers #Draisaitl",
+  "image": "img/16536e777c2d.png",
+  "link": null,
+  "created": "2026-10-21T13:49:33+00:00"
+ },
+ {
+  "id": "822b76e76109",
+  "type": "News",
+  "text": "📰 NEWS\n\n🏒🔥 Krasse Nachricht für alle Oilers-Fans: Connor McDavid hat in den ersten neun Spielen einen neuen NHL-Rekord bei den Assists aufgestellt! Was für ein Start, Connor! 🙌 Wir sind richtig stolz auf unseren Captain. 💙🧡\n\n#Oilers #LetsGoOilers #McDavid\n\nQuelle: https://news.google.com/rss/articles/CBMisgFBVV95cUxNODZkYzNRenR2Mzc1NHVoM202QnhHcTBhMUVRbnZ2OVNSX1E3NS1JX0Rld0N5Y0M5RzdscVMyaTZTYzh2X1ZBMzRlNmlsRXMzaGs1ZmVRT3A0LVpSaXIwY1pTc2xEX2pBZktyVy1jbTZPeV9DZVUwNGtHODFTSzd5d3BIVG5hMlNYNGJ5cHZBVWk5SVVnbzZiUlljY3hyWmp1dDVHWXRYTXMtTVFhcmstQV9n?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNODZkYzNRenR2Mzc1NHVoM202QnhHcTBhMUVRbnZ2OVNSX1E3NS1JX0Rld0N5Y0M5RzdscVMyaTZTYzh2X1ZBMzRlNmlsRXMzaGs1ZmVRT3A0LVpSaXIwY1pTc2xEX2pBZktyVy1jbTZPeV9DZVUwNGtHODFTSzd5d3BIVG5hMlNYNGJ5cHZBVWk5SVVnbzZiUlljY3hyWmp1dDVHWXRYTXMtTVFhcmstQV9n?oc=5",
+  "created": "2026-10-21T13:49:40+00:00"
+ },
+ {
   "id": "d0b0d2262e43",
   "type": "Spiel",
   "text": "🏒 SPIELBERICHT\n\n🏒🔥 Oilers gewinnen zuhause gegen die Minnesota Wild mit 4:3! Das Spiel ging nach Verlängerung bzw. Shootout aus, also richtig spannend bis zum Schluss! Was für ein Sieg vor unseren Fans in Edmonton! 🙌 Wir freuen uns auf das nächste Spiel!\n\n#Oilers #LetsGoOilers #Edmonton",
@@ -467,22 +483,5 @@
   "image": "img/d021769d1151.png",
   "link": null,
   "created": "2026-10-16T07:11:52+00:00"
- },
- {
-  "id": "b238317b1f6f",
-  "type": "Tabelle",
-  "text": "📊 TABELLE\n\nTabellen-Update! 📊 Die Oilers stehen nach 7 Spielen bei 5 Siegen, 1 Niederlage nach regulärer Spielzeit und 1 OT-Niederlage, macht 11 Punkte! 🔥 Damit sind wir Zweiter in der Pacific Division und Dritter in der Western Conference. Aktuell gibt's eine Niederlage in Folge, aber die Richtung stimmt! 💙 #Oilers #LetsGoOilers #Tabelle",
-  "image": null,
-  "link": null,
-  "created": "2026-10-16T07:11:55+00:00"
- },
- {
-  "id": "c6920510e771",
-  "type": "Quiz",
-  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Punkte bei den Oilers in dieser Saison?\n\nA) Ryan Shea\nB) Connor McDavid\nC) Evan Bouchard\nD) Kasperi Kapanen\n\nAntwort in den Kanal-Reaktionen! 👇",
-  "answer": "✅ Auflösung: B) Connor McDavid mit 17! 🔥\n#Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-10-16T00:25:39+00:00"
  }
 ]
