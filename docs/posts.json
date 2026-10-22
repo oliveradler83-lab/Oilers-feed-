@@ -1,5 +1,38 @@
 [
  {
+  "id": "a21fb956fae0",
+  "type": "Quiz",
+  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Punkte bei den Oilers in dieser Saison?\n\nA) Kasperi Kapanen\nB) Vasily Podkolzin\nC) Connor McDavid\nD) Evan Bouchard\n\nAntwort in den Kanal-Reaktionen! 👇",
+  "answer": "✅ Auflösung: C) Connor McDavid mit 26! 🔥\n#Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-10-22T04:49:40+00:00"
+ },
+ {
+  "id": "80a4a7f4464d",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans! 🔥 Owen Michaels hat in dieser Saison bisher 9 Spiele absolviert und dabei 2 Tore und 2 Vorlagen aufgelegt. Das macht stolze 4 Punkte! 🏒 Wer hätte gedacht, dass er so schnell auf Touren kommt? #Oilers #LetsGoOilers #Owen",
+  "image": "img/a526198459da.png",
+  "link": null,
+  "created": "2026-10-22T04:49:42+00:00"
+ },
+ {
+  "id": "3f4336cb07de",
+  "type": "News",
+  "text": "📰 NEWS\n\nDaily Hive hat 6 Oilers-Spieler aufgelistet, die bisher besser abliefern, als man erwartet hätte! 🙌 Wer dabei ist, steht im Artikel. Lohnt sich, reinzuschauen! 🏒 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMid0FVX3lxTE05XzloNURSU0VBSkNNY2RWNHdSQm1udVY2c05Uc2ZjenJSaktQNU9yRFpwUzNHR09JNXlqblE0a0V6NUJhb2x4WXF1a2xLOHBDclZiQ3ZfQjNNOHBqdU9MWmt1eEVHWEExeVNWaHlrLV9SWXhudkhN?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05XzloNURSU0VBSkNNY2RWNHdSQm1udVY2c05Uc2ZjenJSaktQNU9yRFpwUzNHR09JNXlqblE0a0V6NUJhb2x4WXF1a2xLOHBDclZiQ3ZfQjNNOHBqdU9MWmt1eEVHWEExeVNWaHlrLV9SWXhudkhN?oc=5",
+  "created": "2026-10-22T04:49:52+00:00"
+ },
+ {
+  "id": "c9657e9da2e8",
+  "type": "News",
+  "text": "📰 NEWS\n\nSeit Jahren die große Frage bei den Oilers: Haben wir endlich einen Goalie gefunden? 🥅 Das Edmonton Journal stellt genau diese Frage und schaut, ob die Suche nach all den Jahren endlich ein Ende hat. Wie seht ihr das? Schreibt's in die Kommentare! 🧤\n\n#Oilers #LetsGoOilers #Goalie\n\nQuelle: https://news.google.com/rss/articles/CBMieEFVX3lxTE03QmxyT19sd1hDU196WVJTRnh6WTZJME5JYkZRTXEwbTBWSF9VcldySmlZYkpEMEZhUTEtV0xTYzd4d2tBYXd2R0RZRGxOUzN6NnQ4bl9DOUhUUlVxQWM0eDFST0lYQkNWSlE5Q1pmUkZJY05sSHptMg?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03QmxyT19sd1hDU196WVJTRnh6WTZJME5JYkZRTXEwbTBWSF9VcldySmlZYkpEMEZhUTEtV0xTYzd4d2tBYXd2R0RZRGxOUzN6NnQ4bl9DOUhUUlVxQWM0eDFST0lYQkNWSlE5Q1pmUkZJY05sSHptMg?oc=5",
+  "created": "2026-10-22T04:49:52+00:00"
+ },
+ {
   "id": "c7b766ede8bd",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\n🏒 Fun Fact: Leon Draisaitl hat in 9 Spielen genau 8 Tore und 8 Vorlagen gesammelt. Das sind 16 Punkte, und jede Tor- und Vorlagenbeteiligung hat ein Stück dazu beigetragen. Wer hat da mehr Lust auf das nächste Spiel? 🔥\n\n#Oilers #LetsGoOilers #Draisaitl",
@@ -451,37 +484,5 @@
   "image": null,
   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oeDBYYUdLSGVnc2tTTXNDSE5XWnBuX3cxdUtZNWFTV1ZINXl0YXBiVHNoWFlLa2xsODVPQnVsQ0JCSEFUcTlIZHVpeXMwTFdwM3ExdEVuVHp4WHE4bmJpbDhVdWcxY0kwLW9QdHhKZjc?oc=5",
   "created": "2026-10-16T13:16:33+00:00"
- },
- {
-  "id": "85039a69ba0e",
-  "type": "News",
-  "text": "📰 NEWS\n\nAutsch, Oilers! 🥶 Die Offensive war gegen die Utah Mammoth komplett eingefroren. Laut Edmonton Journal steckt der Angriff gerade in einer richtigen Eiszeit, und am Ende stand eine Niederlage. Kopf hoch, nächstes Spiel wieder Vollgas! 💪 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzg1SWdmUHB5RUFyNzVNT3hpcWJ0X21VVXkxNmpma2FkSHNyejhBOTNkZHBPSExqSERHdXpYTDVfcUViU01pTHRGT013cFc4SndTNTE2QVFuUjYtQV9tMFYwdzl5czRncXI1ZTdVOHFoamJKTTlqQXlkLVRYMEZPY1FBNHRvWVJEYkQxdWsyWVVWdi1mX0htY3BfY0tZZl82V0I4bFpn?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzg1SWdmUHB5RUFyNzVNT3hpcWJ0X21VVXkxNmpma2FkSHNyejhBOTNkZHBPSExqSERHdXpYTDVfcUViU01pTHRGT013cFc4SndTNTE2QVFuUjYtQV9tMFYwdzl5czRncXI1ZTdVOHFoamJKTTlqQXlkLVRYMEZPY1FBNHRvWVJEYkQxdWsyWVVWdi1mX0htY3BfY0tZZl82V0I4bFpn?oc=5",
-  "created": "2026-10-16T13:16:33+00:00"
- },
- {
-  "id": "b8d458cdbdb2",
-  "type": "Spiel",
-  "text": "🏒 SPIELBERICHT\n\nSchade, Leute! 🏒 Die Oilers verlieren zuhause gegen die Utah Mammoth mit 2:4. Kopf hoch, wir stehen trotzdem hinter unseren Jungs! Nächstes Spiel wird wieder besser. 💙🧡 #Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-10-16T07:11:47+00:00"
- },
- {
-  "id": "b6b9f2f06f9b",
-  "type": "Vorschau",
-  "text": "🔜 SPIELVORSCHAU\n\nEs ist so weit! 🔥 Am 18.10. geht's für die Oilers auswärts gegen die Utah Mammoth ins Delta Center. Anpfiff ist um 04:00 Uhr deutscher Zeit. Ja, das ist früh, aber dafür gibt's Vorfreude pur! Wecker stellen, Snacks bereitlegen und ab auf die Couch. Lasst uns gemeinsam mitfiebern und zeigen, dass Oilers-Fans überall dabei sind! 🏒 Let's go, Oilers! #Oilers #LetsGoOilers #Mammoth",
-  "image": null,
-  "link": null,
-  "created": "2026-10-16T07:11:50+00:00"
- },
- {
-  "id": "175dabb59acb",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans! 🤩 Alex Formenton hat in dieser Saison bisher 6 Spiele absolviert und dabei 1 Tor und 2 Vorlagen gesammelt. Das macht 3 Punkte. Wie gefällt euch sein Start? 🔥\n\n#Oilers #LetsGoOilers #Formenton",
-  "image": "img/d021769d1151.png",
-  "link": null,
-  "created": "2026-10-16T07:11:52+00:00"
  }
 ]
