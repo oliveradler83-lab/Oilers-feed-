@@ -1,5 +1,21 @@
 [
  {
+  "id": "2113964fa728",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact: Evan Bouchard hat in dieser Saison schon 19 Punkte aus 10 Spielen gesammelt, dazu 7 Tore und 12 Vorlagen! 🔥 Das ist Offensivpower pur. Wer hätte gedacht, dass unser Verteidiger so zündet? 🏒 #Oilers #LetsGoOilers #Bouchard",
+  "image": "img/ccb4cb73162c.png",
+  "link": null,
+  "created": "2026-10-23T13:28:28+00:00"
+ },
+ {
+  "id": "1598b0073ea1",
+  "type": "News",
+  "text": "📰 NEWS\n\nWahnsinn, Leute! 🔥 McDavid schreibt mal wieder Geschichte, und die Oilers holen sich den Sieg im Shootout! „It's just not real“ trifft es genau. 🏒 Welche Rekorde er diesmal geknackt hat, steht im Artikel. Ein Blick lohnt sich! 🙌 #Oilers #LetsGoOilers #McDavid\n\nQuelle: https://news.google.com/rss/articles/CBMirwFBVV95cUxPS1UwRWNab0JIVkpxaWFGY2J3X2JHVVpWdkhnRFJhYVhOSWFwRkpPdzNnX2RhLUpObXMyX3gtMFphejBfUzg5UEVHRllfbU5kYXU3TXk1TmJ4R0l1UERTVFI5eHFaTmk3MG55ZDJfYUJ6ZXptR2JKVWE0R0FJaUt0X3BFYUszU2pmU1JxeUpGTU92N0tzYkY3M2FGV25pZXdVRnNSeWtMWnlGVkZPMGZV?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS1UwRWNab0JIVkpxaWFGY2J3X2JHVVpWdkhnRFJhYVhOSWFwRkpPdzNnX2RhLUpObXMyX3gtMFphejBfUzg5UEVHRllfbU5kYXU3TXk1TmJ4R0l1UERTVFI5eHFaTmk3MG55ZDJfYUJ6ZXptR2JKVWE0R0FJaUt0X3BFYUszU2pmU1JxeUpGTU92N0tzYkY3M2FGV25pZXdVRnNSeWtMWnlGVkZPMGZV?oc=5",
+  "created": "2026-10-23T13:28:35+00:00"
+ },
+ {
   "id": "470b8c6f2ac4",
   "type": "Spiel",
   "text": "🏒 SPIELBERICHT\n\n🔥 Heimsieg für die Oilers! Mit 6:5 haben wir die Carolina Hurricanes geschlagen. Was für ein Krimi, die Entscheidung fiel erst nach Verlängerung bzw. Shootout! 🙌 Das war am 22.10. echte Nervenschlacht, und genau so lieben wir unsere Oilers. LET'S GO OILERS! 🛢️ #Oilers #LetsGoOilers #NHL",
@@ -468,21 +484,5 @@
   "image": null,
   "link": null,
   "created": "2026-10-18T04:36:17+00:00"
- },
- {
-  "id": "3819aa438dd8",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact für die Oilers-Fans! 🔥 Kasperi Kapanen hat in dieser Saison bisher 7 Spiele absolviert und dabei 2 Tore und 1 Vorlage beigesteuert. Das macht 3 Punkte. Weiter so, Kasperi! 🏒💛\n\n#Oilers #LetsGoOilers #Kapanen",
-  "image": "img/19c80e79b691.png",
-  "link": null,
-  "created": "2026-10-18T04:36:19+00:00"
- },
- {
-  "id": "9196a2215228",
-  "type": "News",
-  "text": "📰 NEWS\n\n🏒 Heute geht's zu den Mammoth! NHL.com hat einen Live-Ticker zum Spiel der Oilers online. Schaut vorbei, um auf dem Laufenden zu bleiben. Let's go, Oilers! 🔥\n\n#Oilers #LetsGoOilers #NHL\n\nQuelle: https://news.google.com/rss/articles/CBMie0FVX3lxTE1aYTJFckswZktmRGxKby1fTktrTV9NcUo5Vy1CcHdhSGNmVVlmVGJzZVQwb2lyanFXM19SMkx4Smk2R2FsT1FqWlJMVkx3TWZhMVpmVzFMUGZnazVFaXFheFdIUFRYWDQ0cVc3cmpJRGhaNUJnTkNyREJ2WQ?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aYTJFckswZktmRGxKby1fTktrTV9NcUo5Vy1CcHdhSGNmVVlmVGJzZVQwb2lyanFXM19SMkx4Smk2R2FsT1FqWlJMVkx3TWZhMVpmVzFMUGZnazVFaXFheFdIUFRYWDQ0cVc3cmpJRGhaNUJnTkNyREJ2WQ?oc=5",
-  "created": "2026-10-18T04:36:28+00:00"
  }
 ]
