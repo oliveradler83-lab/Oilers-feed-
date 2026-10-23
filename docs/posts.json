@@ -1,5 +1,38 @@
 [
  {
+  "id": "c82e451d14a3",
+  "type": "Quiz",
+  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Tore bei den Oilers in dieser Saison?\n\nA) Vasily Podkolzin\nB) Kasperi Kapanen\nC) Leon Draisaitl\nD) Mathieu Joseph\n\nAntwort in den Kanal-Reaktionen! 👇",
+  "answer": "✅ Auflösung: C) Leon Draisaitl mit 8! 🔥\n#Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-10-23T00:41:06+00:00"
+ },
+ {
+  "id": "ece1f69a0216",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact 🤓 Alex Formenton hat in dieser Saison 9 Spiele gemacht und dabei 4 Punkte gesammelt: 1 Tor und 3 Vorlagen! Das heißt, 3 seiner 4 Punkte sind Assists. Der Mann legt also lieber auf, als selbst abzuschließen 🔥 Wer hätte gedacht, dass er so ein Vorlagengeber ist? #Oilers #LetsGoOilers",
+  "image": "img/d021769d1151.png",
+  "link": null,
+  "created": "2026-10-23T00:41:10+00:00"
+ },
+ {
+  "id": "9bfe6468b3f8",
+  "type": "News",
+  "text": "📰 NEWS\n\nGute Nachrichten für die Oilers! 🙌 Nugent-Hopkins ist wieder aktiv und einsatzbereit. Dafür rutscht Dickinson auf die Verletztenliste (IR). Wir drücken ihm die Daumen für eine schnelle Rückkehr! 💙🧡 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMilwFBVV95cUxPSGpEWkdBZ0hFSW00blNDdGhqcm5ybXR3V3F2M1ZJUDZvVzZvbHAwUjJJQktISTZFQUZRbmNfOU1tUGdVNGNwaFVfbTFzdHBuRFN5a1h0SGItX0FYMlBueWlDUnZTLUYxOWVTdWlUZUY5dmJLU3JURjFBSk5oSFYzM3F3T3dsR3lGNWJUU3Z3TUJMUjhIN2Fr?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSGpEWkdBZ0hFSW00blNDdGhqcm5ybXR3V3F2M1ZJUDZvVzZvbHAwUjJJQktISTZFQUZRbmNfOU1tUGdVNGNwaFVfbTFzdHBuRFN5a1h0SGItX0FYMlBueWlDUnZTLUYxOWVTdWlUZUY5dmJLU3JURjFBSk5oSFYzM3F3T3dsR3lGNWJUU3Z3TUJMUjhIN2Fr?oc=5",
+  "created": "2026-10-23T00:41:19+00:00"
+ },
+ {
+  "id": "03229c8230e9",
+  "type": "News",
+  "text": "📰 NEWS\n\nDie Oilers kämpfen gerade mit Verletzungen 🏒 Die New York Times fragt: Wenn das Team wieder gesund ist, welche Änderungen gibt es dann in der Aufstellung? Wir sind gespannt, was kommt! 🔥 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMinAFBVV95cUxQSDFaNmVoSkxGRmt1MnRWN1BsSHFpeEt5RkxwUXM5ekQyZEp4OFNwakhLb0lnWVV5OUczaVJTNHpPTU1mM2ZsampwdmU1V0x5cDZHZTVmV1dTUDI1eXZDRWRMUUlTS1ltc0piUjBCRHZnQVM3dFE1ZjdpU0RBZ1IzRXZ3WGJVdkRIZE9iRlZPT1RkVGZrZ2sxWmdxR2c?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSDFaNmVoSkxGRmt1MnRWN1BsSHFpeEt5RkxwUXM5ekQyZEp4OFNwakhLb0lnWVV5OUczaVJTNHpPTU1mM2ZsampwdmU1V0x5cDZHZTVmV1dTUDI1eXZDRWRMUUlTS1ltc0piUjBCRHZnQVM3dFE1ZjdpU0RBZ1IzRXZ3WGJVdkRIZE9iRlZPT1RkVGZrZ2sxWmdxR2c?oc=5",
+  "created": "2026-10-23T00:41:19+00:00"
+ },
+ {
   "id": "2a4c66f22fb5",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\nFun Fact 🏒: Alex Formenton hat in dieser Saison bisher 9 Spiele gemacht und dabei 4 Punkte gesammelt, 1 Tor und 3 Vorlagen! Die Assists zeigen, dass er ein echter Teamplayer ist. Weiter so, Alex! 🔥 #Oilers #LetsGoOilers #Formenton",
@@ -451,38 +484,5 @@
   "image": null,
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQWNoMFRobkJWR2dFR0FmVU9lUXBOSkRJSnNtRzJiWExNeGJvdTMyM2xDcjBaQmFwWDNqLW9FQ01nWEdIVDhpOTlLVXN5dTZ1dXRoVTZkQkhleFZoaEtsOHBLbTk1eWI1OVZTVk9mbmVSV25lcjFqeDJDbWdybUFVVnp6MnYxckFUdVNwTTZsbmxpLXA4NFZKaWd0R1hTMkNCaE9IX2pCanpZbGRuN3JqUnZMYnZEaDZKdExTUWtYTUpDaUtN?oc=5",
   "created": "2026-10-17T06:59:01+00:00"
- },
- {
-  "id": "682982aa1dbc",
-  "type": "Quiz",
-  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Vorlagen bei den Oilers in dieser Saison?\n\nA) Ryan Shea\nB) Evan Bouchard\nC) Connor McDavid\nD) Leon Draisaitl\n\nAntwort in den Kanal-Reaktionen! 👇",
-  "answer": "✅ Auflösung: C) Connor McDavid mit 14! 🔥\n#Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-10-17T00:30:08+00:00"
- },
- {
-  "id": "056903742714",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\n🔥 Fun Fact: Evan Bouchard hat in dieser Saison erst 7 Spiele gespielt und schon 15 Punkte gesammelt! 6 Tore und 9 Vorlagen, mehr Assists als Treffer. Der Mann ist einfach on fire! 🏒 #Oilers #LetsGoOilers #Bouchard",
-  "image": "img/ccb4cb73162c.png",
-  "link": null,
-  "created": "2026-10-17T00:30:11+00:00"
- },
- {
-  "id": "a6c1f2bf5e5d",
-  "type": "News",
-  "text": "📰 NEWS\n\n🏒 Gute Nachrichten für alle Oilers-Fans! Verstärkung ist unterwegs, und die Topspieler sind am Samstag wieder dabei. Nach den Verletzungen kommt endlich wieder Schwung ins Team. Wir sind gespannt, wie die Jungs zurückkommen! 🔥\n\n#Oilers #LetsGoOilers #Samstag\n\nQuelle: https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSFpBaERLR1cybUdLOFBkMTRvZkZoMTdSMFhoa0hMQXpMR0x2SWdDLUFQZWhjS3B1SnlrcmM0ODhYbDROb1N0V2tpQVhRelpITUV1cmZfWWpyQ2s1WU9xbWM4SmRpTVVSSkhxWjduc2kwZ1ZsWVVlemVjYUh5S3dfQ2VkZ3dYUm5zSEpob3VHNEZpUkZLVE9ibnpHX0cyWTlvc0t1M21QMzVJWmJ5NWNUNWZqell6RWZ4QkVqb3NWOGlrUEVTMzExUUJKLWlFVno5MkNVQU1tSmVNVEdJYVBybw?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSFpBaERLR1cybUdLOFBkMTRvZkZoMTdSMFhoa0hMQXpMR0x2SWdDLUFQZWhjS3B1SnlrcmM0ODhYbDROb1N0V2tpQVhRelpITUV1cmZfWWpyQ2s1WU9xbWM4SmRpTVVSSkhxWjduc2kwZ1ZsWVVlemVjYUh5S3dfQ2VkZ3dYUm5zSEpob3VHNEZpUkZLVE9ibnpHX0cyWTlvc0t1M21QMzVJWmJ5NWNUNWZqell6RWZ4QkVqb3NWOGlrUEVTMzExUUJKLWlFVno5MkNVQU1tSmVNVEdJYVBybw?oc=5",
-  "created": "2026-10-17T00:30:20+00:00"
- },
- {
-  "id": "de931e95276a",
-  "type": "News",
-  "text": "📰 NEWS\n\nGute Nachrichten für die Oilers! 🙌 Laut Daily Hive gibt es bei fünf Spielern positive Updates zu ihren Verletzungen. Die Details, wer genau betroffen ist, findet ihr im Artikel. Das klingt nach Rückenwind für den Kader! 🏒 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMie0FVX3lxTE93S29VVHRXczJOLTc0N19Ha3VaNzVJTDg2Rnpka01aUm5Kd1NsbEhTYm1TUmtyV0U0THVYTElkLThXMlJKUnJ5RkExVEoyRjNTMTg5U3h3emhRX0pva21zTUxsRXc3RFVsejVjWHRZYXEtTGdGc1VmaXVBNA?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93S29VVHRXczJOLTc0N19Ha3VaNzVJTDg2Rnpka01aUm5Kd1NsbEhTYm1TUmtyV0U0THVYTElkLThXMlJKUnJ5RkExVEoyRjNTMTg5U3h3emhRX0pva21zTUxsRXc3RFVsejVjWHRZYXEtTGdGc1VmaXVBNA?oc=5",
-  "created": "2026-10-17T00:30:20+00:00"
  }
 ]
