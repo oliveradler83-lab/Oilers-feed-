@@ -1,5 +1,38 @@
 [
  {
+  "id": "0c8797cfc47f",
+  "type": "Quiz",
+  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Vorlagen bei den Oilers in dieser Saison?\n\nA) Connor McDavid\nB) Vasily Podkolzin\nC) Evan Bouchard\nD) Leon Draisaitl\n\nAntwort in den Kanal-Reaktionen! 👇",
+  "answer": "✅ Auflösung: A) Connor McDavid mit 23! 🔥\n#Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-10-24T04:38:49+00:00"
+ },
+ {
+  "id": "ccd009b51059",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\n🏒🔥 Fun Fact: Evan Bouchard hat in nur 10 Spielen 19 Punkte gesammelt, dazu 7 Tore und 12 Vorlagen! Das ist echte Offensivpower von unserem Verteidiger. Wer hätte gedacht, dass unser Blueliner so viele Scorer-Qualitäten hat? 🙌\n\n#Oilers #LetsGoOilers #Bouchard",
+  "image": "img/ccb4cb73162c.png",
+  "link": null,
+  "created": "2026-10-24T04:38:51+00:00"
+ },
+ {
+  "id": "473b4afedf35",
+  "type": "News",
+  "text": "📰 NEWS\n\n🚨 Kurze Meldung aus Edmonton: Levi wandert auf die Injured Reserve (IR). Dafür wird Tomkins unter Notfallbedingungen zurückgeholt. Details zur Verletzung oder Ausfalldauer gibt es bisher nicht, wir halten euch auf dem Laufenden! 🏒 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDdrc09SR0sySkpTS3ZMZk1tV1M3VWM3UnBRc1VaRmRSOXpqS0lZY05oTE1EN0p6X3VZeV9nY3FZRXlhLTV2TTNNcG5vTlFiNEFGR0xSZnp2bDVVamp1UHM2Tll4Z0RncE92amxWaGJYLXlEaW1keWdiNGQwV1M0cVVHMFc2WnpDb1FpSDQ2bi16QTdFNEZCS3gwckoyOWla?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDdrc09SR0sySkpTS3ZMZk1tV1M3VWM3UnBRc1VaRmRSOXpqS0lZY05oTE1EN0p6X3VZeV9nY3FZRXlhLTV2TTNNcG5vTlFiNEFGR0xSZnp2bDVVamp1UHM2Tll4Z0RncE92amxWaGJYLXlEaW1keWdiNGQwV1M0cVVHMFc2WnpDb1FpSDQ2bi16QTdFNEZCS3gwckoyOWla?oc=5",
+  "created": "2026-10-24T04:39:00+00:00"
+ },
+ {
+  "id": "9e11997029c5",
+  "type": "News",
+  "text": "📰 NEWS\n\nDie Oilers starten richtig stark in die Saison! 🔥 Laut Sportsnet.ca steckt dahinter ein System, das an die Florida Panthers erinnert. Wir sind gespannt, wie lange der Lauf anhält. 🏒 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMinAFBVV95cUxQSnpIZHZPY3dudHFONEN0Y280a3k2NE1tYTE0a3NtbEUxSkM1VFJXVHRVOWhDbXU4NnpTUlR6TC0zWWU4bXRUUER6ekp1V2d2Y2tGUmRKQUF4dXFRVnl4V0JFbWRMWXhoSEFIUGRTRTFWdko4Umo1RjA1bHJCTW04Vkd2eHZpSVAxZW9qN016SFpwQllsRldmMVhMS1c?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSnpIZHZPY3dudHFONEN0Y280a3k2NE1tYTE0a3NtbEUxSkM1VFJXVHRVOWhDbXU4NnpTUlR6TC0zWWU4bXRUUER6ekp1V2d2Y2tGUmRKQUF4dXFRVnl4V0JFbWRMWXhoSEFIUGRTRTFWdko4Umo1RjA1bHJCTW04Vkd2eHZpSVAxZW9qN016SFpwQllsRldmMVhMS1c?oc=5",
+  "created": "2026-10-24T04:39:00+00:00"
+ },
+ {
   "id": "2113964fa728",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\nFun Fact: Evan Bouchard hat in dieser Saison schon 19 Punkte aus 10 Spielen gesammelt, dazu 7 Tore und 12 Vorlagen! 🔥 Das ist Offensivpower pur. Wer hätte gedacht, dass unser Verteidiger so zündet? 🏒 #Oilers #LetsGoOilers #Bouchard",
@@ -451,38 +484,5 @@
   "image": null,
   "link": null,
   "created": "2026-10-18T11:08:29+00:00"
- },
- {
-  "id": "3128b0344260",
-  "type": "News",
-  "text": "📰 NEWS\n\n🔥 Oilers-Takeaways sind da: Connor McDavid war der Anführer beim klaren Sieg gegen die Mammoth! Die Mannschaft hat die Mammoth regelrecht auseinandergenommen. Wer's noch nicht gelesen hat, schaut bei Sportsnet.ca vorbei. 🏒\n\n#Oilers #LetsGoOilers #McDavid\n\nQuelle: https://news.google.com/rss/articles/CBMioAFBVV95cUxOeTJlOEhOVVhkdzV1UTY2Q3BOWGlJaC0wZmpCN19Pa1RxZU5MeHU5VWFqNlNfSVVWbDlhbzE4a29oNUZLQy1SU3FkdkItTjd2TTVvMFRCSWFHQnNQbnh5MnBfd1NOYm9BdUJJZkNaeTd0bVNtUHdOOFgxNXBsenR5VmVwNm9seWs1UTAwZEZ4RUtWN0tOdVdIazEzTVl6WGx6?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeTJlOEhOVVhkdzV1UTY2Q3BOWGlJaC0wZmpCN19Pa1RxZU5MeHU5VWFqNlNfSVVWbDlhbzE4a29oNUZLQy1SU3FkdkItTjd2TTVvMFRCSWFHQnNQbnh5MnBfd1NOYm9BdUJJZkNaeTd0bVNtUHdOOFgxNXBsenR5VmVwNm9seWs1UTAwZEZ4RUtWN0tOdVdIazEzTVl6WGx6?oc=5",
-  "created": "2026-10-18T11:08:35+00:00"
- },
- {
-  "id": "16245641c500",
-  "type": "News",
-  "text": "📰 NEWS\n\nOilers mit 5 Auswärtssiegen in Serie! 🔥 Beim Rückspiel gegen Utah haben sie erneut bewiesen, dass sie auf fremdem Eis richtig stark sind. Die Road-Warriors sind gerade kaum zu stoppen. Weiter so, Jungs! 🏒💙 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMigwFBVV95cUxPS01TcHJfVGxvLUlwTmsxVEFHTlVvdmM4VFgyNjFKVmJCaTd0Q0ZiSkxCWGhDcjBVQVNOY1FndC1Oc3pBbVMwcHFDM1ctclRHRklxaG5HLXM4ZTBLQlEzcjBOQUZHdngycUZfd1J0MlRaVThsUGlzZkhMcUpuWGFZR2hycw?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS01TcHJfVGxvLUlwTmsxVEFHTlVvdmM4VFgyNjFKVmJCaTd0Q0ZiSkxCWGhDcjBVQVNOY1FndC1Oc3pBbVMwcHFDM1ctclRHRklxaG5HLXM4ZTBLQlEzcjBOQUZHdngycUZfd1J0MlRaVThsUGlzZkhMcUpuWGFZR2hycw?oc=5",
-  "created": "2026-10-18T11:08:35+00:00"
- },
- {
-  "id": "b40206dfcae8",
-  "type": "Vorschau",
-  "text": "🔜 SPIELVORSCHAU\n\nEs ist so weit! 🔥 Am 21.10.2026 um 03:00 Uhr (deutsche Zeit) steigt das nächste Heimspiel: Oilers gegen Minnesota Wild in der Rogers Place! Wecker stellen, Oilers-Trikot an und ab 3 Uhr morgens mitfiebern, jeder Schrei zählt! 🏒 Lasst uns gemeinsam die Halle zum Beben bringen. Wer ist dabei?\n\n#Oilers #LetsGoOilers #RogersPlace",
-  "image": null,
-  "link": null,
-  "created": "2026-10-18T04:36:17+00:00"
- },
- {
-  "id": "04353408dc93",
-  "type": "Quiz",
-  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Vorlagen bei den Oilers in dieser Saison?\n\nA) Leon Draisaitl\nB) Ryan Shea\nC) Mathieu Joseph\nD) Connor McDavid\n\nAntwort in den Kanal-Reaktionen! 👇",
-  "answer": "✅ Auflösung: D) Connor McDavid mit 14! 🔥\n#Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-10-18T04:36:17+00:00"
  }
 ]
