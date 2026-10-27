@@ -1,5 +1,21 @@
 [
  {
+  "id": "958d9ef3a3bb",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\n🔥 Fun Fact: Connor McDavid hat in dieser Saison nach 12 Spielen schon 34 Punkte auf dem Konto! Dazu kommen 8 Tore und satte 26 Vorlagen. Das sind fast drei Punkte pro Spiel. Wer braucht da noch Verstärkung? 🏒\n\n#Oilers #LetsGoOilers #McDavid",
+  "image": "img/a0ea9f702ee5.png",
+  "link": null,
+  "created": "2026-10-27T14:32:59+00:00"
+ },
+ {
+  "id": "be81029ccb93",
+  "type": "News",
+  "text": "📰 NEWS\n\nOh nein, Leute! 😬 Oilers-Stürmer Hyman musste im Spiel gegen die Red Wings vom Eis, nachdem er mit dem Kopf gegen die Bande geknallt ist. Mehr Infos dazu gibt's bei TSN. Gute Besserung, Hyman! 🙏💙 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMimAFBVV95cUxQam9OMFFIVDlOUlZJZ1RCNENoT1ZrUG9UaWRqczZveElLZUN1OGZ0SkpkV29PV1RXWE1DY05JZGwwNkItSDVNVDdGYTBYalQwOHlVcU9jbFdqTGdkV2w3cEZkTW14X01MS2xiN3psOWRyWGhuS0Y1NnpPaGFuRk56bUxnSzlEcFBJeDBwazFId3JEVDBVWmQwcA?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQam9OMFFIVDlOUlZJZ1RCNENoT1ZrUG9UaWRqczZveElLZUN1OGZ0SkpkV29PV1RXWE1DY05JZGwwNkItSDVNVDdGYTBYalQwOHlVcU9jbFdqTGdkV2w3cEZkTW14X01MS2xiN3psOWRyWGhuS0Y1NnpPaGFuRk56bUxnSzlEcFBJeDBwazFId3JEVDBVWmQwcA?oc=5",
+  "created": "2026-10-27T14:33:07+00:00"
+ },
+ {
   "id": "cc64905d67cd",
   "type": "Spiel",
   "text": "🏒 SPIELBERICHT\n\nKnappe Niederlage für die Oilers! 🏒 Zuhause gegen die Detroit Red Wings hieß es am 26.10. am Ende 3:4. Die Entscheidung fiel erst nach Verlängerung/Shootout, richtig Krimi! 😤 Kopf hoch, Jungs, die nächste Chance kommt bestimmt. Go Oilers! 💙\n\n#Oilers #LetsGoOilers #NHL",
@@ -468,21 +484,5 @@
   "image": null,
   "link": null,
   "created": "2026-10-22T04:49:40+00:00"
- },
- {
-  "id": "80a4a7f4464d",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans! 🔥 Owen Michaels hat in dieser Saison bisher 9 Spiele absolviert und dabei 2 Tore und 2 Vorlagen aufgelegt. Das macht stolze 4 Punkte! 🏒 Wer hätte gedacht, dass er so schnell auf Touren kommt? #Oilers #LetsGoOilers #Owen",
-  "image": "img/a526198459da.png",
-  "link": null,
-  "created": "2026-10-22T04:49:42+00:00"
- },
- {
-  "id": "3f4336cb07de",
-  "type": "News",
-  "text": "📰 NEWS\n\nDaily Hive hat 6 Oilers-Spieler aufgelistet, die bisher besser abliefern, als man erwartet hätte! 🙌 Wer dabei ist, steht im Artikel. Lohnt sich, reinzuschauen! 🏒 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMid0FVX3lxTE05XzloNURSU0VBSkNNY2RWNHdSQm1udVY2c05Uc2ZjenJSaktQNU9yRFpwUzNHR09JNXlqblE0a0V6NUJhb2x4WXF1a2xLOHBDclZiQ3ZfQjNNOHBqdU9MWmt1eEVHWEExeVNWaHlrLV9SWXhudkhN?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05XzloNURSU0VBSkNNY2RWNHdSQm1udVY2c05Uc2ZjenJSaktQNU9yRFpwUzNHR09JNXlqblE0a0V6NUJhb2x4WXF1a2xLOHBDclZiQ3ZfQjNNOHBqdU9MWmt1eEVHWEExeVNWaHlrLV9SWXhudkhN?oc=5",
-  "created": "2026-10-22T04:49:52+00:00"
  }
 ]
