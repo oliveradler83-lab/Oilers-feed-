@@ -1,5 +1,38 @@
 [
  {
+  "id": "8a88471d6bce",
+  "type": "Quiz",
+  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Vorlagen bei den Oilers in dieser Saison?\n\nA) Vasily Podkolzin\nB) Alex Formenton\nC) Evan Bouchard\nD) Connor McDavid\n\nAntwort in den Kanal-Reaktionen! 👇",
+  "answer": "✅ Auflösung: D) Connor McDavid mit 25! 🔥\n#Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-10-27T01:29:33+00:00"
+ },
+ {
+  "id": "b9a261c80f58",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nMathieu Joseph mit 5 Punkten in 11 Spielen! 🔥 2 Tore und 3 Vorlagen, das läuft richtig gut für unseren Joker. Wer hätte gedacht, dass er so schnell Teil des Offensivspiels wird? 🏒 Weiter so, Mathieu! 💙🧡\n\n#Oilers #LetsGoOilers #MathieuJoseph",
+  "image": "img/cd595bc1808a.png",
+  "link": null,
+  "created": "2026-10-27T01:29:35+00:00"
+ },
+ {
+  "id": "2ebd1c8475e3",
+  "type": "News",
+  "text": "📰 NEWS\n\nAchtung, Oilers-Fans! 🏒 Die voraussichtliche Aufstellung für das Duell gegen die Red Wings ist auf NHL.com online. Schaut rein und seht, wer voraussichtlich aufs Eis geht! 🔥 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMid0FVX3lxTE8tY0ZxZHE2cE05dkU0aWxPaXBtNXRadU1aZG5Dd0ZKelFIRktPWXRHVkNaRlFDaEJyUGdkVDdGWHdKeG1qeTJ5blJtcG5aSzZyY28ta2JSS1RTdVlQU2JDVXpYaTQ5NXV4b2VVSXUyMFNXM1NmaENN?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tY0ZxZHE2cE05dkU0aWxPaXBtNXRadU1aZG5Dd0ZKelFIRktPWXRHVkNaRlFDaEJyUGdkVDdGWHdKeG1qeTJ5blJtcG5aSzZyY28ta2JSS1RTdVlQU2JDVXpYaTQ5NXV4b2VVSXUyMFNXM1NmaENN?oc=5",
+  "created": "2026-10-27T01:29:43+00:00"
+ },
+ {
+  "id": "de169d87db85",
+  "type": "News",
+  "text": "📰 NEWS\n\n🏒 Großes Vertrauen für einen Neuzugang der Edmonton Oilers! Laut Edmonton Journal bekommt er für das Spiel gegen Detroit eine Schlüsselrolle. Jetzt zeigt sich, was in ihm steckt. Wir sind gespannt, wie er die Chance nutzt! 🔥\n\n#Oilers #LetsGoOilers #Detroit\n\nQuelle: https://news.google.com/rss/articles/CBMiigJBVV95cUxNTGdfVjhucWtUaFZXSjE1UE9qRmpsdmNxSjdlS1Q0aTVGcHktTTRZQnJCMm9Jdkp6ZS1nWDRzWVpGZ1lfSVNWbU1lcDBzYmE5a1cxZnkxNHFVbVUtYkl1d3lvUEJ3akZjeG9aQXk4S0hqc1pTQWZ3LU1Oem9KOXJGLWgycFlaenBEd1dKdF9Qd3p2Rjg3UmtpM1FJWUxPTUduV1FZekJuSmN1SzVDWWtKWExNVFpWemFPNDRXMlNpSU9zQ0NIcDJEcXp5ZW1BdnNLMWN5Slo3eERidkg0WjVvNE9Id3VhMEJmZ0ZHRDZrU1RHVll1d3ROV0hCQzZ4c3JqWXVpZXpBT0xBdw?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTGdfVjhucWtUaFZXSjE1UE9qRmpsdmNxSjdlS1Q0aTVGcHktTTRZQnJCMm9Jdkp6ZS1nWDRzWVpGZ1lfSVNWbU1lcDBzYmE5a1cxZnkxNHFVbVUtYkl1d3lvUEJ3akZjeG9aQXk4S0hqc1pTQWZ3LU1Oem9KOXJGLWgycFlaenBEd1dKdF9Qd3p2Rjg3UmtpM1FJWUxPTUduV1FZekJuSmN1SzVDWWtKWExNVFpWemFPNDRXMlNpSU9zQ0NIcDJEcXp5ZW1BdnNLMWN5Slo3eERidkg0WjVvNE9Id3VhMEJmZ0ZHRDZrU1RHVll1d3ROV0hCQzZ4c3JqWXVpZXpBT0xBdw?oc=5",
+  "created": "2026-10-27T01:29:43+00:00"
+ },
+ {
   "id": "35018c53df11",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\nFun Fact der Woche: Owen Michaels hat in dieser Saison schon 4 Punkte in 11 Spielen gesammelt, mit 2 Toren und 2 Vorlagen! 🏒🔥 Jeder Punkt zählt, und man spürt, dass er für die Oilers alles gibt. Wie findet ihr seinen Start? 💛\n\n#Oilers #LetsGoOilers #EdmontonOilers",
@@ -451,38 +484,5 @@
   "image": "img/5c57d34b21cf.png",
   "link": null,
   "created": "2026-10-21T07:41:08+00:00"
- },
- {
-  "id": "b106479104c6",
-  "type": "Tabelle",
-  "text": "📊 TABELLE\n\nTabellen-Update! 🏒 Die Oilers haben 9 Spiele absolviert: 7 Siege, 1 Niederlage und 1 OT-Niederlage, das macht 15 Punkte! 🔥 Platz 2 in der Pacific Division und Platz 2 in der Western Conference. Dazu 2 Siege in Folge. Let's go Oilers!\n\n#Oilers #LetsGoOilers #Tabelle",
-  "image": null,
-  "link": null,
-  "created": "2026-10-21T07:41:10+00:00"
- },
- {
-  "id": "86024cf18756",
-  "type": "News",
-  "text": "📰 NEWS\n\nOilers mit einem Sieg! 🙌 Nach der Verlängerung steht es 4:3 gegen die Wild. Was für ein Krimi! 🏒 Wer hat's gesehen? #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMieEFVX3lxTE5iVi1VbkI5TXVHeGVjWWVuTXhuWlp4ZXZzMDZubG1SSEpKeEwtQU9URmRyQ09DcWt4a1FUcTdTeV8wSk02SlY3RHR6MTUzQkhSV0h6d1RiMmlRcmI0ODk1bDN6Qml4Y1dCZWwtQ0tTTVVFWTBQcmw4NA?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iVi1VbkI5TXVHeGVjWWVuTXhuWlp4ZXZzMDZubG1SSEpKeEwtQU9URmRyQ09DcWt4a1FUcTdTeV8wSk02SlY3RHR6MTUzQkhSV0h6d1RiMmlRcmI0ODk1bDN6Qml4Y1dCZWwtQ0tTTVVFWTBQcmw4NA?oc=5",
-  "created": "2026-10-21T07:41:16+00:00"
- },
- {
-  "id": "ae128c074ff4",
-  "type": "News",
-  "text": "📰 NEWS\n\nDie Oilers haben es spannend gemacht, aber am Ende den Erzrivalen Wild geschlagen! 🔥 Ein kleiner Schreckmoment, doch sie haben die Nerven behalten und den Sieg über die Ziellinie gebracht. Born to beat Wild! 🏒💙\n\n#Oilers #LetsGoOilers #Wild\n\nQuelle: https://news.google.com/rss/articles/CBMizgFBVV95cUxONlBRSVRkbWw5bTRGWFZxdlJ5aWdGbjVTNW5sN3BKVjR5NHpXSkNsc0ZpUWtsZTZCRExKWWtSb1RNNEdlWVZKWm5kcFFsa0w4TFdqcW5LRDdvT2VVc1NBQno1RjVXLTRielVHTlhVbVFlVU1SR2c0OUJmVXpPcGVRVm5SNU02TzlRLWZFZy1qak5vT0FENDYtVGJBWTU5bmZ1ay1fV3ExUFpGdHgxMDZUTHhmLUtrSHJyWmVtTG1EUkI5NEtPZmNXVFJEZnN3QQ?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONlBRSVRkbWw5bTRGWFZxdlJ5aWdGbjVTNW5sN3BKVjR5NHpXSkNsc0ZpUWtsZTZCRExKWWtSb1RNNEdlWVZKWm5kcFFsa0w4TFdqcW5LRDdvT2VVc1NBQno1RjVXLTRielVHTlhVbVFlVU1SR2c0OUJmVXpPcGVRVm5SNU02TzlRLWZFZy1qak5vT0FENDYtVGJBWTU5bmZ1ay1fV3ExUFpGdHgxMDZUTHhmLUtrSHJyWmVtTG1EUkI5NEtPZmNXVFJEZnN3QQ?oc=5",
-  "created": "2026-10-21T07:41:16+00:00"
- },
- {
-  "id": "268f1fb19052",
-  "type": "Quiz",
-  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Tore bei den Oilers in dieser Saison?\n\nA) Owen Michaels\nB) Connor McDavid\nC) Kasperi Kapanen\nD) Vasily Podkolzin\n\nAntwort in den Kanal-Reaktionen! 👇",
-  "answer": "✅ Auflösung: D) Vasily Podkolzin mit 7! 🔥\n#Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-10-21T00:38:07+00:00"
  }
 ]
