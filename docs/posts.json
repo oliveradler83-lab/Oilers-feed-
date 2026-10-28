@@ -1,5 +1,21 @@
 [
  {
+  "id": "b4eb481b93db",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact! 🤯 Mathieu Joseph hat in dieser Saison in 12 Spielen 2 Tore und 3 Vorlagen gesammelt. Das macht zusammen 5 Punkte! Jeder Punkt zählt, und genau so sieht starkes Teamplay aus. 🏒 #Oilers #LetsGoOilers",
+  "image": "img/cd595bc1808a.png",
+  "link": null,
+  "created": "2026-10-28T16:39:01+00:00"
+ },
+ {
+  "id": "92487d1331e3",
+  "type": "News",
+  "text": "📰 NEWS\n\nZach Hyman fehlt den Oilers gerade: Er wurde mit einem steifen Nacken auf die Verletzungsliste (IR) gesetzt. 🏒 Wie lange er ausfällt, steht in der Meldung von TSN leider nicht drin. Wir drücken die Daumen für eine schnelle Genesung! 💪\n\n#Oilers #LetsGoOilers #ZachHyman\n\nQuelle: https://news.google.com/rss/articles/CBMidEFVX3lxTE1tY3dGVDVqOENRUkZROXNZby1IUTlMdkNxakFucHpYUjBSalB2cGVIWVdyY2pZR3k2ZVFHQXV2cmRvek9VUkQ2Rl8weDA3WlBIWXlDT2hVRGdsQWJQVWR0QWlKTEJndnlVc1BGMFp0MGNBOWVr?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tY3dGVDVqOENRUkZROXNZby1IUTlMdkNxakFucHpYUjBSalB2cGVIWVdyY2pZR3k2ZVFHQXV2cmRvek9VUkQ2Rl8weDA3WlBIWXlDT2hVRGdsQWJQVWR0QWlKTEJndnlVc1BGMFp0MGNBOWVr?oc=5",
+  "created": "2026-10-28T16:39:06+00:00"
+ },
+ {
   "id": "b81ed8b95221",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\n🔥 Fun Fact der Woche: Leon Draisaitl steht nach 12 Spielen bei 12 Toren, 12 Vorlagen und 24 Punkten. Jedes einzelne Zahlenpaar ist eine Zwölf! 😍 Zufall oder Lieblingszahl? Wir tippen auf Zufall mit Wow-Faktor. Let's go, Leon! 🏒\n\n#Oilers #LetsGoOilers #Draisaitl",
@@ -468,21 +484,5 @@
   "image": null,
   "link": null,
   "created": "2026-10-23T00:41:06+00:00"
- },
- {
-  "id": "ece1f69a0216",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact 🤓 Alex Formenton hat in dieser Saison 9 Spiele gemacht und dabei 4 Punkte gesammelt: 1 Tor und 3 Vorlagen! Das heißt, 3 seiner 4 Punkte sind Assists. Der Mann legt also lieber auf, als selbst abzuschließen 🔥 Wer hätte gedacht, dass er so ein Vorlagengeber ist? #Oilers #LetsGoOilers",
-  "image": "img/d021769d1151.png",
-  "link": null,
-  "created": "2026-10-23T00:41:10+00:00"
- },
- {
-  "id": "9bfe6468b3f8",
-  "type": "News",
-  "text": "📰 NEWS\n\nGute Nachrichten für die Oilers! 🙌 Nugent-Hopkins ist wieder aktiv und einsatzbereit. Dafür rutscht Dickinson auf die Verletztenliste (IR). Wir drücken ihm die Daumen für eine schnelle Rückkehr! 💙🧡 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMilwFBVV95cUxPSGpEWkdBZ0hFSW00blNDdGhqcm5ybXR3V3F2M1ZJUDZvVzZvbHAwUjJJQktISTZFQUZRbmNfOU1tUGdVNGNwaFVfbTFzdHBuRFN5a1h0SGItX0FYMlBueWlDUnZTLUYxOWVTdWlUZUY5dmJLU3JURjFBSk5oSFYzM3F3T3dsR3lGNWJUU3Z3TUJMUjhIN2Fr?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSGpEWkdBZ0hFSW00blNDdGhqcm5ybXR3V3F2M1ZJUDZvVzZvbHAwUjJJQktISTZFQUZRbmNfOU1tUGdVNGNwaFVfbTFzdHBuRFN5a1h0SGItX0FYMlBueWlDUnZTLUYxOWVTdWlUZUY5dmJLU3JURjFBSk5oSFYzM3F3T3dsR3lGNWJUU3Z3TUJMUjhIN2Fr?oc=5",
-  "created": "2026-10-23T00:41:19+00:00"
  }
 ]
