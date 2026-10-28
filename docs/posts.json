@@ -1,5 +1,38 @@
 [
  {
+  "id": "9aa8727f9215",
+  "type": "Quiz",
+  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Vorlagen bei den Oilers in dieser Saison?\n\nA) Vasily Podkolzin\nB) Connor McDavid\nC) Ryan Shea\nD) Leon Draisaitl\n\nAntwort in den Kanal-Reaktionen! 👇",
+  "answer": "✅ Auflösung: B) Connor McDavid mit 26! 🔥\n#Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-10-28T01:24:01+00:00"
+ },
+ {
+  "id": "7e7aef63381a",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact: Ryan Shea hat in dieser Saison schon 4 Punkte in 12 Spielen gesammelt, mit 1 Tor und 3 Vorlagen! 🔥 Jeder Punkt zählt, und Shea hat schon ordentlich beigetragen. Let's go, Oilers! 🏒\n\n#Oilers #LetsGoOilers",
+  "image": "img/54414cf1f3b1.png",
+  "link": null,
+  "created": "2026-10-28T01:24:04+00:00"
+ },
+ {
+  "id": "c8c065db7a3e",
+  "type": "News",
+  "text": "📰 NEWS\n\n🏒 Spannendes Thema: Laut Sportsnet-Artikel setzen die Oilers bei Ike Howard auf einen geduldigen Weg. Die Entwicklung läuft also bewusst langsam, statt ihn zu überstürzen. Was genau dahintersteckt, steht im Artikel. Wie seht ihr das? 🤔\n\n#Oilers #LetsGoOilers #Howard\n\nQuelle: https://news.google.com/rss/articles/CBMikwFBVV95cUxQcnZlanZELXU4VXVNelNad2swaGlSWWQwRnFpM0hwODRtblNxQ1NHUGdRcVV0UkRDMDlNZ1NxWFh5T1RBTm90cGtxanN4bkc4MmVqZlhyYXdUcUxvanBLck9Ca1dGMHQySll6OHIzUHpkdWhRb1VVMkkwcy01SXdnbmlPTjV3MmVfamhYYUpnTW5pNEk?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcnZlanZELXU4VXVNelNad2swaGlSWWQwRnFpM0hwODRtblNxQ1NHUGdRcVV0UkRDMDlNZ1NxWFh5T1RBTm90cGtxanN4bkc4MmVqZlhyYXdUcUxvanBLck9Ca1dGMHQySll6OHIzUHpkdWhRb1VVMkkwcy01SXdnbmlPTjV3MmVfamhYYUpnTW5pNEk?oc=5",
+  "created": "2026-10-28T01:24:13+00:00"
+ },
+ {
+  "id": "2fc09d78b8a0",
+  "type": "News",
+  "text": "📰 NEWS\n\nGroßer Umbruch bei den Oilers! 🏒 Laut Edmonton Journal wurde ein hochbezahlter Veteran zurückgestuft, und eine Reihe, die zuletzt nicht funktioniert hat, wurde aufgelöst. Mal sehen, ob das Wirkung zeigt. Spannende Zeiten in Edmonton! 🔥 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZnNQNldYb3otWWZ4ZUZRaXU3clg0YWpHZWZobnVsY3lJR1BIencxazR2V01QTGVtZ0RXYjV0OG80LXBQMXJZSGlBYTEzMzdqUnRMM0xGQ1VzSjBGV0NpVzZjMzhrM0dBUzZUdk5jWjhYR1VnT1hENlVLVTVLeURYUl9rSGlaa2EwWlJFbG1TZ0t3ZGJDS1BwODBtVFowYWlBX1dvYUhTNm1hampYT1ZoaGZmTFdncERnbG1sODE4dnluUHlBUXVZV1JkVG9KVEZ6a1JmSVRrdC1UYXdsWllCYWsydzdDVlVOOWdj?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZnNQNldYb3otWWZ4ZUZRaXU3clg0YWpHZWZobnVsY3lJR1BIencxazR2V01QTGVtZ0RXYjV0OG80LXBQMXJZSGlBYTEzMzdqUnRMM0xGQ1VzSjBGV0NpVzZjMzhrM0dBUzZUdk5jWjhYR1VnT1hENlVLVTVLeURYUl9rSGlaa2EwWlJFbG1TZ0t3ZGJDS1BwODBtVFowYWlBX1dvYUhTNm1hampYT1ZoaGZmTFdncERnbG1sODE4dnluUHlBUXVZV1JkVG9KVEZ6a1JmSVRrdC1UYXdsWllCYWsydzdDVlVOOWdj?oc=5",
+  "created": "2026-10-28T01:24:13+00:00"
+ },
+ {
   "id": "958d9ef3a3bb",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\n🔥 Fun Fact: Connor McDavid hat in dieser Saison nach 12 Spielen schon 34 Punkte auf dem Konto! Dazu kommen 8 Tore und satte 26 Vorlagen. Das sind fast drei Punkte pro Spiel. Wer braucht da noch Verstärkung? 🏒\n\n#Oilers #LetsGoOilers #McDavid",
@@ -451,38 +484,5 @@
   "image": null,
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc0FVODQyYzMwclBTOExsRW5vWEk5Z0pLZjNGOFNZYmUyRldTTG11aEtLbU04Q3ZkRm1HRzBINEdOYkF3RVlJOVVJbnk4MjlTUU1mNi1CS2cwVUZ6ZGE0X0pnYnBZMmszX0R1Y1Y3a0tJN29oZHExYXl1MXloMkdacXRRTGNuMzFHUG9XcVdwRHI1dENhY3c?oc=5",
   "created": "2026-10-22T17:12:38+00:00"
- },
- {
-  "id": "5327a3a6159d",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact: Leon Draisaitl hat in dieser Saison bisher 9 Spiele gemacht und dabei 8 Tore und 8 Vorlagen gesammelt. Macht zusammen 16 Punkte, und jeder einzelne davon ist ein Tor oder eine Vorlage! 🔥 Was für eine Quote, Oilers-Fans! 🏒 #Oilers #LetsGoOilers #Draisaitl",
-  "image": "img/16536e777c2d.png",
-  "link": null,
-  "created": "2026-10-22T11:55:17+00:00"
- },
- {
-  "id": "a8649c94ab6c",
-  "type": "News",
-  "text": "📰 NEWS\n\n🏒 Heute geht's gegen die Hurricanes! Auf NHL.com gibt's eine Preview zum Duell Oilers vs. Hurricanes. Lest rein und macht euch bereit, die Oilers anzufeuern! 🔥 Wer glaubt an einen Sieg? 💙🧡\n\n#Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMieEFVX3lxTE01RGthdjk2WGhYTkxmMjJZUUtJa3lxZ2F3UnVWQkxXRXVVc3V2WnJPNU1yYUZVbmdkalJHVTNZTmpiSGRIWUVxQ0s1czRoM1lVNEg4WTI0ZWJpSjdicnJXOXlWcVNBczlNY0hlNk83cjU3OHFoVE1kbQ?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01RGthdjk2WGhYTkxmMjJZUUtJa3lxZ2F3UnVWQkxXRXVVc3V2WnJPNU1yYUZVbmdkalJHVTNZTmpiSGRIWUVxQ0s1czRoM1lVNEg4WTI0ZWJpSjdicnJXOXlWcVNBczlNY0hlNk83cjU3OHFoVE1kbQ?oc=5",
-  "created": "2026-10-22T11:55:27+00:00"
- },
- {
-  "id": "3ab5ac21dd96",
-  "type": "News",
-  "text": "📰 NEWS\n\n🏒 Knoblauch gegen Babcock! Laut Edmonton Journal hat Knobs Ruf einen Kratzer abbekommen, aber auch Babs und die gewinnenden Oilers haben noch einiges zu beweisen. Spannende Zeiten für unsere Jungs! 💙🧡 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMitgFBVV95cUxOWG9uaVJhYWIzYV9ueXB2MHdOYXBpaF9FZEVtSzFDNEdXb3BST0RLdmRFTGZzRm1ydUFhb3pxcHJSN05hU0M5UkhfbTdOelJJLTRjOTY4TDdaSVpjUmR6R1owMV9LSWx4RTFSSUZpbS1kQUo5ZkNyVkpWdzdPN0tTOTRfXzB6a2psMVhIMGlaVFhMM0U1d1lCNHI4bWNJSGxPWlNsMy0tZF9YTFpfNHpwY19YWG9DUQ?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWG9uaVJhYWIzYV9ueXB2MHdOYXBpaF9FZEVtSzFDNEdXb3BST0RLdmRFTGZzRm1ydUFhb3pxcHJSN05hU0M5UkhfbTdOelJJLTRjOTY4TDdaSVpjUmR6R1owMV9LSWx4RTFSSUZpbS1kQUo5ZkNyVkpWdzdPN0tTOTRfXzB6a2psMVhIMGlaVFhMM0U1d1lCNHI4bWNJSGxPWlNsMy0tZF9YTFpfNHpwY19YWG9DUQ?oc=5",
-  "created": "2026-10-22T11:55:27+00:00"
- },
- {
-  "id": "a21fb956fae0",
-  "type": "Quiz",
-  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Punkte bei den Oilers in dieser Saison?\n\nA) Kasperi Kapanen\nB) Vasily Podkolzin\nC) Connor McDavid\nD) Evan Bouchard\n\nAntwort in den Kanal-Reaktionen! 👇",
-  "answer": "✅ Auflösung: C) Connor McDavid mit 26! 🔥\n#Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-10-22T04:49:40+00:00"
  }
 ]
