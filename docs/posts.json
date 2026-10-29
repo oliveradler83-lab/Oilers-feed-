@@ -1,5 +1,21 @@
 [
  {
+  "id": "0daef2b79d3c",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\n🏒 Fun Fact für alle Oilers-Fans: Ryan Nugent-Hopkins hat in dieser Saison schon 4 Vorlagen in nur 4 Spielen gesammelt! Dazu kommt 1 Tor, macht zusammen 5 Punkte. RNH ist gerade richtig heiß! 🔥\n\n#Oilers #LetsGoOilers #RNH",
+  "image": "img/fb6bcc196068.png",
+  "link": null,
+  "created": "2026-10-29T19:39:25+00:00"
+ },
+ {
+  "id": "1e8f40344db6",
+  "type": "News",
+  "text": "📰 NEWS\n\nGerüchte-Alarm bei den Oilers! 👀 Laut Sportsnet könnte Edmonton ein Auge auf Matt Rempe geworfen haben. Mehr Infos gibt's in der Meldung noch nicht, aber die Frage allein ist schon spannend. Was haltet ihr davon? 🏒\n\n#Oilers #LetsGoOilers #Rempe\n\nQuelle: https://news.google.com/rss/articles/CBMijAFBVV95cUxOWXRJUlZnVmhCNlBIUEYydFBnaXdkWDI4c09aY3pkcnNVamIwR1l0TVdlM1V1VFVFdVk3TnVabUx0WFNQYjZ2cFdTTW45Ti0zWS1EZzhqcGtLbkR0blBsak1uQ2dFRm1CM1FpejRfTVNORHJabEY3eFNBblByak50QU8zWFdzWDRVT0ZNRg?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWXRJUlZnVmhCNlBIUEYydFBnaXdkWDI4c09aY3pkcnNVamIwR1l0TVdlM1V1VFVFdVk3TnVabUx0WFNQYjZ2cFdTTW45Ti0zWS1EZzhqcGtLbkR0blBsak1uQ2dFRm1CM1FpejRfTVNORHJabEY3eFNBblByak50QU8zWFdzWDRVT0ZNRg?oc=5",
+  "created": "2026-10-29T19:39:31+00:00"
+ },
+ {
   "id": "c8e11e5d73a5",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans! 🔥 Mathieu Joseph hat in dieser Saison bereits in 13 Spielen 6 Punkte gesammelt: 3 Tore und 3 Vorlagen. Was für ein Start! 🏒 Wer hätte gedacht, dass er so schnell zum Scorer wird? 💪\n\n#Oilers #LetsGoOilers #MathieuJoseph",
@@ -468,21 +484,5 @@
   "image": null,
   "link": null,
   "created": "2026-10-24T04:38:49+00:00"
- },
- {
-  "id": "ccd009b51059",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\n🏒🔥 Fun Fact: Evan Bouchard hat in nur 10 Spielen 19 Punkte gesammelt, dazu 7 Tore und 12 Vorlagen! Das ist echte Offensivpower von unserem Verteidiger. Wer hätte gedacht, dass unser Blueliner so viele Scorer-Qualitäten hat? 🙌\n\n#Oilers #LetsGoOilers #Bouchard",
-  "image": "img/ccb4cb73162c.png",
-  "link": null,
-  "created": "2026-10-24T04:38:51+00:00"
- },
- {
-  "id": "473b4afedf35",
-  "type": "News",
-  "text": "📰 NEWS\n\n🚨 Kurze Meldung aus Edmonton: Levi wandert auf die Injured Reserve (IR). Dafür wird Tomkins unter Notfallbedingungen zurückgeholt. Details zur Verletzung oder Ausfalldauer gibt es bisher nicht, wir halten euch auf dem Laufenden! 🏒 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDdrc09SR0sySkpTS3ZMZk1tV1M3VWM3UnBRc1VaRmRSOXpqS0lZY05oTE1EN0p6X3VZeV9nY3FZRXlhLTV2TTNNcG5vTlFiNEFGR0xSZnp2bDVVamp1UHM2Tll4Z0RncE92amxWaGJYLXlEaW1keWdiNGQwV1M0cVVHMFc2WnpDb1FpSDQ2bi16QTdFNEZCS3gwckoyOWla?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDdrc09SR0sySkpTS3ZMZk1tV1M3VWM3UnBRc1VaRmRSOXpqS0lZY05oTE1EN0p6X3VZeV9nY3FZRXlhLTV2TTNNcG5vTlFiNEFGR0xSZnp2bDVVamp1UHM2Tll4Z0RncE92amxWaGJYLXlEaW1keWdiNGQwV1M0cVVHMFc2WnpDb1FpSDQ2bi16QTdFNEZCS3gwckoyOWla?oc=5",
-  "created": "2026-10-24T04:39:00+00:00"
  }
 ]
