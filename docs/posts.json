@@ -1,5 +1,62 @@
 [
  {
+  "id": "4478718445db",
+  "type": "Spiel",
+  "text": "🏒 SPIELBERICHT\n\nOilers gewinnen! 🔥 Zuhause gegen die Calgary Flames gab's ein klares 4:0 für unsere Jungs! Was für eine Leistung am 28.10.2026, Edmonton feiert heute richtig! 🏒🙌 #Oilers #LetsGoOilers #Edmonton",
+  "image": null,
+  "link": null,
+  "created": "2026-10-29T05:50:13+00:00"
+ },
+ {
+  "id": "d7b188af1793",
+  "type": "Vorschau",
+  "text": "🔜 SPIELVORSCHAU\n\nOilers-Familie, aufgepasst! 🔥 Am 31.10.2026 um 19:00 Uhr (deutscher Zeit) geht's auswärts gegen die New York Islanders in die UBS Arena. Trikot an, Snacks bereit und ab vor den Bildschirm! Lasst uns gemeinsam mitfiebern und jeden Shift lautstark anfeuern! 🏒💙 #Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-10-29T05:50:16+00:00"
+ },
+ {
+  "id": "f05b4afd1aa8",
+  "type": "Quiz",
+  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Punkte bei den Oilers in dieser Saison?\n\nA) Connor McDavid\nB) Mathieu Joseph\nC) Evan Bouchard\nD) Leon Draisaitl\n\nAntwort in den Kanal-Reaktionen! 👇",
+  "answer": "✅ Auflösung: A) Connor McDavid mit 36! 🔥\n#Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-10-29T05:50:16+00:00"
+ },
+ {
+  "id": "2c8be5f5eed5",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact: Kasperi Kapanen hat in dieser Saison aus 13 Spielen 6 Punkte gesammelt! 🏒 Dazu kommen 4 Tore und 2 Vorlagen. Das kann sich sehen lassen, oder? 🔥 #Oilers #LetsGoOilers",
+  "image": "img/19c80e79b691.png",
+  "link": null,
+  "created": "2026-10-29T05:50:18+00:00"
+ },
+ {
+  "id": "6703f2c07c65",
+  "type": "Tabelle",
+  "text": "📊 TABELLE\n\n🏒 Tabellen-Update! Die Oilers führen nach 13 Spielen die Pacific Division UND die Western Conference an! 🔥 Die Bilanz: 9 Siege, 2 Niederlagen, 2 OT-Niederlagen und damit 20 Punkte. Aktuell läuft's mit einem Sieg in Serie. Weiter so, Oilers! 💙\n\n#Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-10-29T05:50:21+00:00"
+ },
+ {
+  "id": "cd4f802bcf5d",
+  "type": "News",
+  "text": "📰 NEWS\n\nDie Oilers haben die Flames mit 4:0 besiegt, und das ohne Gegentor! 🔥 Die schnelle Zusammenfassung gibt's bei NHL.com. Wer Lust hat, kann da direkt reinschauen. Let's go Oilers! 🏒 #Oilers #LetsGoOilers #NHL\n\nQuelle: https://news.google.com/rss/articles/CBMieEFVX3lxTFBuaUlDMVMxMkU4N0xEWFA3dXFFR1RWblhuYUxia1NLV3VSdzZYREYyckNvU0pXR3FNUk10djVncG0wTFZmcHNQdkxXM0YyRGUxdkxVTlZNbjdpWFJWUTNGeTRnaHlLd3IycUE5bzJLSU1sZ3JhaXMxMw?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuaUlDMVMxMkU4N0xEWFA3dXFFR1RWblhuYUxia1NLV3VSdzZYREYyckNvU0pXR3FNUk10djVncG0wTFZmcHNQdkxXM0YyRGUxdkxVTlZNbjdpWFJWUTNGeTRnaHlLd3IycUE5bzJLSU1sZ3JhaXMxMw?oc=5",
+  "created": "2026-10-29T05:50:28+00:00"
+ },
+ {
+  "id": "5b414b4c6662",
+  "type": "News",
+  "text": "📰 NEWS\n\nWas für ein Auftritt! 🔥 Die Oilers haben die Flames richtig auseinandergenommen. Dach und Jarry waren laut Edmonton Journal die großen Helden dieses Abends. 🏒 #Oilers #LetsGoOilers #Flames\n\nQuelle: https://news.google.com/rss/articles/CBMiygFBVV95cUxQRl91c2J4WElIMUNQc0pxMDNJbVAzZ21YZHNGYVF6YTc4RDdNUDI5YmJ5cXpYTVRLbi1nOUUydk54OEVpblBnN1FWMFJ0bW1iNDdyd1FRcjNmNDE5ellVTkloV3Y4S0Y1VWNJRG92VHptY053eXVqWHc0enBDWU85bHo1VVB2VXZfRlZWT0M3TU4tWWhENkNVckMxNDdrZE5XMkpJdERtY2Q2VVB1UkFrNE52MTFUVkMtV010YmdBcEFEalRQa0h6ak1B?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRl91c2J4WElIMUNQc0pxMDNJbVAzZ21YZHNGYVF6YTc4RDdNUDI5YmJ5cXpYTVRLbi1nOUUydk54OEVpblBnN1FWMFJ0bW1iNDdyd1FRcjNmNDE5ellVTkloV3Y4S0Y1VWNJRG92VHptY053eXVqWHc0enBDWU85bHo1VVB2VXZfRlZWT0M3TU4tWWhENkNVckMxNDdrZE5XMkpJdERtY2Q2VVB1UkFrNE52MTFUVkMtV010YmdBcEFEalRQa0h6ak1B?oc=5",
+  "created": "2026-10-29T05:50:28+00:00"
+ },
+ {
   "id": "b4eb481b93db",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\nFun Fact! 🤯 Mathieu Joseph hat in dieser Saison in 12 Spielen 2 Tore und 3 Vorlagen gesammelt. Das macht zusammen 5 Punkte! Jeder Punkt zählt, und genau so sieht starkes Teamplay aus. 🏒 #Oilers #LetsGoOilers",
@@ -427,62 +484,5 @@
   "image": null,
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS1UwRWNab0JIVkpxaWFGY2J3X2JHVVpWdkhnRFJhYVhOSWFwRkpPdzNnX2RhLUpObXMyX3gtMFphejBfUzg5UEVHRllfbU5kYXU3TXk1TmJ4R0l1UERTVFI5eHFaTmk3MG55ZDJfYUJ6ZXptR2JKVWE0R0FJaUt0X3BFYUszU2pmU1JxeUpGTU92N0tzYkY3M2FGV25pZXdVRnNSeWtMWnlGVkZPMGZV?oc=5",
   "created": "2026-10-23T13:28:35+00:00"
- },
- {
-  "id": "470b8c6f2ac4",
-  "type": "Spiel",
-  "text": "🏒 SPIELBERICHT\n\n🔥 Heimsieg für die Oilers! Mit 6:5 haben wir die Carolina Hurricanes geschlagen. Was für ein Krimi, die Entscheidung fiel erst nach Verlängerung bzw. Shootout! 🙌 Das war am 22.10. echte Nervenschlacht, und genau so lieben wir unsere Oilers. LET'S GO OILERS! 🛢️ #Oilers #LetsGoOilers #NHL",
-  "image": null,
-  "link": null,
-  "created": "2026-10-23T07:34:01+00:00"
- },
- {
-  "id": "a3802f9ff904",
-  "type": "Vorschau",
-  "text": "🔜 SPIELVORSCHAU\n\nEs ist so weit! 🔥 Am 25.10. geht's um 01:00 Uhr deutscher Zeit los: Heimspiel gegen die Toronto Maple Leafs im Rogers Place! Stellt den Wecker, holt euch Snacks und feuert unsere Jungs an. Jeder Schrei zählt, Edmonton! 🙌 Let's go Oilers! 🏒\n\n#Oilers #LetsGoOilers #Edmonton",
-  "image": null,
-  "link": null,
-  "created": "2026-10-23T07:34:04+00:00"
- },
- {
-  "id": "43a8fce33226",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans! 🔥 Kasperi Kapanen hat in dieser Saison bisher 10 Spiele absolviert und dabei 3 Tore und 1 Vorlage gesammelt. Macht zusammen 4 Punkte! Starker Start, Kappy! 🏒\n\n#Oilers #LetsGoOilers #Kapanen",
-  "image": "img/19c80e79b691.png",
-  "link": null,
-  "created": "2026-10-23T07:34:05+00:00"
- },
- {
-  "id": "23c4c63fcb93",
-  "type": "Tabelle",
-  "text": "📊 TABELLE\n\nOilers-Update: 8 Siege, 1 Niederlage und 1 OT-Niederlage aus 10 Spielen, das sind 17 Punkte! 🔥 Platz 1 in der Pacific Division und Platz 1 in der Western Conference! Dazu kommt die Serie: 3 Siege in Folge! 🏒 Let's go, Oilers!\n\n#Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-10-23T07:34:08+00:00"
- },
- {
-  "id": "52564406d9b6",
-  "type": "News",
-  "text": "📰 NEWS\n\nOilers 6, Hurricanes 5 nach Penaltyschießen! 🔥 Was für ein Krimi, Leute. Die Hurricanes waren dran, aber unsere Jungs haben die Nerven behalten und den Sieg eingefahren. 🏒 Das nennt man Charakter! #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMif0FVX3lxTE8ybmpTb3JHcTEwTFhLZmRnSVVhenQ2YWlZcndhNzJteDNKMGJCSVZEZGtueXh0cFN2cFhzbUp0b1JrcExrVmhTWmJQczF3S0ZuNFROdG5fZmF3bTF4MUxvdE1TclFJSjhuMVQzV0NqMTdDQTIwR3VVYmNtdUhOVGM?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ybmpTb3JHcTEwTFhLZmRnSVVhenQ2YWlZcndhNzJteDNKMGJCSVZEZGtueXh0cFN2cFhzbUp0b1JrcExrVmhTWmJQczF3S0ZuNFROdG5fZmF3bTF4MUxvdE1TclFJSjhuMVQzV0NqMTdDQTIwR3VVYmNtdUhOVGM?oc=5",
-  "created": "2026-10-23T07:34:13+00:00"
- },
- {
-  "id": "3d9f7bec0131",
-  "type": "News",
-  "text": "📰 NEWS\n\nMcDavid schreibt wieder Geschichte! 🔥 Die Oilers holen sich den Sieg im Shootout gegen die Hurricanes, und Connor sorgt mal wieder für einen historischen Moment. Wer hätte das gedacht? 🏒 Let's go, Oilers! #Oilers #LetsGoOilers #McDavid\n\nQuelle: https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWFnUjJvM3F0dTZpVzBzM3dMdF9nbV9KVEF6d2RCQktPNzlxSzBVWDJxTmdWWFhabU14ckNJTmdKLU5uMzdhMVlBNkJuaVZLVHcyOWFWeDJYRlBtLUlDYURGNVdJOEJjZkNVeTgtQUJxQ2QwQVhLNVhPaHU1M1ZBeV9OT3pqMG1lN3pHQk9UZVJzQkNpQVBjV2thZVZLVFFBeWxzSTFJU0U2T0Z4ZWc?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWFnUjJvM3F0dTZpVzBzM3dMdF9nbV9KVEF6d2RCQktPNzlxSzBVWDJxTmdWWFhabU14ckNJTmdKLU5uMzdhMVlBNkJuaVZLVHcyOWFWeDJYRlBtLUlDYURGNVdJOEJjZkNVeTgtQUJxQ2QwQVhLNVhPaHU1M1ZBeV9OT3pqMG1lN3pHQk9UZVJzQkNpQVBjV2thZVZLVFFBeWxzSTFJU0U2T0Z4ZWc?oc=5",
-  "created": "2026-10-23T07:34:13+00:00"
- },
- {
-  "id": "c82e451d14a3",
-  "type": "Quiz",
-  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Tore bei den Oilers in dieser Saison?\n\nA) Vasily Podkolzin\nB) Kasperi Kapanen\nC) Leon Draisaitl\nD) Mathieu Joseph\n\nAntwort in den Kanal-Reaktionen! 👇",
-  "answer": "✅ Auflösung: C) Leon Draisaitl mit 8! 🔥\n#Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-10-23T00:41:06+00:00"
  }
 ]
