@@ -1,5 +1,21 @@
 [
  {
+  "id": "071a50c0a25b",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\n🏒 Fun Fact der Woche: Alex Formenton hat in dieser Saison in 13 Spielen 5 Punkte gesammelt, davon 2 Tore und 3 Vorlagen! 🔥 Ein echter Scorer, der jede Schicht mitreißt. Wie findet ihr seine Saison bisher? 👀\n\n#Oilers #LetsGoOilers #FunFact",
+  "image": "img/d021769d1151.png",
+  "link": null,
+  "created": "2026-10-30T19:24:11+00:00"
+ },
+ {
+  "id": "084fa3e18b5e",
+  "type": "News",
+  "text": "📰 NEWS\n\n🏒 Frische Lines der Oilers sind da! Daily Faceoff hat die aktuellen Line-Kombinationen veröffentlicht. Wer spielt mit wem? Reinschauen lohnt sich, bevor's aufs Eis geht! 🔥\n\n#Oilers #LetsGoOilers #NHL\n\nQuelle: https://news.google.com/rss/articles/CBMieEFVX3lxTE94aGNZeWNjSU9oV1hyQklGUmIwVS1NcVQ3b2s3aFR2eHlCUXplMDJvdU1HU3JBVExUWWVFcjFFS0tvNTZ3Z0p1aDFYME5qNDcyWDlsSmJmdEwtd0RnT2V4bVJMQm1OenFDd0FuUmg1OWM4M3NINThJeg?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94aGNZeWNjSU9oV1hyQklGUmIwVS1NcVQ3b2s3aFR2eHlCUXplMDJvdU1HU3JBVExUWWVFcjFFS0tvNTZ3Z0p1aDFYME5qNDcyWDlsSmJmdEwtd0RnT2V4bVJMQm1OenFDd0FuUmg1OWM4M3NINThJeg?oc=5",
+  "created": "2026-10-30T19:24:16+00:00"
+ },
+ {
   "id": "c8598017630e",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\n🔥 Fun Fact: Kasperi Kapanen hat in 13 Spielen 6 Punkte gesammelt, und zwar 4 Tore plus 2 Vorlagen! 🏒 Das ist richtig starker Output, Kasperi, weiter so! 💙🧡 #Oilers #LetsGoOilers #Kapanen",
@@ -468,21 +484,5 @@
   "image": "img/d021769d1151.png",
   "link": null,
   "created": "2026-10-25T04:43:36+00:00"
- },
- {
-  "id": "50be905a01f2",
-  "type": "Tabelle",
-  "text": "📊 TABELLE\n\nTabellen-Update: Die Oilers stehen auf Platz 1 in der Pacific Division UND in der Western Conference! 🔥 Die Bilanz nach 11 Spielen: 8 Siege, 2 Niederlagen, 1 OT-Niederlage, macht 17 Punkte. Die letzte Partie ging zwar verloren, aber die Tabellenspitze im Westen sieht richtig stark aus! 🏒 Let's go, Oilers!\n\n#Oilers #LetsGoOilers #NHL",
-  "image": null,
-  "link": null,
-  "created": "2026-10-25T04:43:39+00:00"
- },
- {
-  "id": "2e4a53cf4f21",
-  "type": "News",
-  "text": "📰 NEWS\n\nFrisch von NHL.com: OILERS TODAY mit dem Post-Game nach dem Spiel gegen Toronto! 🏒 Wie das Team den Abend verarbeitet, gibt's im Video. Reinschauen lohnt sich! 🔥 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMiggFBVV95cUxPenUwdVdzV3g2Q2hyRmNRTFRSNmYxdjJBeWxPNHV4VkxiamtmV3hVd0x1d3lzelJRcC1UV182bWVzTzJReXhMOXB0bnlsZVlic1dsd1FEbTlQN0FRT0MtLUVhVEtCa0VfXzhGdTJibVFKbGs2WmxVSkRuSzRpcnU4RFR3?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPenUwdVdzV3g2Q2hyRmNRTFRSNmYxdjJBeWxPNHV4VkxiamtmV3hVd0x1d3lzelJRcC1UV182bWVzTzJReXhMOXB0bnlsZVlic1dsd1FEbTlQN0FRT0MtLUVhVEtCa0VfXzhGdTJibVFKbGs2WmxVSkRuSzRpcnU4RFR3?oc=5",
-  "created": "2026-10-25T04:43:44+00:00"
  }
 ]
