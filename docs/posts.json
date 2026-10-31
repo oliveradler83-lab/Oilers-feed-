@@ -1,5 +1,21 @@
 [
  {
+  "id": "387c14c0c22a",
+  "type": "Spiel",
+  "text": "🏒 SPIELBERICHT\n\n🔥 Auswärts ein 4:0 gegen die New York Islanders! Am 31. Oktober haben die Oilers die Fans mit einem klaren Sieg in der Fremde begeistert. Was für ein Abend! 🏒 Let's go, Oilers! #Oilers #LetsGoOilers #NHL",
+  "image": null,
+  "link": null,
+  "created": "2026-10-31T23:24:39+00:00"
+ },
+ {
+  "id": "10b14a9f10d8",
+  "type": "Tabelle",
+  "text": "📊 TABELLE\n\n🏒 Die Oilers sind auf Kurs! 10 Siege, 2 Niederlagen und 2 OT-Niederlagen aus 14 Spielen. Das ergibt 22 Punkte und Platz 1 in der Pacific Division und in der Western Conference! 🔥 Dazu kommt die Serie: 2 Siege in Folge. Weiter so, Jungs! 💙🧡\n\n#Oilers #LetsGoOilers #Tabelle",
+  "image": null,
+  "link": null,
+  "created": "2026-10-31T23:24:44+00:00"
+ },
+ {
   "id": "00d71a4dee6d",
   "type": "Vorschau",
   "text": "🔜 SPIELVORSCHAU\n\nEs ist so weit! 🔥 Am 02.11.2026 um 00:00 Uhr (deutsche Zeit) geht's auswärts gegen die New York Rangers im Madison Square Garden. Mitternacht heißt: Wecker stellen oder durchmachen, Hauptsache, wir sind alle dabei! Lasst uns zusammen mitfiebern und die Oilers lautstark anfeuern. Let's go! 🏒💙\n\n#Oilers #LetsGoOilers #NYRvsEDM",
@@ -468,21 +484,5 @@
   "image": null,
   "link": null,
   "created": "2026-10-26T00:24:02+00:00"
- },
- {
-  "id": "507815468bf3",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans: Vasily Podkolzin hat in dieser Saison in nur 11 Spielen schon 12 Punkte gesammelt, mit 7 Toren und 5 Vorlagen! 🔥 Wer hätte gedacht, dass er so eine starke Phase hat? 🏒 Weiter so, Vasily!\n\n#Oilers #LetsGoOilers #Podkolzin",
-  "image": "img/5c57d34b21cf.png",
-  "link": null,
-  "created": "2026-10-26T00:24:04+00:00"
- },
- {
-  "id": "29d313a18738",
-  "type": "News",
-  "text": "📰 NEWS\n\n🏒 Neues Prospect-Profil bei NHL.com: Dawson Mercer steht im Fokus! Schaut unbedingt rein, um mehr über ihn zu erfahren. 👀 Mehr Details gibt's im vollständigen Artikel auf NHL.com.\n\n#Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMie0FVX3lxTFAya05qY3RZRVFRSFFMS1lyUjBTdTdhbDlwZHVmWjlBUXU0SENjZnh4UkpiaHpyVG8ycGlvWWVWVXdtcTgyWjlmZW41TmFqbGtvWHNjR011U3RSNEJpbFFoOEI1UGt6cWVQWFZ6cVFNRkh3Smc2Q1FzZjU0aw?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAya05qY3RZRVFRSFFMS1lyUjBTdTdhbDlwZHVmWjlBUXU0SENjZnh4UkpiaHpyVG8ycGlvWWVWVXdtcTgyWjlmZW41TmFqbGtvWHNjR011U3RSNEJpbFFoOEI1UGt6cWVQWFZ6cVFNRkh3Smc2Q1FzZjU0aw?oc=5",
-  "created": "2026-10-26T00:24:14+00:00"
  }
 ]
