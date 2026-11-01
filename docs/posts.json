@@ -1,5 +1,21 @@
 [
  {
+  "id": "def22c32cade",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans: Mattias Ekholm hat in dieser Saison schon 5 Punkte in 12 Spielen gesammelt, dabei 2 Tore und 3 Vorlagen! 🔥 Der Verteidiger zeigt, dass er auch offensiv richtig gefährlich ist. Wer hätte das gedacht? 🙌 #Oilers #LetsGoOilers #Ekholm",
+  "image": "img/6b87cbb35a30.png",
+  "link": null,
+  "created": "2026-11-01T18:57:04+00:00"
+ },
+ {
+  "id": "5baff4eb316f",
+  "type": "News",
+  "text": "📰 NEWS\n\n🏒 Achtung Oilers-Fans! Laut Edmonton Journal könnte bald eine schwere Entscheidung rund um das World Junior Tournament in Edmonton anstehen. Welche das genau ist, verrät der Artikel „9 Things“. Lohnt sich auf jeden Fall, reinzuschauen! 👀\n\n#Oilers #LetsGoOilers #WorldJuniors\n\nQuelle: https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOUlleFFRWFc5S0NoRi1DT1ZEcW9pdUhNQnZUaDRKZDl2b2VPY3ZVeUJtaGFOUlFVcXVUSGZFVnB0UkxDemtrQkxmcm5OeWFndGk2VlB1YTREWXE4cUdON2lINzZvWEtRMDdPeTBfZHlrMzJJUy1fZy16eUc0aVF2TEJvelBDZDBHVGE0dVR2VHVmcDNnRE56NlpGakhPQWxNRjdNSm1KZEt2ZjR3VHMyR2lIM3RsLURSY2RKR2RRbU9mLWR3SWhjUDhlb1hHekF6bXdYc21rOGhzeGFxOGRncHpMdTVZUQ?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOUlleFFRWFc5S0NoRi1DT1ZEcW9pdUhNQnZUaDRKZDl2b2VPY3ZVeUJtaGFOUlFVcXVUSGZFVnB0UkxDemtrQkxmcm5OeWFndGk2VlB1YTREWXE4cUdON2lINzZvWEtRMDdPeTBfZHlrMzJJUy1fZy16eUc0aVF2TEJvelBDZDBHVGE0dVR2VHVmcDNnRE56NlpGakhPQWxNRjdNSm1KZEt2ZjR3VHMyR2lIM3RsLURSY2RKR2RRbU9mLWR3SWhjUDhlb1hHekF6bXdYc21rOGhzeGFxOGRncHpMdTVZUQ?oc=5",
+  "created": "2026-11-01T18:57:09+00:00"
+ },
+ {
   "id": "cb8680523cb1",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\n🏒 Fun Fact: Connor McDavid hat in dieser Saison 37 Punkte in 14 Spielen gesammelt. Davon sind 29 Vorlagen! Fast 8 von 10 Punkten sind also Assists. Der Mann sieht die Lücken, bevor sie überhaupt da sind. 🔥 #Oilers #LetsGoOilers #McDavid",
@@ -468,21 +484,5 @@
   "image": null,
   "link": null,
   "created": "2026-10-27T01:29:33+00:00"
- },
- {
-  "id": "b9a261c80f58",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nMathieu Joseph mit 5 Punkten in 11 Spielen! 🔥 2 Tore und 3 Vorlagen, das läuft richtig gut für unseren Joker. Wer hätte gedacht, dass er so schnell Teil des Offensivspiels wird? 🏒 Weiter so, Mathieu! 💙🧡\n\n#Oilers #LetsGoOilers #MathieuJoseph",
-  "image": "img/cd595bc1808a.png",
-  "link": null,
-  "created": "2026-10-27T01:29:35+00:00"
- },
- {
-  "id": "2ebd1c8475e3",
-  "type": "News",
-  "text": "📰 NEWS\n\nAchtung, Oilers-Fans! 🏒 Die voraussichtliche Aufstellung für das Duell gegen die Red Wings ist auf NHL.com online. Schaut rein und seht, wer voraussichtlich aufs Eis geht! 🔥 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMid0FVX3lxTE8tY0ZxZHE2cE05dkU0aWxPaXBtNXRadU1aZG5Dd0ZKelFIRktPWXRHVkNaRlFDaEJyUGdkVDdGWHdKeG1qeTJ5blJtcG5aSzZyY28ta2JSS1RTdVlQU2JDVXpYaTQ5NXV4b2VVSXUyMFNXM1NmaENN?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tY0ZxZHE2cE05dkU0aWxPaXBtNXRadU1aZG5Dd0ZKelFIRktPWXRHVkNaRlFDaEJyUGdkVDdGWHdKeG1qeTJ5blJtcG5aSzZyY28ta2JSS1RTdVlQU2JDVXpYaTQ5NXV4b2VVSXUyMFNXM1NmaENN?oc=5",
-  "created": "2026-10-27T01:29:43+00:00"
  }
 ]
