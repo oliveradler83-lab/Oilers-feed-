@@ -1,5 +1,38 @@
 [
  {
+  "id": "e32f020c5f82",
+  "type": "Quiz",
+  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Tore bei den Oilers in dieser Saison?\n\nA) Ryan Nugent-Hopkins\nB) Kasperi Kapanen\nC) Vasily Podkolzin\nD) Leon Draisaitl\n\nAntwort in den Kanal-Reaktionen! 👇",
+  "answer": "✅ Auflösung: D) Leon Draisaitl mit 12! 🔥\n#Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-11-01T06:08:11+00:00"
+ },
+ {
+  "id": "ce41f6751d5a",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans! 🔥 Ryan Nugent-Hopkins hat in dieser Saison bereits 5 Spiele absolviert und dabei 3 Tore und 4 Vorlagen aufgelegt. Das macht stolze 7 Punkte! 🏒 Wer hätte gedacht, dass RNH so gut in Form ist? Let's go, RNH!\n\n#Oilers #LetsGoOilers #RNH",
+  "image": "img/fb6bcc196068.png",
+  "link": null,
+  "created": "2026-11-01T06:08:12+00:00"
+ },
+ {
+  "id": "f10f5e3ff469",
+  "type": "News",
+  "text": "📰 NEWS\n\n🔥 Schaut euch das an: Nugent-Hopkins hat getroffen! Auf NHL.com gibt's die Highlights seines zweiten Tores. Unbedingt reinschauen! 🏒💙🧡 Let's go Oilers! #Oilers #LetsGoOilers #NHL\n\nQuelle: https://news.google.com/rss/articles/CBMiowFBVV95cUxQbzJJZ1BKbGJiNndpSVBPeGVhd0JoZ084bzRGVXZod3JRd0hJbnJPc0M4d3B3dVNuYnFLVHVaUXRvYWdCbHNmZktiVnpXY1VUYTZ2XzNGTm15TFVPSUl5TTc1UTEtcW1yVXFlT2ZpZ296WTg0R1VXcG1ZQ0VHLXEtOTZBZGRZRVQwX2twNXJSWHlSSENqUllEQndQTUJIY2Y3TlNF?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbzJJZ1BKbGJiNndpSVBPeGVhd0JoZ084bzRGVXZod3JRd0hJbnJPc0M4d3B3dVNuYnFLVHVaUXRvYWdCbHNmZktiVnpXY1VUYTZ2XzNGTm15TFVPSUl5TTc1UTEtcW1yVXFlT2ZpZ296WTg0R1VXcG1ZQ0VHLXEtOTZBZGRZRVQwX2twNXJSWHlSSENqUllEQndQTUJIY2Y3TlNF?oc=5",
+  "created": "2026-11-01T06:08:23+00:00"
+ },
+ {
+  "id": "785f7c3e41b3",
+  "type": "News",
+  "text": "📰 NEWS\n\nDie Oilers haben den Islanders kaum Luft gelassen! 🔥 Jarry hält den Kasten wieder sauber und feiert seinen zweiten Shutout in Folge. Zu-null-Spiel nach Zu-null-Spiel, was für eine Serie! 🙌 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMipAFBVV95cUxOQmhDQ2oxR3djY0FQQVNaWmE4WGh6ZEQ1Qy1oT2FiODdNeXhCZDRnVFJMby1EaFA5azVQc0QtSDJaZkh4cmJtQjY3SE1FOUVhUFN3dDRiQ3pTTUt5VzJxZFY2d2RGRndXb19rZFZfUHBUel9ESFQyNVpucXFGZXdBdl83dnVvUVQtQkVUTS1EYUI1bkkzSnRBdmdTQ29PVUVtbHlPSQ?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQmhDQ2oxR3djY0FQQVNaWmE4WGh6ZEQ1Qy1oT2FiODdNeXhCZDRnVFJMby1EaFA5azVQc0QtSDJaZkh4cmJtQjY3SE1FOUVhUFN3dDRiQ3pTTUt5VzJxZFY2d2RGRndXb19rZFZfUHBUel9ESFQyNVpucXFGZXdBdl83dnVvUVQtQkVUTS1EYUI1bkkzSnRBdmdTQ29PVUVtbHlPSQ?oc=5",
+  "created": "2026-11-01T06:08:23+00:00"
+ },
+ {
   "id": "387c14c0c22a",
   "type": "Spiel",
   "text": "🏒 SPIELBERICHT\n\n🔥 Auswärts ein 4:0 gegen die New York Islanders! Am 31. Oktober haben die Oilers die Fans mit einem klaren Sieg in der Fremde begeistert. Was für ein Abend! 🏒 Let's go, Oilers! #Oilers #LetsGoOilers #NHL",
@@ -451,38 +484,5 @@
   "image": null,
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRWVDTlRUOUxqVW1wNUdYT2NzYS1xNV9Yc2t2VGtNVnQ3d0RiS081NE94bWhNNDZlal96UTVmbXh3U3IyQ3FFSUtaTUVCdk1BeE5DRHJManVzR0VSeXNTYmJEQ1YzNE1RN0Y5cy1SRXk2bHU3NTZsMnBqbjJSbnJqX1U2Z0lGU25oQkY0VA?oc=5",
   "created": "2026-10-26T15:13:04+00:00"
- },
- {
-  "id": "ddeb3c94fa6d",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact: Kasperi Kapanen hat in dieser Saison in 11 Spielen 3 Tore erzielt und 1 Vorlage gegeben. Das macht 4 Punkte! 🏒 Wie zufrieden seid ihr mit seiner Saison? 🔥 #Oilers #LetsGoOilers #Kapanen",
-  "image": "img/19c80e79b691.png",
-  "link": null,
-  "created": "2026-10-26T07:49:32+00:00"
- },
- {
-  "id": "d51cae0e78f5",
-  "type": "News",
-  "text": "📰 NEWS\n\n🏒 Achtung, Oilers-Fans! Eine von Babcocks Lieblings-Sturmreihen läuft gerade nicht rund. Wie reagiert der Coach darauf? Der Edmonton Journal stellt genau diese Frage. Wir sind gespannt! 👀 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMihgJBVV95cUxObml4NWhRMmU5X2lqa1N4WFVpQndHRlNUaXQ3cU9HQWIzd3RQV0VRLUw0dGVjSlUxNmdKX2dwQ1gtV0xSdlhwR2Npbkk0bElGYXRBWFZvclI4M1ZIS01rRml3LTViWkdoZ2R6UTN1S242bnluM3JvalR0TTB4OWpHYkxLeGtOTzI2WEMwNy1nYkppWlhXVHdheGJUc3NtX1F4R2RaV1N1SFRwZjlfc0FzY0VmTmkwcTdMbEpYWlFNa0RoRWtzc0U5Smg4T2tDZU0zemJrS2pFekdzbmswaHR3a2tia2ozeDVodjE3SzgxS3ZhMEUxY3RjaVdJMjV6SlQ0QVlzUVh3?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxObml4NWhRMmU5X2lqa1N4WFVpQndHRlNUaXQ3cU9HQWIzd3RQV0VRLUw0dGVjSlUxNmdKX2dwQ1gtV0xSdlhwR2Npbkk0bElGYXRBWFZvclI4M1ZIS01rRml3LTViWkdoZ2R6UTN1S242bnluM3JvalR0TTB4OWpHYkxLeGtOTzI2WEMwNy1nYkppWlhXVHdheGJUc3NtX1F4R2RaV1N1SFRwZjlfc0FzY0VmTmkwcTdMbEpYWlFNa0RoRWtzc0U5Smg4T2tDZU0zemJrS2pFekdzbmswaHR3a2tia2ozeDVodjE3SzgxS3ZhMEUxY3RjaVdJMjV6SlQ0QVlzUVh3?oc=5",
-  "created": "2026-10-26T07:49:42+00:00"
- },
- {
-  "id": "a0a97340440e",
-  "type": "News",
-  "text": "📰 NEWS\n\n🏒 Vorschau vorhanden! Am 26. Oktober treffen die Oilers auf die Red Wings. Der NHL.com-Bericht bereitet uns aufs Spiel vor. Was erwartet ihr? Schreibt's in die Kommentare! 🔥\n\n#Oilers #LetsGoOilers #NHL\n\nQuelle: https://news.google.com/rss/articles/CBMid0FVX3lxTE1xNDdzS2tHenpxMm95cWtJUHRHbF94NE8tUW5KaWV5MFpaSEZSMDM3TXYwLXo3N013N2VpMS1VNXdObUFFc2VISUtfVDZZX3FSWkJsVlo2Nlp5SWNCbkJOQlVVLWxmZktNNTFObDE5WTJlTUxIR3ZV?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xNDdzS2tHenpxMm95cWtJUHRHbF94NE8tUW5KaWV5MFpaSEZSMDM3TXYwLXo3N013N2VpMS1VNXdObUFFc2VISUtfVDZZX3FSWkJsVlo2Nlp5SWNCbkJOQlVVLWxmZktNNTFObDE5WTJlTUxIR3ZV?oc=5",
-  "created": "2026-10-26T07:49:42+00:00"
- },
- {
-  "id": "d492aa162747",
-  "type": "Quiz",
-  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Vorlagen bei den Oilers in dieser Saison?\n\nA) Evan Bouchard\nB) Vasily Podkolzin\nC) Mathieu Joseph\nD) Connor McDavid\n\nAntwort in den Kanal-Reaktionen! 👇",
-  "answer": "✅ Auflösung: D) Connor McDavid mit 25! 🔥\n#Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-10-26T00:24:02+00:00"
  }
 ]
