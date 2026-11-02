@@ -1,5 +1,21 @@
 [
  {
+  "id": "ac12e77a3795",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact der Woche: Kasperi Kapanen hat in 15 Spielen schon 7 Punkte gesammelt, mit 4 Toren und 3 Vorlagen! 🔥 Das ist Oilers-Power pur! 🏒 #Oilers #LetsGoOilers",
+  "image": "img/19c80e79b691.png",
+  "link": null,
+  "created": "2026-11-02T23:32:11+00:00"
+ },
+ {
+  "id": "36f7dc46e52f",
+  "type": "News",
+  "text": "📰 NEWS\n\nMatt Tomkins hat sein erstes Spiel im Madison Square Garden gewonnen! 🙌 Der Oilers-Spieler, der schon bei vielen Teams unterwegs war, zeigt damit, dass er jede Chance nutzt. Richtig starke Leistung! 🏒 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMingFBVV95cUxPcEpMeVVNSFRrLW4xVUdnc0otMWQwTmJ3d0ZpQTZKMTVKYTlLMUFKZnpYN1N6SkoxS2tjTnd3QWxYUVRveXdWQ1pWN1U0SDBTMzc4cDZGRS1yY1ZjMUdLaENSYklXWGsxUlU1bEVWSU50c2pxSWtsNTRSSVNDeGRYbnJKRG9xWmRuMm1qZHNrNlVXakprREltQ2dZdFJEQQ?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcEpMeVVNSFRrLW4xVUdnc0otMWQwTmJ3d0ZpQTZKMTVKYTlLMUFKZnpYN1N6SkoxS2tjTnd3QWxYUVRveXdWQ1pWN1U0SDBTMzc4cDZGRS1yY1ZjMUdLaENSYklXWGsxUlU1bEVWSU50c2pxSWtsNTRSSVNDeGRYbnJKRG9xWmRuMm1qZHNrNlVXakprREltQ2dZdFJEQQ?oc=5",
+  "created": "2026-11-02T23:32:19+00:00"
+ },
+ {
   "id": "001f63719252",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans: Mattias Ekholm hat in dieser Saison schon 13 Spiele absolviert und dabei 2 Tore und 3 Vorlagen aufgelegt, also insgesamt 5 Punkte gesammelt! 🔥🏒 Starker Start für unseren Verteidiger, da geht noch mehr! 💙🧡\n\n#Oilers #LetsGoOilers #Ekholm",
@@ -468,21 +484,5 @@
   "image": null,
   "link": null,
   "created": "2026-10-28T01:24:01+00:00"
- },
- {
-  "id": "7e7aef63381a",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact: Ryan Shea hat in dieser Saison schon 4 Punkte in 12 Spielen gesammelt, mit 1 Tor und 3 Vorlagen! 🔥 Jeder Punkt zählt, und Shea hat schon ordentlich beigetragen. Let's go, Oilers! 🏒\n\n#Oilers #LetsGoOilers",
-  "image": "img/54414cf1f3b1.png",
-  "link": null,
-  "created": "2026-10-28T01:24:04+00:00"
- },
- {
-  "id": "c8c065db7a3e",
-  "type": "News",
-  "text": "📰 NEWS\n\n🏒 Spannendes Thema: Laut Sportsnet-Artikel setzen die Oilers bei Ike Howard auf einen geduldigen Weg. Die Entwicklung läuft also bewusst langsam, statt ihn zu überstürzen. Was genau dahintersteckt, steht im Artikel. Wie seht ihr das? 🤔\n\n#Oilers #LetsGoOilers #Howard\n\nQuelle: https://news.google.com/rss/articles/CBMikwFBVV95cUxQcnZlanZELXU4VXVNelNad2swaGlSWWQwRnFpM0hwODRtblNxQ1NHUGdRcVV0UkRDMDlNZ1NxWFh5T1RBTm90cGtxanN4bkc4MmVqZlhyYXdUcUxvanBLck9Ca1dGMHQySll6OHIzUHpkdWhRb1VVMkkwcy01SXdnbmlPTjV3MmVfamhYYUpnTW5pNEk?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcnZlanZELXU4VXVNelNad2swaGlSWWQwRnFpM0hwODRtblNxQ1NHUGdRcVV0UkRDMDlNZ1NxWFh5T1RBTm90cGtxanN4bkc4MmVqZlhyYXdUcUxvanBLck9Ca1dGMHQySll6OHIzUHpkdWhRb1VVMkkwcy01SXdnbmlPTjV3MmVfamhYYUpnTW5pNEk?oc=5",
-  "created": "2026-10-28T01:24:13+00:00"
  }
 ]
