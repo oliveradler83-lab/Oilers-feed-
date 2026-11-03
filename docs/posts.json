@@ -1,5 +1,21 @@
 [
  {
+  "id": "689f4be4d747",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact des Tages: Vasily Podkolzin hat in dieser Saison in 15 Spielen 9 Tore erzielt und dazu 5 Vorlagen gegeben. Macht zusammen 14 Punkte! 🔥 Wer hätte gedacht, dass er so eiskalt vor dem Tor ist? 🏒 #Oilers #LetsGoOilers",
+  "image": "img/5c57d34b21cf.png",
+  "link": null,
+  "created": "2026-11-03T21:49:50+00:00"
+ },
+ {
+  "id": "79807e8ab4bd",
+  "type": "News",
+  "text": "📰 NEWS\n\nDie Vorschau-Aufstellung für Oilers at Devils ist online! 🏒 Laut NHL.com steht schon, wer voraussichtlich aufs Eis geht. Die genaue Liste gibt's direkt auf NHL.com. 🔥 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMif0FVX3lxTE9WcUNmc2lMaTFKa2hya0tVZ0k1RG9LNnNnTVR5dEtnZUplVHYtN2x0N3l5OXZhSGUxcTQ4M1RpdmpheFZoUi1ZU0E1WHh2SU9XSS1nU1FaRG5DS0RFM2dQdU50RFBPaHZXMEJIcTdmeklmUUw2Zm43cHZOb3ZIdU0?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WcUNmc2lMaTFKa2hya0tVZ0k1RG9LNnNnTVR5dEtnZUplVHYtN2x0N3l5OXZhSGUxcTQ4M1RpdmpheFZoUi1ZU0E1WHh2SU9XSS1nU1FaRG5DS0RFM2dQdU50RFBPaHZXMEJIcTdmeklmUUw2Zm43cHZOb3ZIdU0?oc=5",
+  "created": "2026-11-03T21:49:55+00:00"
+ },
+ {
   "id": "64c6f90fc5a2",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans: Mathieu Joseph hat in dieser Saison in 15 Spielen schon 7 Punkte gesammelt, mit 3 Toren und 4 Vorlagen! 🔥 Ein richtig starker Start, der Lust auf mehr macht. Wie seht ihr seine Entwicklung? 🏒\n\n#Oilers #LetsGoOilers #MathieuJoseph",
@@ -468,21 +484,5 @@
   "image": "img/19c80e79b691.png",
   "link": null,
   "created": "2026-10-29T05:50:18+00:00"
- },
- {
-  "id": "6703f2c07c65",
-  "type": "Tabelle",
-  "text": "📊 TABELLE\n\n🏒 Tabellen-Update! Die Oilers führen nach 13 Spielen die Pacific Division UND die Western Conference an! 🔥 Die Bilanz: 9 Siege, 2 Niederlagen, 2 OT-Niederlagen und damit 20 Punkte. Aktuell läuft's mit einem Sieg in Serie. Weiter so, Oilers! 💙\n\n#Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-10-29T05:50:21+00:00"
- },
- {
-  "id": "cd4f802bcf5d",
-  "type": "News",
-  "text": "📰 NEWS\n\nDie Oilers haben die Flames mit 4:0 besiegt, und das ohne Gegentor! 🔥 Die schnelle Zusammenfassung gibt's bei NHL.com. Wer Lust hat, kann da direkt reinschauen. Let's go Oilers! 🏒 #Oilers #LetsGoOilers #NHL\n\nQuelle: https://news.google.com/rss/articles/CBMieEFVX3lxTFBuaUlDMVMxMkU4N0xEWFA3dXFFR1RWblhuYUxia1NLV3VSdzZYREYyckNvU0pXR3FNUk10djVncG0wTFZmcHNQdkxXM0YyRGUxdkxVTlZNbjdpWFJWUTNGeTRnaHlLd3IycUE5bzJLSU1sZ3JhaXMxMw?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuaUlDMVMxMkU4N0xEWFA3dXFFR1RWblhuYUxia1NLV3VSdzZYREYyckNvU0pXR3FNUk10djVncG0wTFZmcHNQdkxXM0YyRGUxdkxVTlZNbjdpWFJWUTNGeTRnaHlLd3IycUE5bzJLSU1sZ3JhaXMxMw?oc=5",
-  "created": "2026-10-29T05:50:28+00:00"
  }
 ]
