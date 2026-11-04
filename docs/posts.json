@@ -1,5 +1,46 @@
 [
  {
+  "id": "c43471fe6938",
+  "type": "Vorschau",
+  "text": "🔜 SPIELVORSCHAU\n\nEs ist so weit! 🔥 Am 06.11. um 02:00 Uhr (deutsche Zeit) steigt das nächste Heimspiel im Rogers Place, und zwar gegen die Anaheim Ducks! Stell dir den Wecker, hol die Snacks raus und feuer die Jungs an, was die Stimmbänder hergeben! 🧡💙 Let's go Oilers!\n\n#Oilers #LetsGoOilers #RogersPlace",
+  "image": null,
+  "link": null,
+  "created": "2026-11-04T02:21:17+00:00"
+ },
+ {
+  "id": "4efea6a332b5",
+  "type": "Quiz",
+  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Tore bei den Oilers in dieser Saison?\n\nA) Vasily Podkolzin\nB) Connor McDavid\nC) Leon Draisaitl\nD) Kasperi Kapanen\n\nAntwort in den Kanal-Reaktionen! 👇",
+  "answer": "✅ Auflösung: C) Leon Draisaitl mit 12! 🔥\n#Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-11-04T02:21:17+00:00"
+ },
+ {
+  "id": "1f810869bb92",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun-Fact-Alarm! 🔥 Kasperi Kapanen steht in dieser Saison nach 15 Spielen bei 4 Toren und 3 Vorlagen, also insgesamt 7 Punkten. Was für ein Start! Wer hätte gedacht, dass er so schnell in Fahrt kommt? 🏒 Weiter so, Kasperi!\n\n#Oilers #LetsGoOilers #Kapanen",
+  "image": "img/19c80e79b691.png",
+  "link": null,
+  "created": "2026-11-04T02:21:19+00:00"
+ },
+ {
+  "id": "817c322418d8",
+  "type": "News",
+  "text": "📰 NEWS\n\n🔥 Bouchard hat zugeschlagen! Im Spiel EDM@NJD hat er gegen Connor Hellebuyck getroffen. Starker Abschluss! 🏒 Wer hat den Treffer live gesehen? #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMiowFBVV95cUxNazZZTEZZa1pQU3BzVDUyeFpraXpnZnJtdk5mb1FTQmZLTTlnVnd6VGFNcHZHUThUaVZfRFhoQlJkVm80MnlsOW5DaTZlUW4wazYxQm1sQk9NU1hMY1pJbWpJdEltc0RnWHgxcEpYRU9pTGJHSDZzZTl0XzZHenFqeGd1ZGFzN25ZMElfOTVJT2xSb0Nza0pTWV9BWXAyRXc0Mnk0?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNazZZTEZZa1pQU3BzVDUyeFpraXpnZnJtdk5mb1FTQmZLTTlnVnd6VGFNcHZHUThUaVZfRFhoQlJkVm80MnlsOW5DaTZlUW4wazYxQm1sQk9NU1hMY1pJbWpJdEltc0RnWHgxcEpYRU9pTGJHSDZzZTl0XzZHenFqeGd1ZGFzN25ZMElfOTVJT2xSb0Nza0pTWV9BWXAyRXc0Mnk0?oc=5",
+  "created": "2026-11-04T02:21:30+00:00"
+ },
+ {
+  "id": "37de2a4ad012",
+  "type": "News",
+  "text": "📰 NEWS\n\nWilde Idee der Woche: Könnten die Oilers tatsächlich Nikita Kucherov holen? Daily Hive stellt genau diese Frage in den Raum. Ob da wirklich was dran ist, bleibt offen, aber allein der Gedanke sorgt schon für Gesprächsstoff. Was denkt ihr, wäre das ein Traum-Deal? 🏒🔥 #Oilers #LetsGoOilers #NHL\n\nQuelle: https://news.google.com/rss/articles/CBMiggFBVV95cUxQQkZEaUhKN0VrZWZoR1ZjSHhjMjM2bGlVeXVNMkRWeHFiQmRHRFdqcUtNNVJOTXRyRHUtRjc1WFlaRXRCT1hxOU1YRkh0U1dSVERhbEtmMVVzck9YLWhQVEdYdnBDUUNDdVJQNGxfRjNyeXVSVmFVMGt4ZndlaUk2WEtB?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQkZEaUhKN0VrZWZoR1ZjSHhjMjM2bGlVeXVNMkRWeHFiQmRHRFdqcUtNNVJOTXRyRHUtRjc1WFlaRXRCT1hxOU1YRkh0U1dSVERhbEtmMVVzck9YLWhQVEdYdnBDUUNDdVJQNGxfRjNyeXVSVmFVMGt4ZndlaUk2WEtB?oc=5",
+  "created": "2026-11-04T02:21:30+00:00"
+ },
+ {
   "id": "689f4be4d747",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\nFun Fact des Tages: Vasily Podkolzin hat in dieser Saison in 15 Spielen 9 Tore erzielt und dazu 5 Vorlagen gegeben. Macht zusammen 14 Punkte! 🔥 Wer hätte gedacht, dass er so eiskalt vor dem Tor ist? 🏒 #Oilers #LetsGoOilers",
@@ -443,46 +484,5 @@
   "image": null,
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNejlqSGtEN0ltX2M2SS1CVVlOc2xoVThMdm1lMWd1UUdILUc0R3Uwa241VkJVeHliZTliY29xZjFjUjhFU0VHU01ENUFMOC10Tk1jWGExQW41eTl2TmFLZEwxM2JjeC1oTFA2MGxfVF9YX2hiV0YyODRoLVhtRjB0UGoxY0xhZk1jNkhadjVmdjVZOTl4Nm9hREtIV1BpeGFPbkE?oc=5",
   "created": "2026-10-29T13:04:02+00:00"
- },
- {
-  "id": "b6c5f11e4e74",
-  "type": "News",
-  "text": "📰 NEWS\n\nWas für ein Abend! 🔥 Die Oilers haben die Flames im Battle of Alberta mit 4:0 geschlagen, und das ohne Gegentor! Ein Shutout gegen den Erzrivalen, da kann man nur jubeln. 🙌 Die ersten Reaktionen gibt's bei Oilers Nation. #Oilers #LetsGoOilers #BattleOfAlberta\n\nQuelle: https://news.google.com/rss/articles/CBMimAFBVV95cUxPRGQ2akNCUFk0WTUxM3hmVFo2dXpuV1VEd1FoRF80NXNfUVJnNUYwbzNFeVVZaW9hc2RpZlZvSXRZOWtvN1hXNHZhSFFvUE9HM3ZkTjVnUEhzdFlCSm41OFBDV19Jc01uRUI2Mk9xNGh5Q3l0QUJqREVLSm5pMm8tR0drSHVDRkRuczhnclRBbjU0dWFpNTdtRg?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRGQ2akNCUFk0WTUxM3hmVFo2dXpuV1VEd1FoRF80NXNfUVJnNUYwbzNFeVVZaW9hc2RpZlZvSXRZOWtvN1hXNHZhSFFvUE9HM3ZkTjVnUEhzdFlCSm41OFBDV19Jc01uRUI2Mk9xNGh5Q3l0QUJqREVLSm5pMm8tR0drSHVDRkRuczhnclRBbjU0dWFpNTdtRg?oc=5",
-  "created": "2026-10-29T13:04:02+00:00"
- },
- {
-  "id": "4478718445db",
-  "type": "Spiel",
-  "text": "🏒 SPIELBERICHT\n\nOilers gewinnen! 🔥 Zuhause gegen die Calgary Flames gab's ein klares 4:0 für unsere Jungs! Was für eine Leistung am 28.10.2026, Edmonton feiert heute richtig! 🏒🙌 #Oilers #LetsGoOilers #Edmonton",
-  "image": null,
-  "link": null,
-  "created": "2026-10-29T05:50:13+00:00"
- },
- {
-  "id": "d7b188af1793",
-  "type": "Vorschau",
-  "text": "🔜 SPIELVORSCHAU\n\nOilers-Familie, aufgepasst! 🔥 Am 31.10.2026 um 19:00 Uhr (deutscher Zeit) geht's auswärts gegen die New York Islanders in die UBS Arena. Trikot an, Snacks bereit und ab vor den Bildschirm! Lasst uns gemeinsam mitfiebern und jeden Shift lautstark anfeuern! 🏒💙 #Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-10-29T05:50:16+00:00"
- },
- {
-  "id": "f05b4afd1aa8",
-  "type": "Quiz",
-  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Punkte bei den Oilers in dieser Saison?\n\nA) Connor McDavid\nB) Mathieu Joseph\nC) Evan Bouchard\nD) Leon Draisaitl\n\nAntwort in den Kanal-Reaktionen! 👇",
-  "answer": "✅ Auflösung: A) Connor McDavid mit 36! 🔥\n#Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-10-29T05:50:16+00:00"
- },
- {
-  "id": "2c8be5f5eed5",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact: Kasperi Kapanen hat in dieser Saison aus 13 Spielen 6 Punkte gesammelt! 🏒 Dazu kommen 4 Tore und 2 Vorlagen. Das kann sich sehen lassen, oder? 🔥 #Oilers #LetsGoOilers",
-  "image": "img/19c80e79b691.png",
-  "link": null,
-  "created": "2026-10-29T05:50:18+00:00"
  }
 ]
