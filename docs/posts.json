@@ -1,5 +1,21 @@
 [
  {
+  "id": "76d0863e60e5",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\n🔥 Leon Draisaitl hat in dieser Saison 16 Spiele absolviert und dabei genauso viele Vorlagen wie Spiele gesammelt: 16! Dazu kommen 13 Tore, also insgesamt 29 Punkte. Jeder Pass zählt, und Leon liefert. 🏒\n\n#Oilers #LetsGoOilers #Draisaitl",
+  "image": "img/16536e777c2d.png",
+  "link": null,
+  "created": "2026-11-04T19:46:28+00:00"
+ },
+ {
+  "id": "c35243a23d0d",
+  "type": "News",
+  "text": "📰 NEWS\n\nBabcock bekommt Ehrung von seinen Trainerkollegen, und genau in dem Moment werden die Oilers zum Top-Team der NHL. 🏒 Was für ein Timing für Edmonton! 🙌 #Oilers #LetsGoOilers #NHL\n\nQuelle: https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR1VmUHFpVUcxb1hkMnZkNnExbHFkZ2dCbHRXekhiQUVDN0JQbDVuQ1pkN0FCRWlIb2NuaU5NZnhYSjl3UDhBczVPS1E5ZFg0dU84aEZnT0dqMjB1WXhfZ3NmWGw3Q2J5RFY2dEhybldyQVotQXg5RFBfQ2swMW5mWEE3Rml4RHU3QWFuTDhZLUxkMjVnSXJJMm1wZmhFQ0g2WG5ZM3FmU2ljcVdGUDhHVWhILWxZRGNWZ0dEbXBEbld6dlNzWVVxS05CWnJoNi0wUEI0YklSSVR4Zw?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR1VmUHFpVUcxb1hkMnZkNnExbHFkZ2dCbHRXekhiQUVDN0JQbDVuQ1pkN0FCRWlIb2NuaU5NZnhYSjl3UDhBczVPS1E5ZFg0dU84aEZnT0dqMjB1WXhfZ3NmWGw3Q2J5RFY2dEhybldyQVotQXg5RFBfQ2swMW5mWEE3Rml4RHU3QWFuTDhZLUxkMjVnSXJJMm1wZmhFQ0g2WG5ZM3FmU2ljcVdGUDhHVWhILWxZRGNWZ0dEbXBEbld6dlNzWVVxS05CWnJoNi0wUEI0YklSSVR4Zw?oc=5",
+  "created": "2026-11-04T19:46:36+00:00"
+ },
+ {
   "id": "de68db1f8675",
   "type": "Spiel",
   "text": "🏒 SPIELBERICHT\n\nSchade, Oilers-Fans! 😤 Auswärts bei den New Jersey Devils hat es leider nicht gereicht. Endstand 3:4 aus Oilers-Sicht, entschieden nach Verlängerung/Shootout. Das tut weh, aber der Kampf war da. Weiter geht's! 🏒 #Oilers #LetsGoOilers",
@@ -468,21 +484,5 @@
   "image": null,
   "link": null,
   "created": "2026-10-30T05:51:15+00:00"
- },
- {
-  "id": "73ecd77540b9",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\n🏒 Fun Fact: Leon Draisaitl hat in dieser Saison nach 13 Spielen bereits 24 Punkte auf dem Konto: 12 Tore und 12 Vorlagen! 🔥 Jeder Treffer und jede Vorlage zählt, und er ist eine echte Punktemaschine für die Oilers. Wie sehr freust du dich auf die nächsten Spiele? 🙌\n\n#Oilers #LetsGoOilers #Draisaitl",
-  "image": "img/16536e777c2d.png",
-  "link": null,
-  "created": "2026-10-30T05:51:17+00:00"
- },
- {
-  "id": "7f4eb19e5870",
-  "type": "News",
-  "text": "📰 NEWS\n\nKrasse Sache aus dem Oilers-Lager! 🏒 Ein Oilers-Grinder hat den Calgary-Goalie hart attackiert und verletzt. Danach geht es wohl ziemlich seltsam zu. Mehr dazu im Artikel von Yahoo News Canada. Wie seht ihr das? 👀 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTFlZeVZWZHdHMTNac3c2LXRRWTdHRHlPTWdzV1F2WjhSY2ZmMnF5WTFsdVRzNGZXdUFDX3ZiM3JaR1NSM0hHVGUySU9VUUpoUV9rbTczckgtY3huWFZCVEZsUWl6a3RQcFk5cUFjdEJlb2otRHhDR0VjeDBEV0ZVYWdMREdPY2Vr?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTFlZeVZWZHdHMTNac3c2LXRRWTdHRHlPTWdzV1F2WjhSY2ZmMnF5WTFsdVRzNGZXdUFDX3ZiM3JaR1NSM0hHVGUySU9VUUpoUV9rbTczckgtY3huWFZCVEZsUWl6a3RQcFk5cUFjdEJlb2otRHhDR0VjeDBEV0ZVYWdMREdPY2Vr?oc=5",
-  "created": "2026-10-30T05:51:24+00:00"
  }
 ]
