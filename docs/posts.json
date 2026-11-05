@@ -1,5 +1,21 @@
 [
  {
+  "id": "41e899f9bf42",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans! 🏒 Ryan Nugent-Hopkins hat in dieser Saison bisher in 7 Spielen 4 Tore und 5 Vorlagen gesammelt, also insgesamt 9 Punkte! Der RNH ist gerade richtig heiß. 🔥 Wer hätte gedacht, dass er so früh in der Saison so stark startet? Let's go, Oilers! 💙🧡\n\n#Oilers #LetsGoOilers #RNH",
+  "image": "img/fb6bcc196068.png",
+  "link": null,
+  "created": "2026-11-05T18:02:29+00:00"
+ },
+ {
+  "id": "f0bf1ad206f0",
+  "type": "News",
+  "text": "📰 NEWS\n\n🏒 Die Oilers sind von ihrer Auswärtstour zurück in Edmonton, aber die Zuschauerzahlen bleiben ein Problem. Laut Edmonton Journal kämpft das Team weiter mit schwachem Heimpublikum. Wir hoffen, dass wieder mehr Fans den Weg in die Halle finden und richtig Stimmung machen! 💙🧡 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMidEFVX3lxTE1PUjNoSkRyckkzc0VqRHJTemhBTlZ1TkxzY2hTQlc5OFdmbWpFS2sxd19qak80TEhzM3VEMXVuWXRYcVFxelhzOUk4WUJHU3NsQnFCZXpkWndCaDVUaWR4VTY3WlFoM2Rzel93OWtLTXpvT29l?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PUjNoSkRyckkzc0VqRHJTemhBTlZ1TkxzY2hTQlc5OFdmbWpFS2sxd19qak80TEhzM3VEMXVuWXRYcVFxelhzOUk4WUJHU3NsQnFCZXpkWndCaDVUaWR4VTY3WlFoM2Rzel93OWtLTXpvT29l?oc=5",
+  "created": "2026-11-05T18:02:35+00:00"
+ },
+ {
   "id": "a9e5530cb3cf",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\n🏒🔥 Fun Fact: Evan Bouchard hat in dieser Saison bisher 16 Spiele gemacht und dabei 9 Tore und 19 Vorlagen aufgelegt. Das sind 28 Punkte! Besonders stark: Die meisten seiner Punkte kommen über Vorlagen, er findet also ständig den perfekten Mitspieler. 🙌\n\n#Oilers #LetsGoOilers #Bouchard",
@@ -468,21 +484,5 @@
   "image": null,
   "link": null,
   "created": "2026-10-31T05:43:59+00:00"
- },
- {
-  "id": "bc985621b1bc",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\n🔥 Fun Fact: Kasperi Kapanen hat in dieser Saison in 13 Spielen 4 Tore und 2 Vorlagen aufgelegt. Das sind starke 6 Punkte! 🏒 Jeder Treffer zählt, und wir feiern jeden einzelnen. #Oilers #LetsGoOilers",
-  "image": "img/19c80e79b691.png",
-  "link": null,
-  "created": "2026-10-31T05:44:01+00:00"
- },
- {
-  "id": "529c0c2b7a73",
-  "type": "News",
-  "text": "📰 NEWS\n\nDer Oilers-Umbau unter Mike Babcock zahlt sich aus! 🙌 Laut Sportsnet.ca liegt das vor allem an klaren Strukturen und mehr Verantwortung im Team. Schön zu sehen, dass die Arbeit im Hintergrund Früchte trägt! 🛢️ Let's go Oilers! 💙\n\n#Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMisAFBVV95cUxORmVJNXJkM1ZXMDYxR0E4am1uWE5PV1dIUkd0Z2JDZG9zdm93a1NGZFRNNTdWZEZRLVRZNlA2Qnp2MmlFQnFGQVlwcEUxdnV6bVVZMzZ0NFBPeTlqT1J2MEhsZi1JZFdINm9XQ0l6VnBFYWE1NXJRQ2RURnJ2MHVmVGx0SlI4c3J3ZlB2VWZYdURzLXRNRVl5Mm9mX2gwd3NLTTNuY3BMX3FfMm9PR0NmTA?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmVJNXJkM1ZXMDYxR0E4am1uWE5PV1dIUkd0Z2JDZG9zdm93a1NGZFRNNTdWZEZRLVRZNlA2Qnp2MmlFQnFGQVlwcEUxdnV6bVVZMzZ0NFBPeTlqT1J2MEhsZi1JZFdINm9XQ0l6VnBFYWE1NXJRQ2RURnJ2MHVmVGx0SlI4c3J3ZlB2VWZYdURzLXRNRVl5Mm9mX2gwd3NLTTNuY3BMX3FfMm9PR0NmTA?oc=5",
-  "created": "2026-10-31T05:44:11+00:00"
  }
 ]
