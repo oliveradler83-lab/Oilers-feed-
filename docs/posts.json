@@ -1,5 +1,29 @@
 [
  {
+  "id": "b6fe883efc5d",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact: Vasily Podkolzin hat in dieser Saison schon 9 Tore und 5 Vorlagen gesammelt. Das sind 14 Punkte in nur 17 Spielen! 🔥 Ein starker Lauf, der Lust auf mehr macht. 🏒 #Oilers #LetsGoOilers",
+  "image": "img/5c57d34b21cf.png",
+  "link": null,
+  "created": "2026-11-06T15:56:19+00:00"
+ },
+ {
+  "id": "6532c96e1766",
+  "type": "News",
+  "text": "📰 NEWS\n\nSchade, Leute, heute hat's leider nicht gereicht! 😤 Die Ducks gewinnen 5:4 gegen unsere Oilers. Knapp war's auf jeden Fall, aber der Sieg fehlt. Kopf hoch, das nächste Spiel holen wir uns! 💪 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMieEFVX3lxTE5lbWZhUldMT0p6aEFJcTcwc2dtYy1DWHpUM0VTakF3RXZ0SFRReV95NFFEVVhOQjJDcTNzMDV6X29WWE1hcUZ1QWZId0xCTjRkWVNUcHNDRXNmQTFBSVVnM2VvbktrVXFvdEhhdHMxZ1ZJWVphNkx5Mg?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lbWZhUldMT0p6aEFJcTcwc2dtYy1DWHpUM0VTakF3RXZ0SFRReV95NFFEVVhOQjJDcTNzMDV6X29WWE1hcUZ1QWZId0xCTjRkWVNUcHNDRXNmQTFBSVVnM2VvbktrVXFvdEhhdHMxZ1ZJWVphNkx5Mg?oc=5",
+  "created": "2026-11-06T15:56:29+00:00"
+ },
+ {
+  "id": "89db23036ec5",
+  "type": "News",
+  "text": "📰 NEWS\n\nAutsch, die Niederlage gegen die Ducks sitzt tief! 😤 Connor McDavid ist richtig sauer über einen Check, den er als „gefährlich“ einstuft. Laut Oilers Nation gibt's dazu mehr im Artikel „The Day After 17.0“. Kopf hoch, Oilers-Familie, weiter geht's! 🛢️ #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMipAFBVV95cUxPU254QU5tVHU5d3dUX05oV0daUFRuUjZHc1VSbWd3QTZ3VWI1ZGZLMFdDRXpNSURiZ2xjSmdNTFktMHRJVVRCNWlHM21IUDIxTVhESjJCLWZfZko5TW1jT1U5Yy1KTUpDR1diSmp2MEdTd0Q2QVJaTEpmcWwtQlBwUzdheExWVzRhY2w5aFBVeDJZNjg5MFJHMS1OOTRtVUp6LTdiWA?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU254QU5tVHU5d3dUX05oV0daUFRuUjZHc1VSbWd3QTZ3VWI1ZGZLMFdDRXpNSURiZ2xjSmdNTFktMHRJVVRCNWlHM21IUDIxTVhESjJCLWZfZko5TW1jT1U5Yy1KTUpDR1diSmp2MEdTd0Q2QVJaTEpmcWwtQlBwUzdheExWVzRhY2w5aFBVeDJZNjg5MFJHMS1OOTRtVUp6LTdiWA?oc=5",
+  "created": "2026-11-06T15:56:29+00:00"
+ },
+ {
   "id": "155f3b93434e",
   "type": "Spiel",
   "text": "🏒 SPIELBERICHT\n\nKnappe Kiste, Oilers-Fans! 🏒 Am 5. November gab's zuhause gegen die Anaheim Ducks ein 4:5 aus Oilers-Sicht. Das tut weh, aber so eng ist Eishockey nun mal. Kopf hoch, das nächste Spiel kommt bestimmt! Let's go, Oilers! 💙🧡\n\n#Oilers #LetsGoOilers #Eishockey",
@@ -460,29 +484,5 @@
   "image": null,
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbzJJZ1BKbGJiNndpSVBPeGVhd0JoZ084bzRGVXZod3JRd0hJbnJPc0M4d3B3dVNuYnFLVHVaUXRvYWdCbHNmZktiVnpXY1VUYTZ2XzNGTm15TFVPSUl5TTc1UTEtcW1yVXFlT2ZpZ296WTg0R1VXcG1ZQ0VHLXEtOTZBZGRZRVQwX2twNXJSWHlSSENqUllEQndQTUJIY2Y3TlNF?oc=5",
   "created": "2026-11-01T06:08:23+00:00"
- },
- {
-  "id": "785f7c3e41b3",
-  "type": "News",
-  "text": "📰 NEWS\n\nDie Oilers haben den Islanders kaum Luft gelassen! 🔥 Jarry hält den Kasten wieder sauber und feiert seinen zweiten Shutout in Folge. Zu-null-Spiel nach Zu-null-Spiel, was für eine Serie! 🙌 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMipAFBVV95cUxOQmhDQ2oxR3djY0FQQVNaWmE4WGh6ZEQ1Qy1oT2FiODdNeXhCZDRnVFJMby1EaFA5azVQc0QtSDJaZkh4cmJtQjY3SE1FOUVhUFN3dDRiQ3pTTUt5VzJxZFY2d2RGRndXb19rZFZfUHBUel9ESFQyNVpucXFGZXdBdl83dnVvUVQtQkVUTS1EYUI1bkkzSnRBdmdTQ29PVUVtbHlPSQ?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQmhDQ2oxR3djY0FQQVNaWmE4WGh6ZEQ1Qy1oT2FiODdNeXhCZDRnVFJMby1EaFA5azVQc0QtSDJaZkh4cmJtQjY3SE1FOUVhUFN3dDRiQ3pTTUt5VzJxZFY2d2RGRndXb19rZFZfUHBUel9ESFQyNVpucXFGZXdBdl83dnVvUVQtQkVUTS1EYUI1bkkzSnRBdmdTQ29PVUVtbHlPSQ?oc=5",
-  "created": "2026-11-01T06:08:23+00:00"
- },
- {
-  "id": "387c14c0c22a",
-  "type": "Spiel",
-  "text": "🏒 SPIELBERICHT\n\n🔥 Auswärts ein 4:0 gegen die New York Islanders! Am 31. Oktober haben die Oilers die Fans mit einem klaren Sieg in der Fremde begeistert. Was für ein Abend! 🏒 Let's go, Oilers! #Oilers #LetsGoOilers #NHL",
-  "image": null,
-  "link": null,
-  "created": "2026-10-31T23:24:39+00:00"
- },
- {
-  "id": "10b14a9f10d8",
-  "type": "Tabelle",
-  "text": "📊 TABELLE\n\n🏒 Die Oilers sind auf Kurs! 10 Siege, 2 Niederlagen und 2 OT-Niederlagen aus 14 Spielen. Das ergibt 22 Punkte und Platz 1 in der Pacific Division und in der Western Conference! 🔥 Dazu kommt die Serie: 2 Siege in Folge. Weiter so, Jungs! 💙🧡\n\n#Oilers #LetsGoOilers #Tabelle",
-  "image": null,
-  "link": null,
-  "created": "2026-10-31T23:24:44+00:00"
  }
 ]
