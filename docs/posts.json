@@ -1,5 +1,38 @@
 [
  {
+  "id": "c2166299aacb",
+  "type": "Quiz",
+  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Punkte bei den Oilers in dieser Saison?\n\nA) Evan Bouchard\nB) Ryan Nugent-Hopkins\nC) Connor McDavid\nD) Leon Draisaitl\n\nAntwort in den Kanal-Reaktionen! 👇",
+  "answer": "✅ Auflösung: C) Connor McDavid mit 44! 🔥\n#Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-11-07T01:56:36+00:00"
+ },
+ {
+  "id": "d0b878fc7448",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact gefällig? 🤩 Mathieu Joseph hat in dieser Saison 17 Spiele bestritten, dabei 3 Tore erzielt und 4 Vorlagen gegeben. Das macht zusammen 7 Punkte! 🏒 Wer hätte gedacht, dass er so viel Einfluss auf das Spiel hat? 🔥 #Oilers #LetsGoOilers #MathieuJoseph",
+  "image": "img/cd595bc1808a.png",
+  "link": null,
+  "created": "2026-11-07T01:56:39+00:00"
+ },
+ {
+  "id": "b7abf8c2cea8",
+  "type": "News",
+  "text": "📰 NEWS\n\nKurze Info aus dem Oilers-Lager 🧤: Brett Epp ist als Notfall-Torhüter gegen die Ducks als Backup dabei! Daumen drücken für unsere Jungs 🏒 #Oilers #LetsGoOilers #Ducks\n\nQuelle: https://news.google.com/rss/articles/CBMipgFBVV95cUxNemZTTzZQT21SdUJnbGc4VFRnbEdubDRDMnc1UjA2aU1yTTk1dHJ5MG9WNWxpbXhKa0diRU1uZ2UyZ19ocXotTi1WUWR2YVhQcm5ZanRyZWd6ZWtRbnFLZ0tUMXdzbU01blZXczlSVy1sMXl0anAwOXFudVBjRUs2ZmhvODJXYkZjVHh2OGlfMUw3ampBYUVBenRiYnM0SUFrZmV5LTFR?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNemZTTzZQT21SdUJnbGc4VFRnbEdubDRDMnc1UjA2aU1yTTk1dHJ5MG9WNWxpbXhKa0diRU1uZ2UyZ19ocXotTi1WUWR2YVhQcm5ZanRyZWd6ZWtRbnFLZ0tUMXdzbU01blZXczlSVy1sMXl0anAwOXFudVBjRUs2ZmhvODJXYkZjVHh2OGlfMUw3ampBYUVBenRiYnM0SUFrZmV5LTFR?oc=5",
+  "created": "2026-11-07T01:56:48+00:00"
+ },
+ {
+  "id": "9732bc45ce14",
+  "type": "News",
+  "text": "📰 NEWS\n\n🏒 Laut The Hockey News sind die Oilers im Fall Jake Walman inzwischen über das reine Botschaften-Senden hinaus. Mehr Details nennt die Schlagzeile nicht, aber die Story klingt spannend. Wir halten euch auf dem Laufenden! 🔥 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMitgFBVV95cUxONXdfRTZyVlVobG1rU1NNS0szbTJzZnZWc3VLcWRxTG5vVC03MFBWbmQ2c2NuNlJqQ21pa1NwRkkzTGg3SU53bUJ3bld1b2ZrbmFoTEdseEd5WGVYUUptZ2U2VWF2ekZKRXdCU2pUdnNxMHNTSzJrLWpRaUdjMVFuR3FqelpHNXQ4WmJtRkdmY2RhOTdKWmkzRjZ1QlJ6TFNCMHBjRjVxdVJaQnB4ODJWdDhQaHM0dw?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONXdfRTZyVlVobG1rU1NNS0szbTJzZnZWc3VLcWRxTG5vVC03MFBWbmQ2c2NuNlJqQ21pa1NwRkkzTGg3SU53bUJ3bld1b2ZrbmFoTEdseEd5WGVYUUptZ2U2VWF2ekZKRXdCU2pUdnNxMHNTSzJrLWpRaUdjMVFuR3FqelpHNXQ4WmJtRkdmY2RhOTdKWmkzRjZ1QlJ6TFNCMHBjRjVxdVJaQnB4ODJWdDhQaHM0dw?oc=5",
+  "created": "2026-11-07T01:56:48+00:00"
+ },
+ {
   "id": "934be38f8ad3",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\nEvan Bouchard ist gerade on fire! 🔥 17 Spiele, 10 Tore und 20 Vorlagen, das sind starke 30 Punkte in dieser Saison. Unser Verteidiger zeigt, wie gefährlich er aus der Defensive nach vorne ist. 🏒 Wer hätte gedacht, dass er so viel Offensive bringt?\n\n#Oilers #LetsGoOilers #EvanBouchard",
@@ -451,38 +484,5 @@
   "image": null,
   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOUlleFFRWFc5S0NoRi1DT1ZEcW9pdUhNQnZUaDRKZDl2b2VPY3ZVeUJtaGFOUlFVcXVUSGZFVnB0UkxDemtrQkxmcm5OeWFndGk2VlB1YTREWXE4cUdON2lINzZvWEtRMDdPeTBfZHlrMzJJUy1fZy16eUc0aVF2TEJvelBDZDBHVGE0dVR2VHVmcDNnRE56NlpGakhPQWxNRjdNSm1KZEt2ZjR3VHMyR2lIM3RsLURSY2RKR2RRbU9mLWR3SWhjUDhlb1hHekF6bXdYc21rOGhzeGFxOGRncHpMdTVZUQ?oc=5",
   "created": "2026-11-01T18:57:09+00:00"
- },
- {
-  "id": "cb8680523cb1",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\n🏒 Fun Fact: Connor McDavid hat in dieser Saison 37 Punkte in 14 Spielen gesammelt. Davon sind 29 Vorlagen! Fast 8 von 10 Punkten sind also Assists. Der Mann sieht die Lücken, bevor sie überhaupt da sind. 🔥 #Oilers #LetsGoOilers #McDavid",
-  "image": "img/a0ea9f702ee5.png",
-  "link": null,
-  "created": "2026-11-01T13:26:54+00:00"
- },
- {
-  "id": "39cf6c73b112",
-  "type": "News",
-  "text": "📰 NEWS\n\nDie Oilers haben auswärts gegen die Islanders 4:0 gewonnen! 🏒 Laut Edmonton Journal war das eine richtige Defensiv-Lehrstunde. Wie die einzelnen Spieler abgeschnitten haben, steht in den Cult of Hockey Player Grades. Wer hat sich die beste Note verdient? 🔥 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUkgtRHpYRlVhMGJsOVdzRDdYTUNwcFlrUkF6Q1pzdmZlN0ZOOXpUUGlHVFo0ZGZKRW13R1c5REFkRXJ1c2VaSE9ZTlJicjNQNGNKZE5XZkZ6YjFGVVY5bmtqZjlhaWladmhwU0hhZmVraVNYOUE4RlcwMEU3SFJGclZzeXZvbGtEUFZFZkh5QmFaT05VN29yUE9IaFJmM1Bic25IcFkwVDZIN2ZDT1VRbUU5RXJWNGxWVTlhVnl1ekVpb21IU2JWYUhFNzlkdW1IZjg3dUtWaWIxSkJpeGg2bWgyenFTWmlJMURlZ0wxQW1haFRoNnFr?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUkgtRHpYRlVhMGJsOVdzRDdYTUNwcFlrUkF6Q1pzdmZlN0ZOOXpUUGlHVFo0ZGZKRW13R1c5REFkRXJ1c2VaSE9ZTlJicjNQNGNKZE5XZkZ6YjFGVVY5bmtqZjlhaWladmhwU0hhZmVraVNYOUE4RlcwMEU3SFJGclZzeXZvbGtEUFZFZkh5QmFaT05VN29yUE9IaFJmM1Bic25IcFkwVDZIN2ZDT1VRbUU5RXJWNGxWVTlhVnl1ekVpb21IU2JWYUhFNzlkdW1IZjg3dUtWaWIxSkJpeGg2bWgyenFTWmlJMURlZ0wxQW1haFRoNnFr?oc=5",
-  "created": "2026-11-01T13:27:03+00:00"
- },
- {
-  "id": "ab42a72f1a40",
-  "type": "News",
-  "text": "📰 NEWS\n\nOilers wieder ohne Gegentor! 🧤 Mit dem 4:0-Sieg gegen die Islanders gab's den zweiten Shutout in Folge. Die Jungs liefern gerade richtig ab! 🔥 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMinwFBVV95cUxPMlBzWGQweVZTYmdWVkI1ZmllRXVDXzAyV0tiVk9mUHJYWEw3Ri1rNTR5RmtyWEJxTy1fN2pHNWd3cXY4LUh4Xy1weHoxWDNfWXRIckktdVZVZXYtOWlfWEpBLUJUN1lqQ0ZVYTVzLTM5OUxBV3dDNW9rNDhfM1NuQUEtRHFJSmh0M1ZuclBEYUhfbmpVdUhSRzFXX2ZlYVk?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMlBzWGQweVZTYmdWVkI1ZmllRXVDXzAyV0tiVk9mUHJYWEw3Ri1rNTR5RmtyWEJxTy1fN2pHNWd3cXY4LUh4Xy1weHoxWDNfWXRIckktdVZVZXYtOWlfWEpBLUJUN1lqQ0ZVYTVzLTM5OUxBV3dDNW9rNDhfM1NuQUEtRHFJSmh0M1ZuclBEYUhfbmpVdUhSRzFXX2ZlYVk?oc=5",
-  "created": "2026-11-01T13:27:03+00:00"
- },
- {
-  "id": "e32f020c5f82",
-  "type": "Quiz",
-  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Tore bei den Oilers in dieser Saison?\n\nA) Ryan Nugent-Hopkins\nB) Kasperi Kapanen\nC) Vasily Podkolzin\nD) Leon Draisaitl\n\nAntwort in den Kanal-Reaktionen! 👇",
-  "answer": "✅ Auflösung: D) Leon Draisaitl mit 12! 🔥\n#Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-11-01T06:08:11+00:00"
  }
 ]
