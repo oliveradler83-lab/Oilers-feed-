@@ -1,5 +1,21 @@
 [
  {
+  "id": "03ea3961ae50",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact der Woche! 🏒 Mathieu Joseph hat in dieser Saison in 18 Spielen schon 8 Punkte gesammelt: 3 Tore und 5 Vorlagen. Starke Zahlen, die zeigen, dass er den Puck immer wieder gut in Szene setzt! 🔥 Wie gefällt euch Joseph bisher? 💙🧡\n\n#Oilers #LetsGoOilers #MathieuJoseph",
+  "image": "img/cd595bc1808a.png",
+  "link": null,
+  "created": "2026-11-08T16:40:51+00:00"
+ },
+ {
+  "id": "35f773a79de6",
+  "type": "News",
+  "text": "📰 NEWS\n\nDie Oilers haben mal wieder ordentlich Wumms! 🔥 Die Canucks halten lange super dagegen, aber im dritten Drittel bricht bei Vancouver alles zusammen. Das zeigt, was in dieser Mannschaft steckt! 🏒 #Oilers #LetsGoOilers #Hockey\n\nQuelle: https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnh0NGxBVFBRR080RlljRVZKVnFyRjdGWjFyUVMyMHZVMGZBQ1kwMThyTnJuYl9uaUxQT1pZV0M3eXhpRlhWVThGNGdSM09VYmR0TWlZTVkxTUxMcWtrcXAtelJTX2t0OUNVMWMtSFdUcHB5eVNJbldVVzJhVGFIWlA2WFR2bVhnUHVXZW93YUJPNUItaGJXaV90Mm1hMmdsMFZkNDVEOTYyZUtoQnc?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnh0NGxBVFBRR080RlljRVZKVnFyRjdGWjFyUVMyMHZVMGZBQ1kwMThyTnJuYl9uaUxQT1pZV0M3eXhpRlhWVThGNGdSM09VYmR0TWlZTVkxTUxMcWtrcXAtelJTX2t0OUNVMWMtSFdUcHB5eVNJbldVVzJhVGFIWlA2WFR2bVhnUHVXZW93YUJPNUItaGJXaV90Mm1hMmdsMFZkNDVEOTYyZUtoQnc?oc=5",
+  "created": "2026-11-08T16:40:58+00:00"
+ },
+ {
   "id": "c37aed2d2169",
   "type": "Spiel",
   "text": "🏒 SPIELBERICHT\n\nOilers-Fans, was für ein Abend! 🔥 Edmonton schlägt die Vancouver Canucks zuhause mit 4:2 und holt sich den Sieg! Starke Leistung von unserer Mannschaft, da war richtig Feuer drin. 🧡💙 Weiter so, Jungs!\n\n#Oilers #LetsGoOilers #Canucks",
@@ -468,21 +484,5 @@
   "image": null,
   "link": null,
   "created": "2026-11-03T06:50:22+00:00"
- },
- {
-  "id": "2e007ca08586",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun-Fact-Alarm! 🤩 Ryan Nugent-Hopkins hat in dieser Saison nach 6 Spielen schon 7 Punkte auf dem Konto: 3 Tore und 4 Vorlagen! 🏒 Starker Start für RNH, so darf es weitergehen! 🔥\n\n#Oilers #LetsGoOilers #RNH",
-  "image": "img/fb6bcc196068.png",
-  "link": null,
-  "created": "2026-11-03T06:50:23+00:00"
- },
- {
-  "id": "e42a6b58e6f9",
-  "type": "News",
-  "text": "📰 NEWS\n\n🏒 Neuer Artikel auf NHL.com: „Welcome to Midnight City.“ Mehr Details gibt's direkt auf der Seite, also reinschauen und mitreden! 🔥 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMie0FVX3lxTE9PTUQzaFBTUlBac3RQc2pNRXkzNUxfa2RxSUx6T3RwQTVlWV9CRlBkcEJYdEVBSGwteG82R0E2b2dIaGFhV1NtT2VsdDZBOWlHLW5xRlNrbDNNRHJ1bWhhdGdLOEFwcGJlZzJudkE5cDd5bnAwRU9pa1E5TQ?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PTUQzaFBTUlBac3RQc2pNRXkzNUxfa2RxSUx6T3RwQTVlWV9CRlBkcEJYdEVBSGwteG82R0E2b2dIaGFhV1NtT2VsdDZBOWlHLW5xRlNrbDNNRHJ1bWhhdGdLOEFwcGJlZzJudkE5cDd5bnAwRU9pa1E5TQ?oc=5",
-  "created": "2026-11-03T06:50:30+00:00"
  }
 ]
