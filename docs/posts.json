@@ -1,5 +1,53 @@
 [
  {
+  "id": "c37aed2d2169",
+  "type": "Spiel",
+  "text": "🏒 SPIELBERICHT\n\nOilers-Fans, was für ein Abend! 🔥 Edmonton schlägt die Vancouver Canucks zuhause mit 4:2 und holt sich den Sieg! Starke Leistung von unserer Mannschaft, da war richtig Feuer drin. 🧡💙 Weiter so, Jungs!\n\n#Oilers #LetsGoOilers #Canucks",
+  "image": null,
+  "link": null,
+  "created": "2026-11-08T09:00:18+00:00"
+ },
+ {
+  "id": "54fab21e869e",
+  "type": "Vorschau",
+  "text": "🔜 SPIELVORSCHAU\n\nOilers-Fam, der Moment ist da! 🔥 Am 10.11. um 2:00 Uhr (deutsche Zeit) geht's im Rogers Place gegen die New York Rangers los. Nachtschicht? Egal! Kaffee an, Trikot raus und Stimme bereit machen. Jeder Schrei von der Couch zählt, also macht ordentlich Lärm! 🏒 Let's go Oilers!\n\n#Oilers #LetsGoOilers #Heimspiel",
+  "image": null,
+  "link": null,
+  "created": "2026-11-08T09:00:21+00:00"
+ },
+ {
+  "id": "38831c97d08a",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans! 🔥 Mattias Ekholm hat in dieser Saison schon in 16 Spielen 8 Punkte gesammelt: 3 Tore und 5 Vorlagen. Stark von unserem Verteidiger! 💙🧡\n\n#Oilers #LetsGoOilers #Ekholm",
+  "image": "img/6b87cbb35a30.png",
+  "link": null,
+  "created": "2026-11-08T09:00:22+00:00"
+ },
+ {
+  "id": "598fcbf3e0f8",
+  "type": "Tabelle",
+  "text": "📊 TABELLE\n\n🛢️ Tabellen-Update! Nach 18 Spielen stehen die Oilers bei 27 Punkten: 12 Siege, 3 Niederlagen und 3 Overtime-Niederlagen. Das bedeutet Platz 1 in der Pacific Division und Platz 2 in der Western Conference! Aktuelle Serie: 1 Sieg. Let's go, Oilers! 🔥 #Oilers #LetsGoOilers #NHL",
+  "image": null,
+  "link": null,
+  "created": "2026-11-08T09:00:24+00:00"
+ },
+ {
+  "id": "f65ab6b8e93a",
+  "type": "News",
+  "text": "📰 NEWS\n\n🔥 Die Oilers gewinnen gegen die Canucks mit 4:2! Hier ist der schnelle Rückblick auf das Spiel. Richtig starke Leistung, Edmonton! 🏒 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMie0FVX3lxTE5uQzdPQzhuSV9YLTZyTTBlRHlKOFY0cHAwUEU3anUxYllvaTMtbmR6S3NjRTdHXzZUSW5IcmFYYzlTVzEzbGpxdXlCeFYyTzhYalBnVm9RbXhydGZlOElhS2RTV0htV2JYWUx6dmppclJheXhnYS02MUFRYw?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uQzdPQzhuSV9YLTZyTTBlRHlKOFY0cHAwUEU3anUxYllvaTMtbmR6S3NjRTdHXzZUSW5IcmFYYzlTVzEzbGpxdXlCeFYyTzhYalBnVm9RbXhydGZlOElhS2RTV0htV2JYWUx6dmppclJheXhnYS02MUFRYw?oc=5",
+  "created": "2026-11-08T09:00:30+00:00"
+ },
+ {
+  "id": "084fa3e18b5e",
+  "type": "News",
+  "text": "📰 NEWS\n\n🏒 Neue Line Combinations der Oilers sind online! Daily Faceoff zeigt, wer aktuell in welcher Reihe spielt. Schaut unbedingt rein und seht selbst, wie Coach Knoblauch die Sturm- und Verteidigungsreihen aufstellt! 🔥 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMieEFVX3lxTE94aGNZeWNjSU9oV1hyQklGUmIwVS1NcVQ3b2s3aFR2eHlCUXplMDJvdU1HU3JBVExUWWVFcjFFS0tvNTZ3Z0p1aDFYME5qNDcyWDlsSmJmdEwtd0RnT2V4bVJMQm1OenFDd0FuUmg1OWM4M3NINThJeg?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94aGNZeWNjSU9oV1hyQklGUmIwVS1NcVQ3b2s3aFR2eHlCUXplMDJvdU1HU3JBVExUWWVFcjFFS0tvNTZ3Z0p1aDFYME5qNDcyWDlsSmJmdEwtd0RnT2V4bVJMQm1OenFDd0FuUmg1OWM4M3NINThJeg?oc=5",
+  "created": "2026-11-08T09:00:30+00:00"
+ },
+ {
   "id": "eea0e9580bd9",
   "type": "Quiz",
   "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Tore bei den Oilers in dieser Saison?\n\nA) Kasperi Kapanen\nB) Vasily Podkolzin\nC) Leon Draisaitl\nD) Evan Bouchard\n\nAntwort in den Kanal-Reaktionen! 👇",
@@ -436,53 +484,5 @@
   "image": null,
   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PTUQzaFBTUlBac3RQc2pNRXkzNUxfa2RxSUx6T3RwQTVlWV9CRlBkcEJYdEVBSGwteG82R0E2b2dIaGFhV1NtT2VsdDZBOWlHLW5xRlNrbDNNRHJ1bWhhdGdLOEFwcGJlZzJudkE5cDd5bnAwRU9pa1E5TQ?oc=5",
   "created": "2026-11-03T06:50:30+00:00"
- },
- {
-  "id": "900c79cd7874",
-  "type": "News",
-  "text": "📰 NEWS\n\nOilers-Fans aufgepasst! 🔥 Im NHL Notebook gibt's gute Neuigkeiten: Die Oilers sind in den Power Rankings auf Platz zwei hochgeklettert! Dazu hat Team Canada Dustin Schwartz verpflichtet. 🍁 Mehr dazu gibt's bei Oilers Nation. #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMikwFBVV95cUxOOW9uTTRQSDBpanl0b1NVUU5qaDNhYWM0Z21SMjdnRVE1VUJoaERXVEN0SGY3dkoxQlBhU2plbVBESjZGS3VlRHBFdlZaOWhlMFpQbTc0X0k0dEhfcS1ZRjl3dzA4SGM3cWs4WU81ZTlXSm1MaUY0NV9nbnBrSGhXeWZsNGlNbkR6V0NzeTYtVVJyTlU?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOW9uTTRQSDBpanl0b1NVUU5qaDNhYWM0Z21SMjdnRVE1VUJoaERXVEN0SGY3dkoxQlBhU2plbVBESjZGS3VlRHBFdlZaOWhlMFpQbTc0X0k0dEhfcS1ZRjl3dzA4SGM3cWs4WU81ZTlXSm1MaUY0NV9nbnBrSGhXeWZsNGlNbkR6V0NzeTYtVVJyTlU?oc=5",
-  "created": "2026-11-03T06:50:30+00:00"
- },
- {
-  "id": "ac12e77a3795",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact der Woche: Kasperi Kapanen hat in 15 Spielen schon 7 Punkte gesammelt, mit 4 Toren und 3 Vorlagen! 🔥 Das ist Oilers-Power pur! 🏒 #Oilers #LetsGoOilers",
-  "image": "img/19c80e79b691.png",
-  "link": null,
-  "created": "2026-11-02T23:32:11+00:00"
- },
- {
-  "id": "36f7dc46e52f",
-  "type": "News",
-  "text": "📰 NEWS\n\nMatt Tomkins hat sein erstes Spiel im Madison Square Garden gewonnen! 🙌 Der Oilers-Spieler, der schon bei vielen Teams unterwegs war, zeigt damit, dass er jede Chance nutzt. Richtig starke Leistung! 🏒 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMingFBVV95cUxPcEpMeVVNSFRrLW4xVUdnc0otMWQwTmJ3d0ZpQTZKMTVKYTlLMUFKZnpYN1N6SkoxS2tjTnd3QWxYUVRveXdWQ1pWN1U0SDBTMzc4cDZGRS1yY1ZjMUdLaENSYklXWGsxUlU1bEVWSU50c2pxSWtsNTRSSVNDeGRYbnJKRG9xWmRuMm1qZHNrNlVXakprREltQ2dZdFJEQQ?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcEpMeVVNSFRrLW4xVUdnc0otMWQwTmJ3d0ZpQTZKMTVKYTlLMUFKZnpYN1N6SkoxS2tjTnd3QWxYUVRveXdWQ1pWN1U0SDBTMzc4cDZGRS1yY1ZjMUdLaENSYklXWGsxUlU1bEVWSU50c2pxSWtsNTRSSVNDeGRYbnJKRG9xWmRuMm1qZHNrNlVXakprREltQ2dZdFJEQQ?oc=5",
-  "created": "2026-11-02T23:32:19+00:00"
- },
- {
-  "id": "001f63719252",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans: Mattias Ekholm hat in dieser Saison schon 13 Spiele absolviert und dabei 2 Tore und 3 Vorlagen aufgelegt, also insgesamt 5 Punkte gesammelt! 🔥🏒 Starker Start für unseren Verteidiger, da geht noch mehr! 💙🧡\n\n#Oilers #LetsGoOilers #Ekholm",
-  "image": "img/6b87cbb35a30.png",
-  "link": null,
-  "created": "2026-11-02T15:56:35+00:00"
- },
- {
-  "id": "b74284becbae",
-  "type": "News",
-  "text": "📰 NEWS\n\nDie Oilers, die NHL und Fanatics haben ein neues Hometown-Remix-Trikot vorgestellt! 🔥 Wie das Trikot genau aussieht, verraten wir hier noch nicht, aber neue Oilers-Trikots sind immer ein Grund zur Freude. Schaut euch die offizielle Ankündigung auf NHL.com an! 🧡\n\n#Oilers #LetsGoOilers #HometownRemix\n\nQuelle: https://news.google.com/rss/articles/CBMimAFBVV95cUxQdkMzaUhReEZqSlJGQ0twZmFxYnZyYlFZc2tTMGlTdVlKNmE5R2ZHbnM0SVdRX0RmbzdYbE5uUTlVUFRNdnp4R0ZCZ2F1MW5DY3NfaGlCa1FaZFd6N3ZScXJEUXZiQ2M4WHYzRWRDaDhZVUxsOXRHUkZPWVA2U3NXMHY2cFJmTzc1OGY1RWllY1FudVVjTm1mbg?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdkMzaUhReEZqSlJGQ0twZmFxYnZyYlFZc2tTMGlTdVlKNmE5R2ZHbnM0SVdRX0RmbzdYbE5uUTlVUFRNdnp4R0ZCZ2F1MW5DY3NfaGlCa1FaZFd6N3ZScXJEUXZiQ2M4WHYzRWRDaDhZVUxsOXRHUkZPWVA2U3NXMHY2cFJmTzc1OGY1RWllY1FudVVjTm1mbg?oc=5",
-  "created": "2026-11-02T15:56:42+00:00"
- },
- {
-  "id": "462fd407a7d5",
-  "type": "News",
-  "text": "📰 NEWS\n\n🏒 Frage der Woche bei Oilers Nation: Müssen Evan Bouchard und Mattias Ekholm eigentlich immer zusammen auf dem Eis stehen? Die Monday Mailbag geht dieser Frage nach. Wie seht ihr das? Schreibt es in die Kommentare! 👇\n\n#Oilers #LetsGoOilers #OilersNation\n\nQuelle: https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0tVQzNTYlg3M2FmT0lNaldSejNIcVp0SWY1bHhJVm5QanhQTThDek9BVDJyOTJtd2hzRmpsOW82WHVBbHIzTTZINkhZbHQtVlduMDUxd2VtekRZeW5uZkkzUUE5Ui1mdVlNS3M2UW03X19UX09kRlZ3NUZYTXh0aFBEQU1oVFhBQjJLamRmT3EteDc4a0RvLUhWVHpfQjk0cElnS3VsNVpHMFBwN3l1YnZxMzFNWGQxblE?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0tVQzNTYlg3M2FmT0lNaldSejNIcVp0SWY1bHhJVm5QanhQTThDek9BVDJyOTJtd2hzRmpsOW82WHVBbHIzTTZINkhZbHQtVlduMDUxd2VtekRZeW5uZkkzUUE5Ui1mdVlNS3M2UW03X19UX09kRlZ3NUZYTXh0aFBEQU1oVFhBQjJLamRmT3EteDc4a0RvLUhWVHpfQjk0cElnS3VsNVpHMFBwN3l1YnZxMzFNWGQxblE?oc=5",
-  "created": "2026-11-02T15:56:42+00:00"
  }
 ]
