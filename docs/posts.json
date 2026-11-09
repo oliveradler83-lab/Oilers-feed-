@@ -1,5 +1,21 @@
 [
  {
+  "id": "770f2056172d",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\n🏒 Fun Fact: Connor McDavid hat in dieser Saison erst 18 Spiele absolviert und dabei schon 37 Vorlagen gesammelt! Dazu kommen 10 Tore, also insgesamt 47 Punkte. Er legt seine Mitspieler praktisch im Minutentakt auf. Wer ist bereit für die nächste Show? 🔥\n\n#Oilers #LetsGoOilers #McDavid",
+  "image": "img/a0ea9f702ee5.png",
+  "link": null,
+  "created": "2026-11-09T20:45:18+00:00"
+ },
+ {
+  "id": "a57ae1937028",
+  "type": "News",
+  "text": "📰 NEWS\n\nGute Nachrichten für die Oilers! 🙌 Nugent-Hopkins ist laut der voraussichtlichen Aufstellung fit und dabei, wenn es am Montag gegen die Rangers geht. Ab auf die Couch und mitfiebern! 🏒 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkZjWkhYSV9KTGt2SXNlWDVnaGdDTGxnRmtPU3VHcEtrcHpwSTdWYTJmMThNbmRtYmVlYnhmMnE5WFRYbDZpRll6OXdYLVl5QTNtdmx4MlFGSjBqaEg4OExhV2JvQUthRWsxamtwNWw0WnVSWmg1OHQ5dTRPRFZVQkRBOUYxS3NvUFphUWhwOTJvMXRUOHlVM0N0REZfMnUyOGlyTzh0ZnRQS0xuMElnbTYxTUJDbmFw?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkZjWkhYSV9KTGt2SXNlWDVnaGdDTGxnRmtPU3VHcEtrcHpwSTdWYTJmMThNbmRtYmVlYnhmMnE5WFRYbDZpRll6OXdYLVl5QTNtdmx4MlFGSjBqaEg4OExhV2JvQUthRWsxamtwNWw0WnVSWmg1OHQ5dTRPRFZVQkRBOUYxS3NvUFphUWhwOTJvMXRUOHlVM0N0REZfMnUyOGlyTzh0ZnRQS0xuMElnbTYxTUJDbmFw?oc=5",
+  "created": "2026-11-09T20:45:25+00:00"
+ },
+ {
   "id": "b53807b3985b",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\nFun-Fact für alle Oilers-Fans! 🔥 Kasperi Kapanen hat in dieser Saison in 18 Spielen 5 Tore und 5 Vorlagen aufgelegt, macht zusammen 10 Punkte. Und das Beste: Jeder Treffer ist genauso viel wert wie jede Vorlage für die Mannschaft! Stark, Kasperi! 🏒\n\n#Oilers #LetsGoOilers #Kapanen",
@@ -468,21 +484,5 @@
   "image": null,
   "link": null,
   "created": "2026-11-04T02:21:17+00:00"
- },
- {
-  "id": "1f810869bb92",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun-Fact-Alarm! 🔥 Kasperi Kapanen steht in dieser Saison nach 15 Spielen bei 4 Toren und 3 Vorlagen, also insgesamt 7 Punkten. Was für ein Start! Wer hätte gedacht, dass er so schnell in Fahrt kommt? 🏒 Weiter so, Kasperi!\n\n#Oilers #LetsGoOilers #Kapanen",
-  "image": "img/19c80e79b691.png",
-  "link": null,
-  "created": "2026-11-04T02:21:19+00:00"
- },
- {
-  "id": "817c322418d8",
-  "type": "News",
-  "text": "📰 NEWS\n\n🔥 Bouchard hat zugeschlagen! Im Spiel EDM@NJD hat er gegen Connor Hellebuyck getroffen. Starker Abschluss! 🏒 Wer hat den Treffer live gesehen? #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMiowFBVV95cUxNazZZTEZZa1pQU3BzVDUyeFpraXpnZnJtdk5mb1FTQmZLTTlnVnd6VGFNcHZHUThUaVZfRFhoQlJkVm80MnlsOW5DaTZlUW4wazYxQm1sQk9NU1hMY1pJbWpJdEltc0RnWHgxcEpYRU9pTGJHSDZzZTl0XzZHenFqeGd1ZGFzN25ZMElfOTVJT2xSb0Nza0pTWV9BWXAyRXc0Mnk0?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNazZZTEZZa1pQU3BzVDUyeFpraXpnZnJtdk5mb1FTQmZLTTlnVnd6VGFNcHZHUThUaVZfRFhoQlJkVm80MnlsOW5DaTZlUW4wazYxQm1sQk9NU1hMY1pJbWpJdEltc0RnWHgxcEpYRU9pTGJHSDZzZTl0XzZHenFqeGd1ZGFzN25ZMElfOTVJT2xSb0Nza0pTWV9BWXAyRXc0Mnk0?oc=5",
-  "created": "2026-11-04T02:21:30+00:00"
  }
 ]
