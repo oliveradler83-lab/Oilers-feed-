@@ -1,5 +1,21 @@
 [
  {
+  "id": "5e760267a44a",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\n🏒 Fun Fact des Tages: Connor McDavid hat in dieser Saison schon 48 Punkte in 19 Spielen gesammelt! 11 Tore und 37 Vorlagen, das sind über 2,5 Punkte pro Spiel. Dass der Mann nicht nur trifft, sondern auch andere super in Szene setzt, zeigt: Hier steckt echte Spielintelligenz drin! 🔥\n\n#Oilers #LetsGoOilers #McDavid",
+  "image": "img/a0ea9f702ee5.png",
+  "link": null,
+  "created": "2026-11-10T20:50:22+00:00"
+ },
+ {
+  "id": "b027a852a53d",
+  "type": "News",
+  "text": "📰 NEWS\n\nGoalies aufgepasst! 🥅 Laut Edmonton Journal machen die Oilers es ihren Torhütern endlich leichter. Es soll das „beste Umfeld zum Spielen“ werden. Wir sind gespannt, was sich davon im Eis zeigt! 🏒 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMnRnQ0ZLSlR5dVB3MW51S25LclROaGI2QWlLdmdDZUlxalFNSW9oUkN3Yi1qd3dXVER1dTVoUTJaRVRmMVVxRHNkZV9sUFFNc2xTOW43REJleHB2bG0zazdfU3gzZExacWtfSkpmSmlNdndfOWlpZGx5bnFaQW1EZDE0SURsUXc3djFCWFdSdnc0OGloWTVKWkdvU1hIRFFWRERuRXF5TnZBamNYbm5SS2NEQUhVNXdOTE12cVZxcGVMYW00cE1xRFdIamVhVXo3Qld2UXNSLXZpOW82?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMnRnQ0ZLSlR5dVB3MW51S25LclROaGI2QWlLdmdDZUlxalFNSW9oUkN3Yi1qd3dXVER1dTVoUTJaRVRmMVVxRHNkZV9sUFFNc2xTOW43REJleHB2bG0zazdfU3gzZExacWtfSkpmSmlNdndfOWlpZGx5bnFaQW1EZDE0SURsUXc3djFCWFdSdnc0OGloWTVKWkdvU1hIRFFWRERuRXF5TnZBamNYbm5SS2NEQUhVNXdOTE12cVZxcGVMYW00cE1xRFdIamVhVXo3Qld2UXNSLXZpOW82?oc=5",
+  "created": "2026-11-10T20:50:27+00:00"
+ },
+ {
   "id": "2bcf780b9541",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\nFun-Fact-Alarm! 🤩 Ryan Nugent-Hopkins hat in dieser Saison in nur 10 Spielen schon 11 Punkte gesammelt: 4 Tore und 7 Vorlagen! Der Mann liefert, wo er gebraucht wird. 🔥 Wer ist eure Nummer-1-Vorlagengeber? 🏒\n\n#Oilers #LetsGoOilers #RNH",
@@ -468,21 +484,5 @@
   "image": null,
   "link": null,
   "created": "2026-11-05T00:54:37+00:00"
- },
- {
-  "id": "931e09dd9224",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\n🔥 Fun Fact: Leon Draisaitl hat in dieser Saison schon 29 Punkte aus nur 16 Spielen gesammelt! 13 Tore und 16 Vorlagen, das sind knapp 2 Punkte pro Spiel. Einfach stark! 🏒\n\n#Oilers #LetsGoOilers #Draisaitl",
-  "image": "img/16536e777c2d.png",
-  "link": null,
-  "created": "2026-11-05T00:54:41+00:00"
- },
- {
-  "id": "dbc027280064",
-  "type": "News",
-  "text": "📰 NEWS\n\nKleiner Dämpfer für die Oilers 🧐 Laut Oilers Nation gibt es eine ziemlich offensichtliche Schwachstelle: Im 5-gegen-5 hakt es bei Edmonton im zweiten Drittel. Der Artikel nimmt das genauer unter die Lupe. Mal sehen, ob die Jungs das bald abstellen! 💪 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMimwFBVV95cUxOeFltblZOLUhRRnp6N0tOZ2ZTSGdkYlRlbkszOHdick52WUFueU52S0tXMktWWVFCRS11OE1KbWNIclIwdjFOUGk2OWRIMEVERG5WLUtwR2s5bm1Xc29UczhUYzFzdUdtTHZNNWxvSmJzQ0hyLXZYa19KQ3pBT0FkWTExOFVNM2lHNEUtYlpGMm1DdW1na1p3VGs1aw?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeFltblZOLUhRRnp6N0tOZ2ZTSGdkYlRlbkszOHdick52WUFueU52S0tXMktWWVFCRS11OE1KbWNIclIwdjFOUGk2OWRIMEVERG5WLUtwR2s5bm1Xc29UczhUYzFzdUdtTHZNNWxvSmJzQ0hyLXZYa19KQ3pBT0FkWTExOFVNM2lHNEUtYlpGMm1DdW1na1p3VGs1aw?oc=5",
-  "created": "2026-11-05T00:54:50+00:00"
  }
 ]
