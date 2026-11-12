@@ -1,5 +1,21 @@
 [
  {
+  "id": "a14f86a6ab9b",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\n🏒 Fun Fact: Connor McDavid hat in dieser Saison schon nach nur 20 Spielen 49 Punkte gesammelt! 🔥 Dabei kommen 11 Tore und 38 Vorlagen zusammen. Das sind 38 Assists, die seine Mitspieler zum Strahlen bringen! 🤩 #Oilers #LetsGoOilers #McDavid",
+  "image": "img/a0ea9f702ee5.png",
+  "link": null,
+  "created": "2026-11-12T18:20:28+00:00"
+ },
+ {
+  "id": "4e4df28f60e4",
+  "type": "News",
+  "text": "📰 NEWS\n\n🏒 Zach Hyman war heute doppelt erfolgreich und hat zweimal getroffen! Tristan Jarry war auf der anderen Seite überragend. Die Oilers waren klar unterlegen, haben das Spiel aber trotzdem gewonnen. Typisch Oilers, nie aufgeben! 💙🧡\n\n#Oilers #LetsGoOilers #Hyman\n\nQuelle: https://news.google.com/rss/articles/CBMisAFBVV95cUxPTmU5MUNwcWI4Y1l3RHA5T0tnX2NLWmQyUDVNZnZoczJnQXV5ZFU4LUlXRUNnNDNqOGtONmhsckNQaFpBZGNfa2ZEV1pVSUk4RkdaZVJQNEpLZW1SLWwwVE0xWlk2YnoyNmQ1bmJ3S1FyOGlha2ZlVEE3Ty14NHR6NWstU21BRnlQcW5mNy1PNklvT3pZNE1GRmZDSmNYaUVPbGFTRjVKZWVyeFVWdEFlSA?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTmU5MUNwcWI4Y1l3RHA5T0tnX2NLWmQyUDVNZnZoczJnQXV5ZFU4LUlXRUNnNDNqOGtONmhsckNQaFpBZGNfa2ZEV1pVSUk4RkdaZVJQNEpLZW1SLWwwVE0xWlk2YnoyNmQ1bmJ3S1FyOGlha2ZlVEE3Ty14NHR6NWstU21BRnlQcW5mNy1PNklvT3pZNE1GRmZDSmNYaUVPbGFTRjVKZWVyeFVWdEFlSA?oc=5",
+  "created": "2026-11-12T18:20:34+00:00"
+ },
+ {
   "id": "39a608460d76",
   "type": "Spiel",
   "text": "🏒 SPIELBERICHT\n\n🔥 Oilers-Sieg! Zuhause gegen die Philadelphia Flyers gewinnen wir 3:2, und die Entscheidung fällt erst nach Verlängerung/Shootout. Was für ein Krimi am 11.11.! 🏒 Das war Herzklopfen pur! 💙 #Oilers #LetsGoOilers #Flyers",
@@ -468,21 +484,5 @@
   "image": null,
   "link": null,
   "created": "2026-11-07T01:56:36+00:00"
- },
- {
-  "id": "d0b878fc7448",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact gefällig? 🤩 Mathieu Joseph hat in dieser Saison 17 Spiele bestritten, dabei 3 Tore erzielt und 4 Vorlagen gegeben. Das macht zusammen 7 Punkte! 🏒 Wer hätte gedacht, dass er so viel Einfluss auf das Spiel hat? 🔥 #Oilers #LetsGoOilers #MathieuJoseph",
-  "image": "img/cd595bc1808a.png",
-  "link": null,
-  "created": "2026-11-07T01:56:39+00:00"
- },
- {
-  "id": "b7abf8c2cea8",
-  "type": "News",
-  "text": "📰 NEWS\n\nKurze Info aus dem Oilers-Lager 🧤: Brett Epp ist als Notfall-Torhüter gegen die Ducks als Backup dabei! Daumen drücken für unsere Jungs 🏒 #Oilers #LetsGoOilers #Ducks\n\nQuelle: https://news.google.com/rss/articles/CBMipgFBVV95cUxNemZTTzZQT21SdUJnbGc4VFRnbEdubDRDMnc1UjA2aU1yTTk1dHJ5MG9WNWxpbXhKa0diRU1uZ2UyZ19ocXotTi1WUWR2YVhQcm5ZanRyZWd6ZWtRbnFLZ0tUMXdzbU01blZXczlSVy1sMXl0anAwOXFudVBjRUs2ZmhvODJXYkZjVHh2OGlfMUw3ampBYUVBenRiYnM0SUFrZmV5LTFR?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNemZTTzZQT21SdUJnbGc4VFRnbEdubDRDMnc1UjA2aU1yTTk1dHJ5MG9WNWxpbXhKa0diRU1uZ2UyZ19ocXotTi1WUWR2YVhQcm5ZanRyZWd6ZWtRbnFLZ0tUMXdzbU01blZXczlSVy1sMXl0anAwOXFudVBjRUs2ZmhvODJXYkZjVHh2OGlfMUw3ampBYUVBenRiYnM0SUFrZmV5LTFR?oc=5",
-  "created": "2026-11-07T01:56:48+00:00"
  }
 ]
