@@ -1,5 +1,53 @@
 [
  {
+  "id": "39a608460d76",
+  "type": "Spiel",
+  "text": "🏒 SPIELBERICHT\n\n🔥 Oilers-Sieg! Zuhause gegen die Philadelphia Flyers gewinnen wir 3:2, und die Entscheidung fällt erst nach Verlängerung/Shootout. Was für ein Krimi am 11.11.! 🏒 Das war Herzklopfen pur! 💙 #Oilers #LetsGoOilers #Flyers",
+  "image": null,
+  "link": null,
+  "created": "2026-11-12T09:51:23+00:00"
+ },
+ {
+  "id": "547aa1e23a32",
+  "type": "Vorschau",
+  "text": "🔜 SPIELVORSCHAU\n\nEs ist so weit! 🔥 Am 15.11.2026 um 01:00 Uhr (deutscher Zeit) geht's auswärts gegen die Toronto Maple Leafs in der Scotiabank Arena! Wecker stellen, Kaffee holen und mit uns mitfiebern. Let's go Oilers! 🏒\n\n#Oilers #LetsGoOilers #Mitfiebern",
+  "image": null,
+  "link": null,
+  "created": "2026-11-12T09:51:26+00:00"
+ },
+ {
+  "id": "13fcd9d7829c",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans! 🔥 Mattias Ekholm hat in dieser Saison bisher 18 Spiele absolviert und dabei 10 Punkte gesammelt: 3 Tore und 7 Vorlagen. Starke Quote von unserem schwedischen Verteidiger! 💙🧡\n\n#Oilers #LetsGoOilers #Ekholm",
+  "image": "img/6b87cbb35a30.png",
+  "link": null,
+  "created": "2026-11-12T09:51:27+00:00"
+ },
+ {
+  "id": "5bc54273ba3e",
+  "type": "Tabelle",
+  "text": "📊 TABELLE\n\n🏒 Tabellen-Update! Nach 20 Spielen stehen die Oilers bei 14 Siegen, 3 Niederlagen und 3 OT-Niederlagen. Das sind 31 Punkte! 🔥 Platz 1 in der Pacific Division und Platz 1 in der Western Conference! Dazu kommt eine starke Serie: 3 Siege in Folge. Let's go Oilers! 🧡\n\n#Oilers #LetsGoOilers #NHL",
+  "image": null,
+  "link": null,
+  "created": "2026-11-12T09:51:30+00:00"
+ },
+ {
+  "id": "2db59802114c",
+  "type": "News",
+  "text": "📰 NEWS\n\nOilers mit 3:2 nach Verlängerung gegen die Flyers! 🔥 Die Kurzzusammenfassung von NHL.com bringt das Spiel auf den Punkt. Wer alle Details wissen will, schaut rein. Let's go, Oilers! 🏒\n\n#Oilers #LetsGoOilers #NHL\n\nQuelle: https://news.google.com/rss/articles/CBMiekFVX3lxTE1EZ2t4dUNHQ0ttVnNOclNQcUdMTkRmR1JmWTVsb3kwRTVNSmZBZjctSm83RG1oOF9vemZQUXZvaUJndFg3OW9rYzFzMjdxeThidzk1NjluOUZpNVFmdkl3Y2ZjYXloYlRSUTRsOUtJN0c3cTdCcWhlT3Jn?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EZ2t4dUNHQ0ttVnNOclNQcUdMTkRmR1JmWTVsb3kwRTVNSmZBZjctSm83RG1oOF9vemZQUXZvaUJndFg3OW9rYzFzMjdxeThidzk1NjluOUZpNVFmdkl3Y2ZjYXloYlRSUTRsOUtJN0c3cTdCcWhlT3Jn?oc=5",
+  "created": "2026-11-12T09:51:38+00:00"
+ },
+ {
+  "id": "c8761bd37089",
+  "type": "News",
+  "text": "📰 NEWS\n\nUff, das tat weh! 😤 Die Philadelphia Flyers haben die Oilers klar dominiert, aber Tristan Jarry hat im Tor den Tag gerettet. Kopf hoch, Oilers-Fans, da geht noch mehr! 💙🧡 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMipgFBVV95cUxPRzhoeVhjcGNqOEw2RnNSOVppZjRtVTFhSzZvbmZrazQtZWlTMlg3V0JtVjJBaUtKTVJrUXI4OUFfaHMxakJKUFE4aU95MnMwU254UkhYVkRlUlR1R1d6OTM3WHpvaGE1aUM4ZG15eGpnVWRGTnM2RDltYUN3Q1dXVDVZVDVLd19ZSHVVS0M2eG1lc3BqTmc0b3BTNVVnNjA0UldSMmR3?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRzhoeVhjcGNqOEw2RnNSOVppZjRtVTFhSzZvbmZrazQtZWlTMlg3V0JtVjJBaUtKTVJrUXI4OUFfaHMxakJKUFE4aU95MnMwU254UkhYVkRlUlR1R1d6OTM3WHpvaGE1aUM4ZG15eGpnVWRGTnM2RDltYUN3Q1dXVDVZVDVLd19ZSHVVS0M2eG1lc3BqTmc0b3BTNVVnNjA0UldSMmR3?oc=5",
+  "created": "2026-11-12T09:51:38+00:00"
+ },
+ {
   "id": "fb99223ab20e",
   "type": "Quiz",
   "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Vorlagen bei den Oilers in dieser Saison?\n\nA) Evan Bouchard\nB) Connor McDavid\nC) Leon Draisaitl\nD) Mattias Ekholm\n\nAntwort in den Kanal-Reaktionen! 👇",
@@ -436,53 +484,5 @@
   "image": null,
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNemZTTzZQT21SdUJnbGc4VFRnbEdubDRDMnc1UjA2aU1yTTk1dHJ5MG9WNWxpbXhKa0diRU1uZ2UyZ19ocXotTi1WUWR2YVhQcm5ZanRyZWd6ZWtRbnFLZ0tUMXdzbU01blZXczlSVy1sMXl0anAwOXFudVBjRUs2ZmhvODJXYkZjVHh2OGlfMUw3ampBYUVBenRiYnM0SUFrZmV5LTFR?oc=5",
   "created": "2026-11-07T01:56:48+00:00"
- },
- {
-  "id": "9732bc45ce14",
-  "type": "News",
-  "text": "📰 NEWS\n\n🏒 Laut The Hockey News sind die Oilers im Fall Jake Walman inzwischen über das reine Botschaften-Senden hinaus. Mehr Details nennt die Schlagzeile nicht, aber die Story klingt spannend. Wir halten euch auf dem Laufenden! 🔥 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMitgFBVV95cUxONXdfRTZyVlVobG1rU1NNS0szbTJzZnZWc3VLcWRxTG5vVC03MFBWbmQ2c2NuNlJqQ21pa1NwRkkzTGg3SU53bUJ3bld1b2ZrbmFoTEdseEd5WGVYUUptZ2U2VWF2ekZKRXdCU2pUdnNxMHNTSzJrLWpRaUdjMVFuR3FqelpHNXQ4WmJtRkdmY2RhOTdKWmkzRjZ1QlJ6TFNCMHBjRjVxdVJaQnB4ODJWdDhQaHM0dw?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONXdfRTZyVlVobG1rU1NNS0szbTJzZnZWc3VLcWRxTG5vVC03MFBWbmQ2c2NuNlJqQ21pa1NwRkkzTGg3SU53bUJ3bld1b2ZrbmFoTEdseEd5WGVYUUptZ2U2VWF2ekZKRXdCU2pUdnNxMHNTSzJrLWpRaUdjMVFuR3FqelpHNXQ4WmJtRkdmY2RhOTdKWmkzRjZ1QlJ6TFNCMHBjRjVxdVJaQnB4ODJWdDhQaHM0dw?oc=5",
-  "created": "2026-11-07T01:56:48+00:00"
- },
- {
-  "id": "934be38f8ad3",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nEvan Bouchard ist gerade on fire! 🔥 17 Spiele, 10 Tore und 20 Vorlagen, das sind starke 30 Punkte in dieser Saison. Unser Verteidiger zeigt, wie gefährlich er aus der Defensive nach vorne ist. 🏒 Wer hätte gedacht, dass er so viel Offensive bringt?\n\n#Oilers #LetsGoOilers #EvanBouchard",
-  "image": "img/ccb4cb73162c.png",
-  "link": null,
-  "created": "2026-11-06T21:30:10+00:00"
- },
- {
-  "id": "4ee8fd548cdb",
-  "type": "News",
-  "text": "📰 NEWS\n\n🏒 Wow, selbst Wayne Gretzky ist auf McDavids 200-Punkte-Tempo aufmerksam geworden! Laut TSN findet die Oilers-Legende, dass das, was Connor da abliefert, einfach nur außergewöhnlich ist. 🔥 Wenn der Großmeister so spricht, wissen wir, was wir an unserem Captain haben! 💙🧡\n\n#Oilers #LetsGoOilers #McDavid\n\nQuelle: https://news.google.com/rss/articles/CBMiswFBVV95cUxPTmxpUWlyZ0hkZGxVZFJFX2R5RjVVbDE0NzhlY1FhcUQ3QjdEbktFM2tLaW95Mjk4MjBYSHFzeGluRFBqMXBQSHV5amdnd2tsNmlXZG1DTzNiWUpoUUd6b2t1N2ZSY1ZWQjA2T08zaDFqamFRMUlzTl9Nc2tpZ1pqTXRFcDFWanJ1NnpfR0NEeUFUbTExUTNYYV95VEJEb19JcEdYU0NOYVloVmZOcTZDa3Jwbw?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTmxpUWlyZ0hkZGxVZFJFX2R5RjVVbDE0NzhlY1FhcUQ3QjdEbktFM2tLaW95Mjk4MjBYSHFzeGluRFBqMXBQSHV5amdnd2tsNmlXZG1DTzNiWUpoUUd6b2t1N2ZSY1ZWQjA2T08zaDFqamFRMUlzTl9Nc2tpZ1pqTXRFcDFWanJ1NnpfR0NEeUFUbTExUTNYYV95VEJEb19JcEdYU0NOYVloVmZOcTZDa3Jwbw?oc=5",
-  "created": "2026-11-06T21:30:14+00:00"
- },
- {
-  "id": "b6fe883efc5d",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact: Vasily Podkolzin hat in dieser Saison schon 9 Tore und 5 Vorlagen gesammelt. Das sind 14 Punkte in nur 17 Spielen! 🔥 Ein starker Lauf, der Lust auf mehr macht. 🏒 #Oilers #LetsGoOilers",
-  "image": "img/5c57d34b21cf.png",
-  "link": null,
-  "created": "2026-11-06T15:56:19+00:00"
- },
- {
-  "id": "6532c96e1766",
-  "type": "News",
-  "text": "📰 NEWS\n\nSchade, Leute, heute hat's leider nicht gereicht! 😤 Die Ducks gewinnen 5:4 gegen unsere Oilers. Knapp war's auf jeden Fall, aber der Sieg fehlt. Kopf hoch, das nächste Spiel holen wir uns! 💪 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMieEFVX3lxTE5lbWZhUldMT0p6aEFJcTcwc2dtYy1DWHpUM0VTakF3RXZ0SFRReV95NFFEVVhOQjJDcTNzMDV6X29WWE1hcUZ1QWZId0xCTjRkWVNUcHNDRXNmQTFBSVVnM2VvbktrVXFvdEhhdHMxZ1ZJWVphNkx5Mg?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lbWZhUldMT0p6aEFJcTcwc2dtYy1DWHpUM0VTakF3RXZ0SFRReV95NFFEVVhOQjJDcTNzMDV6X29WWE1hcUZ1QWZId0xCTjRkWVNUcHNDRXNmQTFBSVVnM2VvbktrVXFvdEhhdHMxZ1ZJWVphNkx5Mg?oc=5",
-  "created": "2026-11-06T15:56:29+00:00"
- },
- {
-  "id": "89db23036ec5",
-  "type": "News",
-  "text": "📰 NEWS\n\nAutsch, die Niederlage gegen die Ducks sitzt tief! 😤 Connor McDavid ist richtig sauer über einen Check, den er als „gefährlich“ einstuft. Laut Oilers Nation gibt's dazu mehr im Artikel „The Day After 17.0“. Kopf hoch, Oilers-Familie, weiter geht's! 🛢️ #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMipAFBVV95cUxPU254QU5tVHU5d3dUX05oV0daUFRuUjZHc1VSbWd3QTZ3VWI1ZGZLMFdDRXpNSURiZ2xjSmdNTFktMHRJVVRCNWlHM21IUDIxTVhESjJCLWZfZko5TW1jT1U5Yy1KTUpDR1diSmp2MEdTd0Q2QVJaTEpmcWwtQlBwUzdheExWVzRhY2w5aFBVeDJZNjg5MFJHMS1OOTRtVUp6LTdiWA?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU254QU5tVHU5d3dUX05oV0daUFRuUjZHc1VSbWd3QTZ3VWI1ZGZLMFdDRXpNSURiZ2xjSmdNTFktMHRJVVRCNWlHM21IUDIxTVhESjJCLWZfZko5TW1jT1U5Yy1KTUpDR1diSmp2MEdTd0Q2QVJaTEpmcWwtQlBwUzdheExWVzRhY2w5aFBVeDJZNjg5MFJHMS1OOTRtVUp6LTdiWA?oc=5",
-  "created": "2026-11-06T15:56:29+00:00"
  }
 ]
