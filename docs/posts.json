@@ -1,5 +1,38 @@
 [
  {
+  "id": "fb99223ab20e",
+  "type": "Quiz",
+  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Vorlagen bei den Oilers in dieser Saison?\n\nA) Evan Bouchard\nB) Connor McDavid\nC) Leon Draisaitl\nD) Mattias Ekholm\n\nAntwort in den Kanal-Reaktionen! 👇",
+  "answer": "✅ Auflösung: B) Connor McDavid mit 37! 🔥\n#Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-11-12T00:45:29+00:00"
+ },
+ {
+  "id": "5cada796e98f",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans! 🏒 Ryan Nugent-Hopkins hat in dieser Saison in 10 Spielen schon 11 Punkte gesammelt: 4 Tore und 7 Vorlagen! Das sind starke Zahlen, und die Vorlagen zeigen, wie gut er seine Mitspieler in Szene setzt. 🔥 Wer ist euer Lieblings-Assist-Monster? 🙌\n\n#Oilers #LetsGoOilers #RNH",
+  "image": "img/fb6bcc196068.png",
+  "link": null,
+  "created": "2026-11-12T00:45:30+00:00"
+ },
+ {
+  "id": "53c8636784b1",
+  "type": "News",
+  "text": "📰 NEWS\n\n🏒 Frisch auf NHL.com: Ein neuer Beitrag mit Babcock, im Format „PRE-RAW“, datiert auf den 11.11.26. Schaut mal rein und sagt uns in den Kommentaren, was ihr davon haltet! 🔥 #Oilers #LetsGoOilers #NHL\n\nQuelle: https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTZ1bzlMUWRoVmN3SUlVSWxiMng1MmhpYTUtdGJZcE1XN190NER2UUlBQ0d0MklHMHJxRU5maVdQTVc2WXR0aG05cWFDbEw5RTJ1VTIzeEF5Nld2VVRKSzljVDkzNV9aM0p1T19UUXZtZkEwZ0NGMkR5R2RIaWg1bUdn?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTZ1bzlMUWRoVmN3SUlVSWxiMng1MmhpYTUtdGJZcE1XN190NER2UUlBQ0d0MklHMHJxRU5maVdQTVc2WXR0aG05cWFDbEw5RTJ1VTIzeEF5Nld2VVRKSzljVDkzNV9aM0p1T19UUXZtZkEwZ0NGMkR5R2RIaWg1bUdn?oc=5",
+  "created": "2026-11-12T00:45:41+00:00"
+ },
+ {
+  "id": "d1ad5df23073",
+  "type": "News",
+  "text": "📰 NEWS\n\n🏒 Neue Trade-News! Mike Babcock findet den Tausch eines erfahrenen Oilers-Verteidigers richtig gut und nennt es einen ziemlich guten Deal von Stan. Mehr Details gibt's im Edmonton Journal. Was haltet ihr davon? 💙🧡 #Oilers #LetsGoOilers #NHL\n\nQuelle: https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWl9qeE5zSGJYU0JvRDhPdjYtbFJHZVNheWhTMUNKdl9IZ1pEbF9DVmwyVXdEZy1jQ0VCcU9CbnBHc1JCU0w4NzcwdTZpSkRfUXdvT2dxZ3Q5OW1DbmZlZmp6OUdELVBRR05QcndaTHRKcW83N09pM1kxeC1oSVR2Rjc0azNhRk1Yd3V5MFhmSng2WHpPNEQxQlEybk1MVkxKdnNVR2k3MWd0V1FoSDdVTk9ZX2FDYnZaMFJSOWQ3MlE?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWl9qeE5zSGJYU0JvRDhPdjYtbFJHZVNheWhTMUNKdl9IZ1pEbF9DVmwyVXdEZy1jQ0VCcU9CbnBHc1JCU0w4NzcwdTZpSkRfUXdvT2dxZ3Q5OW1DbmZlZmp6OUdELVBRR05QcndaTHRKcW83N09pM1kxeC1oSVR2Rjc0azNhRk1Yd3V5MFhmSng2WHpPNEQxQlEybk1MVkxKdnNVR2k3MWd0V1FoSDdVTk9ZX2FDYnZaMFJSOWQ3MlE?oc=5",
+  "created": "2026-11-12T00:45:41+00:00"
+ },
+ {
   "id": "d1cbaa2686ea",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\nFun-Fact-Alarm! 🤩 Ryan Nugent-Hopkins hat in dieser Saison in nur 10 Spielen schon 11 Punkte gesammelt: 4 Tore und 7 Vorlagen! 🏒 Der RNH ist einfach ein Playmaker vom Feinsten. Wer hätte gedacht, dass so viele Assists aus einem Spieler kommen können? 🔥\n\n#Oilers #LetsGoOilers #RNH",
@@ -451,38 +484,5 @@
   "image": null,
   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU254QU5tVHU5d3dUX05oV0daUFRuUjZHc1VSbWd3QTZ3VWI1ZGZLMFdDRXpNSURiZ2xjSmdNTFktMHRJVVRCNWlHM21IUDIxTVhESjJCLWZfZko5TW1jT1U5Yy1KTUpDR1diSmp2MEdTd0Q2QVJaTEpmcWwtQlBwUzdheExWVzRhY2w5aFBVeDJZNjg5MFJHMS1OOTRtVUp6LTdiWA?oc=5",
   "created": "2026-11-06T15:56:29+00:00"
- },
- {
-  "id": "155f3b93434e",
-  "type": "Spiel",
-  "text": "🏒 SPIELBERICHT\n\nKnappe Kiste, Oilers-Fans! 🏒 Am 5. November gab's zuhause gegen die Anaheim Ducks ein 4:5 aus Oilers-Sicht. Das tut weh, aber so eng ist Eishockey nun mal. Kopf hoch, das nächste Spiel kommt bestimmt! Let's go, Oilers! 💙🧡\n\n#Oilers #LetsGoOilers #Eishockey",
-  "image": null,
-  "link": null,
-  "created": "2026-11-06T06:50:03+00:00"
- },
- {
-  "id": "c8275c878ce9",
-  "type": "Vorschau",
-  "text": "🔜 SPIELVORSCHAU\n\nEs ist so weit! 🔥 Am 08.11. um 04:00 Uhr (deutscher Zeit) steigt das Heimspiel im Rogers Place gegen die Vancouver Canucks. Ja, es ist mitten in der Nacht, aber dafür lohnt es sich! Schnappt euch euer Trikot, macht euch bereit und fiebert mit uns. Wir wollen einen lauten Rogers Place hören! 🧡💙 Let's go Oilers! #Oilers #LetsGoOilers #Canucks",
-  "image": null,
-  "link": null,
-  "created": "2026-11-06T06:50:06+00:00"
- },
- {
-  "id": "c0939c6371fa",
-  "type": "Quiz",
-  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Vorlagen bei den Oilers in dieser Saison?\n\nA) Evan Bouchard\nB) Kasperi Kapanen\nC) Ryan Nugent-Hopkins\nD) Connor McDavid\n\nAntwort in den Kanal-Reaktionen! 👇",
-  "answer": "✅ Auflösung: D) Connor McDavid mit 34! 🔥\n#Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-11-06T06:50:06+00:00"
- },
- {
-  "id": "f862dbfd52b0",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact für heute! 🔥 Mathieu Joseph hat in dieser Saison bisher 17 Spiele absolviert und dabei 3 Tore und 4 Vorlagen aufgelegt, macht zusammen 7 Punkte. Stark, wie er Verantwortung übernimmt! 🏒 Wer ist euer Favorit auf der Joseph-Show? 👇\n\n#Oilers #LetsGoOilers #MathieuJoseph",
-  "image": "img/cd595bc1808a.png",
-  "link": null,
-  "created": "2026-11-06T06:50:08+00:00"
  }
 ]
