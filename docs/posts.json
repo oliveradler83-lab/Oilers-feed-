@@ -1,5 +1,38 @@
 [
  {
+  "id": "a5ff55220879",
+  "type": "Quiz",
+  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Punkte bei den Oilers in dieser Saison?\n\nA) Leon Draisaitl\nB) Evan Bouchard\nC) Connor McDavid\nD) Vasily Podkolzin\n\nAntwort in den Kanal-Reaktionen! 👇",
+  "answer": "✅ Auflösung: C) Connor McDavid mit 49! 🔥\n#Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-11-13T01:05:35+00:00"
+ },
+ {
+  "id": "289d6beb0aa1",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans! 🔥 Ryan Nugent-Hopkins hat in dieser Saison in 11 Spielen 11 Punkte gesammelt: 4 Tore und 7 Vorlagen. Genau so sieht ein echter Playmaker aus! 🏒 Wer hat Ryan Nugent-Hopkins heute schon gefeiert?\n\n#Oilers #LetsGoOilers #RNH",
+  "image": "img/fb6bcc196068.png",
+  "link": null,
+  "created": "2026-11-13T01:05:36+00:00"
+ },
+ {
+  "id": "b239f8efb383",
+  "type": "News",
+  "text": "📰 NEWS\n\n🏒 Ein Viertel der Saison ist durch, und Sportsnet hat ein Zwischenzeugnis für die Oilers verteilt: Der Start ist richtig vielversprechend! 🔥 Wie seht ihr das bisher? Let's go, Oilers! 💙 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVRfaWdXaE91dE56eTBXbDkwMVktYkFqVmZ2T0RBU2lOcmdGenpKRW04SXM2aWVUeUd0bWcxNFhJTm9BdlA4WFVMcG8xNEh0M1BYcmFKanVVV1kwbnFaZ2JHWFVqOF9abjFkVDNkZDlFWkNLb1RZSWROZENscmdaU0dPRThRd1REc1d2Nmpqa3RNcXhFTTZKY1BvbFlHTEJaTVF1d3I1VjNQdw?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVRfaWdXaE91dE56eTBXbDkwMVktYkFqVmZ2T0RBU2lOcmdGenpKRW04SXM2aWVUeUd0bWcxNFhJTm9BdlA4WFVMcG8xNEh0M1BYcmFKanVVV1kwbnFaZ2JHWFVqOF9abjFkVDNkZDlFWkNLb1RZSWROZENscmdaU0dPRThRd1REc1d2Nmpqa3RNcXhFTTZKY1BvbFlHTEJaTVF1d3I1VjNQdw?oc=5",
+  "created": "2026-11-13T01:05:46+00:00"
+ },
+ {
+  "id": "168638c6875c",
+  "type": "News",
+  "text": "📰 NEWS\n\nBabcock und sein \"Tough Love\"-Stil stehen vor der größten Herausforderung! 🏒 Laut Edmonton Journal wird es jetzt richtig spannend, ob seine harte Linie aufgeht. Wie das Team darauf reagiert, bleibt abzuwarten. Drückt die Daumen! 🔥 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVW13TUxaeVhzVnZLYThOV0xUWUlKa1B5SU1KX1Bxakpid1pTcXpJOW5OTk1QTXlKRzB4RFBBWDRMcURWTDJsc2pNSG94RHVHTEVMdUdjckF0QjZMZWhZUDVHb2lZVFVaVC1ncHNPUF9mN1RMR1Z5bS1JS0I5NzhVdGFtMWdTRlZtZmRROUlWa2JpUzdMQktSYWxoaWJvd29RczBPRi1DVHZzQzk2RHlSSFBURWUyMTFIZm4xYTYyVmNKYXFRRExLbGI1SElMek4wN2tsNVVB?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVW13TUxaeVhzVnZLYThOV0xUWUlKa1B5SU1KX1Bxakpid1pTcXpJOW5OTk1QTXlKRzB4RFBBWDRMcURWTDJsc2pNSG94RHVHTEVMdUdjckF0QjZMZWhZUDVHb2lZVFVaVC1ncHNPUF9mN1RMR1Z5bS1JS0I5NzhVdGFtMWdTRlZtZmRROUlWa2JpUzdMQktSYWxoaWJvd29RczBPRi1DVHZzQzk2RHlSSFBURWUyMTFIZm4xYTYyVmNKYXFRRExLbGI1SElMek4wN2tsNVVB?oc=5",
+  "created": "2026-11-13T01:05:46+00:00"
+ },
+ {
   "id": "a14f86a6ab9b",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\n🏒 Fun Fact: Connor McDavid hat in dieser Saison schon nach nur 20 Spielen 49 Punkte gesammelt! 🔥 Dabei kommen 11 Tore und 38 Vorlagen zusammen. Das sind 38 Assists, die seine Mitspieler zum Strahlen bringen! 🤩 #Oilers #LetsGoOilers #McDavid",
@@ -451,38 +484,5 @@
   "image": null,
   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QZ041N1VzUXNzNFJRSk9CNnEyXzhvejZ2ZEFSa0FjTEhDbmdwY0pxWm9BNGVKNzQydVVFQ3pzN0ZUTlN3ZTVYOHJqZG83NU9lZTBBQms2MmRYaDFBcldUZ3dfQ3pZYmZQSUJFTjBjMTI?oc=5",
   "created": "2026-11-07T16:27:44+00:00"
- },
- {
-  "id": "10df1cb24a05",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans! 🔥 Mattias Ekholm hat in dieser Saison bereits 15 Spiele absolviert und dabei 2 Tore und 5 Vorlagen aufgelegt. Das macht stolze 7 Punkte! 🏒 Wer hätte gedacht, dass der Verteidiger so fleißig mitmischt? Let's go, Ekholm! 💙🧡\n\n#Oilers #LetsGoOilers #Ekholm",
-  "image": "img/6b87cbb35a30.png",
-  "link": null,
-  "created": "2026-11-07T08:49:10+00:00"
- },
- {
-  "id": "adb31cd0bbad",
-  "type": "News",
-  "text": "📰 NEWS\n\nMerkt euch den 7. November 2026! 🏒 Die Oilers treffen auf die Vancouver Canucks. Alle Infos gibt's bei NHL.com. Let's go Oilers! 💙🧡\n\n#Oilers #LetsGoOilers #NHL\n\nQuelle: https://news.google.com/rss/articles/CBMicEFVX3lxTE04UUFyVU5pc01ld2JaQkdPNG5rMjV5ck1sdUdXQnJYUG12M3dMMEl4VlprZ0oyNFBqVEk3a0YxVXRnMmJyT1dVQ1lHbF9McnZCb3FtT1N5RWJnWXFUZmE3WDdscmc3aV9fTmV4RDNXby0?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04UUFyVU5pc01ld2JaQkdPNG5rMjV5ck1sdUdXQnJYUG12M3dMMEl4VlprZ0oyNFBqVEk3a0YxVXRnMmJyT1dVQ1lHbF9McnZCb3FtT1N5RWJnWXFUZmE3WDdscmc3aV9fTmV4RDNXby0?oc=5",
-  "created": "2026-11-07T08:49:20+00:00"
- },
- {
-  "id": "0cb0e1802c3d",
-  "type": "News",
-  "text": "📰 NEWS\n\nMcDavid hat sich zu seiner emotionalen Reaktion auf den Hit von Helleson geäußert. Viele halten ihn ja für eine Art Roboter, aber so cool ist er offenbar gar nicht. 🤖 Wie habt ihr die Szene erlebt? 🏒\n\n#Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMisAFBVV95cUxPZmtBRllsT3lUVmpvNml5SmpNYjgzMVVtUmdhWU9QUlVVR2pQREs0VlA3R3JQSUxzS0t5VHZmUmVwa1RueXpWOGdESTZJZS1DVENLekVFUnkyTExYQWZIZG82b29NSnNKTGgtQk45bTQ1SVUxcHNIT2V3QTJXbEs5MVZocDVGU1ltd1pXWmMzeTlkbUIzMW85YlY4eWJnNmltOHpDZmQ2eEhoQ2QzZVZhaw?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZmtBRllsT3lUVmpvNml5SmpNYjgzMVVtUmdhWU9QUlVVR2pQREs0VlA3R3JQSUxzS0t5VHZmUmVwa1RueXpWOGdESTZJZS1DVENLekVFUnkyTExYQWZIZG82b29NSnNKTGgtQk45bTQ1SVUxcHNIT2V3QTJXbEs5MVZocDVGU1ltd1pXWmMzeTlkbUIzMW85YlY4eWJnNmltOHpDZmQ2eEhoQ2QzZVZhaw?oc=5",
-  "created": "2026-11-07T08:49:20+00:00"
- },
- {
-  "id": "c2166299aacb",
-  "type": "Quiz",
-  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Punkte bei den Oilers in dieser Saison?\n\nA) Evan Bouchard\nB) Ryan Nugent-Hopkins\nC) Connor McDavid\nD) Leon Draisaitl\n\nAntwort in den Kanal-Reaktionen! 👇",
-  "answer": "✅ Auflösung: C) Connor McDavid mit 44! 🔥\n#Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-11-07T01:56:36+00:00"
  }
 ]
