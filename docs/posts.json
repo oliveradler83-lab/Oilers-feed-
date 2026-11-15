@@ -1,5 +1,45 @@
 [
  {
+  "id": "b3c77e23c484",
+  "type": "Spiel",
+  "text": "🏒 SPIELBERICHT\n\n🏒🔥 Sieg für die Oilers! Auswärts in Toronto haben wir die Maple Leafs mit 1:0 besiegt. Am 14.11.2026 hat unser Team gezeigt, was in ihm steckt. Was für ein Abend! 🙌\n\n#Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-11-15T09:28:20+00:00"
+ },
+ {
+  "id": "cee106d50a5e",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\n🔥 Fun Fact: Connor McDavid hat in dieser Saison erst 21 Spiele gebraucht, um 50 Punkte zu sammeln! Dazu kommen 11 Tore und satte 39 Vorlagen. Der Mann ist einfach unglaublich! 🏒💙🧡\n\n#Oilers #LetsGoOilers #McDavid",
+  "image": "img/a0ea9f702ee5.png",
+  "link": null,
+  "created": "2026-11-15T09:28:26+00:00"
+ },
+ {
+  "id": "e1faba1074b3",
+  "type": "Tabelle",
+  "text": "📊 TABELLE\n\n🔥 Oilers-Update! Nach 21 Spielen stehen wir bei 15 Siegen, 3 Niederlagen und 3 OT-Niederlagen, also 33 Punkte. Platz 1 in der Pacific Division und Platz 2 in der Western Conference! 🏒 Dazu kommt eine starke Serie: 4 Siege in Folge. Weiter so, Jungs! 💙🧡\n\n#Oilers #LetsGoOilers #NHL",
+  "image": null,
+  "link": null,
+  "created": "2026-11-15T09:28:27+00:00"
+ },
+ {
+  "id": "19048b23299e",
+  "type": "News",
+  "text": "📰 NEWS\n\nShutout in Toronto! 🔥 Die Oilers haben die Leafs mit 1:0 besiegt und dabei kein Gegentor kassiert. Die Spieler-Noten gibt's im Edmonton Journal (Cult of Hockey), also schnell reinschauen, wer sich den besten Wert verdient hat! 🏒 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLVZTNjhrMjVEZHRLTGFoWnl3TXd1YnJEcDhxODViZW5PbTBWQXplM3NGaEhmOXM4VllQUkl6R0I2NDZocUJEZ1NaQ294SC1rUmIxQUpkdUIwQmt0WEpQRzVBcUo4bWZ6NDNERHNzNHBhMHVVQ080eGpmRDZ5RV9ublBEZmpScXN4LWFBVGRxOWtmMWJDSmJJLUZwSXlaQmJ1VlNndzllRV9wWDU1S0s3SUFzejNpZzNyZGxKUkVhbHVwRVQ2NG5XM1lyRTMwSWJrMklWUGE5UWc3QnpkYzFKd0hsZENrZFpweTBFcF9R?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLVZTNjhrMjVEZHRLTGFoWnl3TXd1YnJEcDhxODViZW5PbTBWQXplM3NGaEhmOXM4VllQUkl6R0I2NDZocUJEZ1NaQ294SC1rUmIxQUpkdUIwQmt0WEpQRzVBcUo4bWZ6NDNERHNzNHBhMHVVQ080eGpmRDZ5RV9ublBEZmpScXN4LWFBVGRxOWtmMWJDSmJJLUZwSXlaQmJ1VlNndzllRV9wWDU1S0s3SUFzejNpZzNyZGxKUkVhbHVwRVQ2NG5XM1lyRTMwSWJrMklWUGE5UWc3QnpkYzFKd0hsZENrZFpweTBFcF9R?oc=5",
+  "created": "2026-11-15T09:28:33+00:00"
+ },
+ {
+  "id": "084fa3e18b5e",
+  "type": "News",
+  "text": "📰 NEWS\n\nYo Oilers-Fans! 🏒 Auf Daily Faceoff gibt's die aktuellen Line Combinations der Edmonton Oilers. Schaut rein, wer gerade mit wem auf dem Eis steht! 🔥 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMieEFVX3lxTE94aGNZeWNjSU9oV1hyQklGUmIwVS1NcVQ3b2s3aFR2eHlCUXplMDJvdU1HU3JBVExUWWVFcjFFS0tvNTZ3Z0p1aDFYME5qNDcyWDlsSmJmdEwtd0RnT2V4bVJMQm1OenFDd0FuUmg1OWM4M3NINThJeg?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94aGNZeWNjSU9oV1hyQklGUmIwVS1NcVQ3b2s3aFR2eHlCUXplMDJvdU1HU3JBVExUWWVFcjFFS0tvNTZ3Z0p1aDFYME5qNDcyWDlsSmJmdEwtd0RnT2V4bVJMQm1OenFDd0FuUmg1OWM4M3NINThJeg?oc=5",
+  "created": "2026-11-15T09:28:33+00:00"
+ },
+ {
   "id": "f4019a51639f",
   "type": "Vorschau",
   "text": "🔜 SPIELVORSCHAU\n\nEs ist so weit! 🔥 Am 16.11. um 01:30 Uhr deutscher Zeit geht's auswärts gegen die Philadelphia Flyers in die Xfinity Mobile Arena. Ja, die Nacht wird kurz, aber echte Oilers-Fans schlafen vor so einem Spiel eh nicht ruhig! Stellt den Wecker, holt euch Snacks und fiebert mit uns mit. 💙🧡 Let's go Oilers! #Oilers #LetsGoOilers #Mitfiebern",
@@ -444,45 +484,5 @@
   "image": null,
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc0lWOXMzaXdOVmFfbmhHS1BsVlVUVUwybTRXVkxRX1UyYldpTUxZYkFxQUNaN1AwUzBXaUNGWU1XVGZVOTlkQUprTGY0TUU1WUlpV3U3UXJ0Vmlud0c0bWdKZlNMZGpaLVRpZ0o2REZ6WXNQR3daZUw1eDBCeEdHYW9Jd0RLM0dUVTJiRTBKQncwR1hfS0VaUjhMRQ?oc=5",
   "created": "2026-11-10T04:08:07+00:00"
- },
- {
-  "id": "792575eb012f",
-  "type": "News",
-  "text": "📰 NEWS\n\nDevon Levi zeigt wieder, was in ihm steckt: Beim Oilers-Sieg war er einmal mehr der Beste auf dem Eis! Laut Edmonton Journal hat er alle überstrahlt. Starke Leistung, die Lust auf mehr macht! 🔥🧤\n\n#Oilers #LetsGoOilers #DevonLevi\n\nQuelle: https://news.google.com/rss/articles/CBMihAFBVV95cUxNSndCeExVenJBVGxZaDNPRTFoQTFkS3pLajB2N0QxRXpjVTRldkloTVpfZDg1Z1dDSVNwYmE5TkNTRnRwM3pPeTlERGltTDktejVOSEpCc2d1MjdkUTVDcl94SDU2RER0Sm5MWmc3WUpHcmFDT3R0OVE5RDBsN0NVU3JmUjU?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSndCeExVenJBVGxZaDNPRTFoQTFkS3pLajB2N0QxRXpjVTRldkloTVpfZDg1Z1dDSVNwYmE5TkNTRnRwM3pPeTlERGltTDktejVOSEpCc2d1MjdkUTVDcl94SDU2RER0Sm5MWmc3WUpHcmFDT3R0OVE5RDBsN0NVU3JmUjU?oc=5",
-  "created": "2026-11-10T04:08:07+00:00"
- },
- {
-  "id": "770f2056172d",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\n🏒 Fun Fact: Connor McDavid hat in dieser Saison erst 18 Spiele absolviert und dabei schon 37 Vorlagen gesammelt! Dazu kommen 10 Tore, also insgesamt 47 Punkte. Er legt seine Mitspieler praktisch im Minutentakt auf. Wer ist bereit für die nächste Show? 🔥\n\n#Oilers #LetsGoOilers #McDavid",
-  "image": "img/a0ea9f702ee5.png",
-  "link": null,
-  "created": "2026-11-09T20:45:18+00:00"
- },
- {
-  "id": "a57ae1937028",
-  "type": "News",
-  "text": "📰 NEWS\n\nGute Nachrichten für die Oilers! 🙌 Nugent-Hopkins ist laut der voraussichtlichen Aufstellung fit und dabei, wenn es am Montag gegen die Rangers geht. Ab auf die Couch und mitfiebern! 🏒 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkZjWkhYSV9KTGt2SXNlWDVnaGdDTGxnRmtPU3VHcEtrcHpwSTdWYTJmMThNbmRtYmVlYnhmMnE5WFRYbDZpRll6OXdYLVl5QTNtdmx4MlFGSjBqaEg4OExhV2JvQUthRWsxamtwNWw0WnVSWmg1OHQ5dTRPRFZVQkRBOUYxS3NvUFphUWhwOTJvMXRUOHlVM0N0REZfMnUyOGlyTzh0ZnRQS0xuMElnbTYxTUJDbmFw?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkZjWkhYSV9KTGt2SXNlWDVnaGdDTGxnRmtPU3VHcEtrcHpwSTdWYTJmMThNbmRtYmVlYnhmMnE5WFRYbDZpRll6OXdYLVl5QTNtdmx4MlFGSjBqaEg4OExhV2JvQUthRWsxamtwNWw0WnVSWmg1OHQ5dTRPRFZVQkRBOUYxS3NvUFphUWhwOTJvMXRUOHlVM0N0REZfMnUyOGlyTzh0ZnRQS0xuMElnbTYxTUJDbmFw?oc=5",
-  "created": "2026-11-09T20:45:25+00:00"
- },
- {
-  "id": "b53807b3985b",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun-Fact für alle Oilers-Fans! 🔥 Kasperi Kapanen hat in dieser Saison in 18 Spielen 5 Tore und 5 Vorlagen aufgelegt, macht zusammen 10 Punkte. Und das Beste: Jeder Treffer ist genauso viel wert wie jede Vorlage für die Mannschaft! Stark, Kasperi! 🏒\n\n#Oilers #LetsGoOilers #Kapanen",
-  "image": "img/19c80e79b691.png",
-  "link": null,
-  "created": "2026-11-09T09:50:18+00:00"
- },
- {
-  "id": "c3495a89ee4f",
-  "type": "News",
-  "text": "📰 NEWS\n\nOilers gegen Rangers: Die Vorschau ist da! 🏒 Auf NHL.com gibt's alle Infos zum Duell. Wer holt sich die zwei Punkte? Ich bin jedenfalls schon heiß auf dieses Spiel! 🔥 Ab auf den Link und einstimmen!\n\n#Oilers #LetsGoOilers #NHL\n\nQuelle: https://news.google.com/rss/articles/CBMidEFVX3lxTE5FUWdoRnUxZmNkNmx1MnpBRFdVbXBCb1Fsc0xIR3o1MmxkOC1HU2l5dnhKVmNZQlhjS1dBRGZERzl2cl9kT0tpdUVUMW5tYnprV21kQVFlek5aOFkxVk9xeFlJSHQyMHI2Rmt6YWxVU09VNGhx?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FUWdoRnUxZmNkNmx1MnpBRFdVbXBCb1Fsc0xIR3o1MmxkOC1HU2l5dnhKVmNZQlhjS1dBRGZERzl2cl9kT0tpdUVUMW5tYnprV21kQVFlek5aOFkxVk9xeFlJSHQyMHI2Rmt6YWxVU09VNGhx?oc=5",
-  "created": "2026-11-09T09:50:27+00:00"
  }
 ]
