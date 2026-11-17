@@ -1,5 +1,38 @@
 [
  {
+  "id": "080bfc20abb4",
+  "type": "Quiz",
+  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Vorlagen bei den Oilers in dieser Saison?\n\nA) Evan Bouchard\nB) Connor McDavid\nC) Mattias Ekholm\nD) Leon Draisaitl\n\nAntwort in den Kanal-Reaktionen! 👇",
+  "answer": "✅ Auflösung: B) Connor McDavid mit 41! 🔥\n#Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-11-17T02:56:25+00:00"
+ },
+ {
+  "id": "80d86660fa1f",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact: Vasily Podkolzin hat in dieser Saison schon 16 Punkte gesammelt! 🔥 In 22 Spielen stehen 10 Tore und 6 Vorlagen auf seinem Konto. Der Mann ist richtig in Fahrt, weiter so, Vasily! 🏒\n\n#Oilers #LetsGoOilers #Podkolzin",
+  "image": "img/5c57d34b21cf.png",
+  "link": null,
+  "created": "2026-11-17T02:56:27+00:00"
+ },
+ {
+  "id": "6353db854ec0",
+  "type": "News",
+  "text": "📰 NEWS\n\nFrische Oilers-Gedanken von Oilers Nation! 🔥 Levi kämpft wie ein Gladiator, und bei McDavid fehlen gerade die Assists. Dazu gibt's noch mehr Themen, also unbedingt reinlesen! 🏒 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMitwFBVV95cUxQMk9jZUdFTXR1bmxZV2hZemF1RTR4VG5FQVZ1cEd3Qm1DSzUwT0ZpdTJXZzltXzV2Z0NGM1ZSbTVrek5aSkQ5Z1JHNmIxYmJfZnFuYXhNSUJHR09iR3FINWwyT19GOVZnYmtmZDFOZklXVzFlR1ByRjlFeXJWQmJwaHZrSkI5TW11VXktUjRxUnRGdkhtRVFIUS1wZzNhWm8xd3IxcXd5Qmw4NWx0SDlXYkRzaVRRVUU?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMk9jZUdFTXR1bmxZV2hZemF1RTR4VG5FQVZ1cEd3Qm1DSzUwT0ZpdTJXZzltXzV2Z0NGM1ZSbTVrek5aSkQ5Z1JHNmIxYmJfZnFuYXhNSUJHR09iR3FINWwyT19GOVZnYmtmZDFOZklXVzFlR1ByRjlFeXJWQmJwaHZrSkI5TW11VXktUjRxUnRGdkhtRVFIUS1wZzNhWm8xd3IxcXd5Qmw4NWx0SDlXYkRzaVRRVUU?oc=5",
+  "created": "2026-11-17T02:56:35+00:00"
+ },
+ {
+  "id": "e3395d4669c9",
+  "type": "News",
+  "text": "📰 NEWS\n\nOilers-Fans, aufgepasst! 🔥 Laut Daily Hive sind einige unserer Star-Spieler aktuell auf einem Tempo unterwegs, das fast schon absurd klingt. Ob sie das durchziehen? Ich bin jedenfalls mega gespannt! 🏒 #Oilers #LetsGoOilers #Edmonton\n\nQuelle: https://news.google.com/rss/articles/CBMifkFVX3lxTE15N1FOQ0RPTkcxdl8tX0lpRV9xNnFsU0dLU2kzMmt5MEtWdlF1ZXZFcGR4WnVuZVBEQlhzMnJueWdNcUZDUFZmR3NCUFI3MHBfTlNCcGZXd1lWSFluRUt6OUNKLXN1TFY3ZzlweFV2Yy14elgzdjVlSmk4NzEyUQ?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15N1FOQ0RPTkcxdl8tX0lpRV9xNnFsU0dLU2kzMmt5MEtWdlF1ZXZFcGR4WnVuZVBEQlhzMnJueWdNcUZDUFZmR3NCUFI3MHBfTlNCcGZXd1lWSFluRUt6OUNKLXN1TFY3ZzlweFV2Yy14elgzdjVlSmk4NzEyUQ?oc=5",
+  "created": "2026-11-17T02:56:35+00:00"
+ },
+ {
   "id": "d8710826e006",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\nKasperi Kapanen ist mit 22 Spielen, 5 Toren und 5 Vorlagen bei 10 Punkten in dieser Saison voll dabei! 🔥 Jeder Scorer zählt, und er hält die Offense am Laufen. Wie bewertet ihr seine Saison bisher? 🏒\n\n#Oilers #LetsGoOilers #Kapanen",
@@ -451,38 +484,5 @@
   "image": null,
   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00a0VSSDk1REh1VEVWMHdWTnJvNmVxWGRkZTNSdjVmVEJkeGxqbU9LSlQ0LXBuNjhnZDM4ektJa182N0NTUnRoLUFJd1ZmdmgzZDZKWXJIQlRPMk5Kd3htUGxjNDRGZHdFa3duLXRha0lDRWM?oc=5",
   "created": "2026-11-11T09:27:29+00:00"
- },
- {
-  "id": "2b5634d80d1f",
-  "type": "News",
-  "text": "📰 NEWS\n\nSpannende Meldung! 👀 The Hockey Writers sehen die Oilers als möglichen Fit für Jake DeBrusk. Mal schauen, ob da was draus wird. Wir bleiben dran! 🏒 #Oilers #LetsGoOilers #DeBrusk\n\nQuelle: https://news.google.com/rss/articles/CBMifkFVX3lxTE5ja3NvdFZYRERaM1RNNXhSY2o4ZkpzTHlja3VWQ3R5ZENRZ2Z2S0V3MF93dl9BMTB5eVgxMjk5Zk9iVXpDZ3dVY2hPdkhOT1ZmVmxkSm1BLXJhU3E3OWxnOHFMUWN5M0dKX19LWWdyaXN2cVhIanZneWdHem9Gdw?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ja3NvdFZYRERaM1RNNXhSY2o4ZkpzTHlja3VWQ3R5ZENRZ2Z2S0V3MF93dl9BMTB5eVgxMjk5Zk9iVXpDZ3dVY2hPdkhOT1ZmVmxkSm1BLXJhU3E3OWxnOHFMUWN5M0dKX19LWWdyaXN2cVhIanZneWdHem9Gdw?oc=5",
-  "created": "2026-11-11T09:27:29+00:00"
- },
- {
-  "id": "3c04554a7e49",
-  "type": "Quiz",
-  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Tore bei den Oilers in dieser Saison?\n\nA) Kasperi Kapanen\nB) Vasily Podkolzin\nC) Ryan Nugent-Hopkins\nD) Leon Draisaitl\n\nAntwort in den Kanal-Reaktionen! 👇",
-  "answer": "✅ Auflösung: D) Leon Draisaitl mit 18! 🔥\n#Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-11-11T01:56:43+00:00"
- },
- {
-  "id": "b3da3d969f6b",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact der Woche: Mattias Ekholm hat in dieser Saison schon 9 Punkte in 17 Spielen gesammelt, mit 3 Toren und 6 Vorlagen! 🔥 Ein starker Beitrag von der Verteidigung, und man merkt, wie wichtig er für unsere Jungs ist. Let's go, Ekholm! 🏒\n\n#Oilers #LetsGoOilers #Ekholm",
-  "image": "img/6b87cbb35a30.png",
-  "link": null,
-  "created": "2026-11-11T01:56:44+00:00"
- },
- {
-  "id": "40d980220e67",
-  "type": "News",
-  "text": "📰 NEWS\n\nDie Oilers haben ein richtig gutes Problem: Bei Emberson, Mukhamadullin und Walman gibt es in der Verteidigung einen echten Stau, weil alle drei um Einsatzzeit konkurrieren. Ein Luxusproblem, das zeigt, wie tief der Kader besetzt ist! 🛡️🔥 Wer setzt sich durch? Wir sind gespannt. 🏒\n\n#Oilers #LetsGoOilers #Defense\n\nQuelle: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZDFkXzZyUFBHN2ZHTzMzMmUxY0pnYS1UdkRxYUVDeVg0YjBweVVOMS1oRjZiWjZUTGluemNjNG1PcUg3X2otc0ZzamYwSUp2SUs3R0x5b3p3UGN3ZWZXa0o5Ty1nUFBiSDFpWEw4XzRlNmZnX1NkbnlMYWg1ZTBwZFN3S1BnU2lVMkVTVjNXcjZGb3JHeU5rOVA3ZzRsVlZJdTE5c3JHVnBXMGM?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZDFkXzZyUFBHN2ZHTzMzMmUxY0pnYS1UdkRxYUVDeVg0YjBweVVOMS1oRjZiWjZUTGluemNjNG1PcUg3X2otc0ZzamYwSUp2SUs3R0x5b3p3UGN3ZWZXa0o5Ty1nUFBiSDFpWEw4XzRlNmZnX1NkbnlMYWg1ZTBwZFN3S1BnU2lVMkVTVjNXcjZGb3JHeU5rOVA3ZzRsVlZJdTE5c3JHVnBXMGM?oc=5",
-  "created": "2026-11-11T01:56:53+00:00"
  }
 ]
