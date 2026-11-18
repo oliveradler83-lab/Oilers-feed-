@@ -1,5 +1,29 @@
 [
  {
+  "id": "5ba523c1c3bc",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\n🏒 Fun Fact der Woche: Leon Draisaitl hat in dieser Saison genauso viele Vorlagen (23) wie Spiele (23) gespielt! Dazu kommen 21 Tore, also insgesamt 44 Punkte. Was für eine Quote! 🔥 Wer glaubt, dass er heute wieder trifft? 👀\n\n#Oilers #LetsGoOilers #Draisaitl",
+  "image": "img/16536e777c2d.png",
+  "link": null,
+  "created": "2026-11-18T17:16:38+00:00"
+ },
+ {
+  "id": "7ac460262fa3",
+  "type": "News",
+  "text": "📰 NEWS\n\nOilers-Fans aufgepasst! 🏒 Edmonton hat Florida mit 5:2 geschlagen, und die Highlights gibt's schon auf NHL.com. Schaut rein und feiert mit! 🔥 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMicEFVX3lxTFBvbUJWdjFpTHFIMlJ3QUlZaGZFdWp0R1NBVTdUTENoZzFuVzVMOGVTR3dQdDRCVmNIcDNGUEZBM3dGMXE4MERMRVZiVHpsZ3NwOEhtMU9jMXo5MXpzeUhzSGU2TTRPQjRud2hjZHFlSHQ?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvbUJWdjFpTHFIMlJ3QUlZaGZFdWp0R1NBVTdUTENoZzFuVzVMOGVTR3dQdDRCVmNIcDNGUEZBM3dGMXE4MERMRVZiVHpsZ3NwOEhtMU9jMXo5MXpzeUhzSGU2TTRPQjRud2hjZHFlSHQ?oc=5",
+  "created": "2026-11-18T17:16:45+00:00"
+ },
+ {
+  "id": "2690abc4be03",
+  "type": "News",
+  "text": "📰 NEWS\n\nDie Oilers haben die Florida Panthers richtig abgefertigt! 🔥 Und von den Tkachuk-Brüdern war kaum etwas zu hören. Ein starker Auftritt unserer Jungs, genau so wollen wir das sehen! 🏒\n\n#Oilers #LetsGoOilers #Panthers\n\nQuelle: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVE5wQ2hEQlp1TV9NbU1aNVRPRi05cEQwR1BGTmVUV1lGS1pTQ2hFTmxFMVVzLWtCcThha3Rqa3VQQ0FEdjF6cmV0eHFGSkdCeUFRVXQyS3ZNSTJqMGoyNVR6Y3N4cTRQa0tmVkxmWkN1bUh2TTVRb0FtRWpNc2tyQU9vVVk4WjluWEZYUHczOENHQ0lVN3A1clNybjExcEoyd2MtNmJjbzRTT3NpNjNOUWR0VVhwWEctWjh0WlJDYXNYcmRjM1BFeWRIcWVPSWdqTEE?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVE5wQ2hEQlp1TV9NbU1aNVRPRi05cEQwR1BGTmVUV1lGS1pTQ2hFTmxFMVVzLWtCcThha3Rqa3VQQ0FEdjF6cmV0eHFGSkdCeUFRVXQyS3ZNSTJqMGoyNVR6Y3N4cTRQa0tmVkxmWkN1bUh2TTVRb0FtRWpNc2tyQU9vVVk4WjluWEZYUHczOENHQ0lVN3A1clNybjExcEoyd2MtNmJjbzRTT3NpNjNOUWR0VVhwWEctWjh0WlJDYXNYcmRjM1BFeWRIcWVPSWdqTEE?oc=5",
+  "created": "2026-11-18T17:16:45+00:00"
+ },
+ {
   "id": "c1e887d9884b",
   "type": "Spiel",
   "text": "🏒 SPIELBERICHT\n\nOilers-Fans, das war ein richtig starker Abend! 🔥 Am 17.11. haben die Edmonton Oilers auswärts bei den Florida Panthers mit 5:2 gewonnen. Sauber gespielt, die Jungs haben gezeigt, was in ihnen steckt! 🏒 Was für ein Auswärtssieg, da kann man stolz sein! 💙🧡\n\n#Oilers #LetsGoOilers #Panthers",
@@ -460,29 +484,5 @@
   "image": "img/a0ea9f702ee5.png",
   "link": null,
   "created": "2026-11-12T18:20:28+00:00"
- },
- {
-  "id": "4e4df28f60e4",
-  "type": "News",
-  "text": "📰 NEWS\n\n🏒 Zach Hyman war heute doppelt erfolgreich und hat zweimal getroffen! Tristan Jarry war auf der anderen Seite überragend. Die Oilers waren klar unterlegen, haben das Spiel aber trotzdem gewonnen. Typisch Oilers, nie aufgeben! 💙🧡\n\n#Oilers #LetsGoOilers #Hyman\n\nQuelle: https://news.google.com/rss/articles/CBMisAFBVV95cUxPTmU5MUNwcWI4Y1l3RHA5T0tnX2NLWmQyUDVNZnZoczJnQXV5ZFU4LUlXRUNnNDNqOGtONmhsckNQaFpBZGNfa2ZEV1pVSUk4RkdaZVJQNEpLZW1SLWwwVE0xWlk2YnoyNmQ1bmJ3S1FyOGlha2ZlVEE3Ty14NHR6NWstU21BRnlQcW5mNy1PNklvT3pZNE1GRmZDSmNYaUVPbGFTRjVKZWVyeFVWdEFlSA?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTmU5MUNwcWI4Y1l3RHA5T0tnX2NLWmQyUDVNZnZoczJnQXV5ZFU4LUlXRUNnNDNqOGtONmhsckNQaFpBZGNfa2ZEV1pVSUk4RkdaZVJQNEpLZW1SLWwwVE0xWlk2YnoyNmQ1bmJ3S1FyOGlha2ZlVEE3Ty14NHR6NWstU21BRnlQcW5mNy1PNklvT3pZNE1GRmZDSmNYaUVPbGFTRjVKZWVyeFVWdEFlSA?oc=5",
-  "created": "2026-11-12T18:20:34+00:00"
- },
- {
-  "id": "39a608460d76",
-  "type": "Spiel",
-  "text": "🏒 SPIELBERICHT\n\n🔥 Oilers-Sieg! Zuhause gegen die Philadelphia Flyers gewinnen wir 3:2, und die Entscheidung fällt erst nach Verlängerung/Shootout. Was für ein Krimi am 11.11.! 🏒 Das war Herzklopfen pur! 💙 #Oilers #LetsGoOilers #Flyers",
-  "image": null,
-  "link": null,
-  "created": "2026-11-12T09:51:23+00:00"
- },
- {
-  "id": "547aa1e23a32",
-  "type": "Vorschau",
-  "text": "🔜 SPIELVORSCHAU\n\nEs ist so weit! 🔥 Am 15.11.2026 um 01:00 Uhr (deutscher Zeit) geht's auswärts gegen die Toronto Maple Leafs in der Scotiabank Arena! Wecker stellen, Kaffee holen und mit uns mitfiebern. Let's go Oilers! 🏒\n\n#Oilers #LetsGoOilers #Mitfiebern",
-  "image": null,
-  "link": null,
-  "created": "2026-11-12T09:51:26+00:00"
  }
 ]
