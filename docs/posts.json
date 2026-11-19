@@ -1,5 +1,21 @@
 [
  {
+  "id": "cde4fa6b4fc5",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact: Vasily Podkolzin hat in dieser Saison in 23 Spielen 12 Tore und 7 Vorlagen aufgelegt, macht zusammen 19 Punkte! 🔥 Fast ein Punkt pro Spiel, der Junge liefert! 🏒 #Oilers #LetsGoOilers",
+  "image": "img/5c57d34b21cf.png",
+  "link": null,
+  "created": "2026-11-19T20:39:07+00:00"
+ },
+ {
+  "id": "d87d422c2fb5",
+  "type": "News",
+  "text": "📰 NEWS\n\n🏒 Achtung Oilers-Fans! Auf NHL.com gibt es die voraussichtliche Aufstellung für das Spiel gegen die Lightning. Schaut rein, wer wahrscheinlich aufs Eis geht! 🔥 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMigwFBVV95cUxOd2twSjhXUmlVdzBIdS1hX2U2WURURFR0ZHoteGVmZDFabFNoRUNUSkVlWFBOaVF6UTY3MS1rek1ZZ2VmSmJyRWk4YTVmMi04S2lqTWZ1ZWtkWVFkaGxCVkVfVG5SU2dSWkR5ZnpNdnE0aFUtX0N5RjJXd2hEVGgtUXBxbw?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd2twSjhXUmlVdzBIdS1hX2U2WURURFR0ZHoteGVmZDFabFNoRUNUSkVlWFBOaVF6UTY3MS1rek1ZZ2VmSmJyRWk4YTVmMi04S2lqTWZ1ZWtkWVFkaGxCVkVfVG5SU2dSWkR5ZnpNdnE0aFUtX0N5RjJXd2hEVGgtUXBxbw?oc=5",
+  "created": "2026-11-19T20:39:11+00:00"
+ },
+ {
   "id": "8d2d7b7ba3fc",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\nFun Fact: Ryan Nugent-Hopkins hat in dieser Saison 12 Spiele absolviert und dabei 11 Punkte gesammelt, davon 4 Tore und 7 Vorlagen! 🔥 Er legt seine Mitspieler also deutlich öfter auf als dass er selbst trifft. Starke Quote, RNH! 🏒 #Oilers #LetsGoOilers #RNH",
@@ -468,21 +484,5 @@
   "image": "img/19c80e79b691.png",
   "link": null,
   "created": "2026-11-13T17:45:32+00:00"
- },
- {
-  "id": "8d0653c2aeb6",
-  "type": "News",
-  "text": "📰 NEWS\n\nBabcock setzt weiter auf einen Verteidiger, der gerade schwächelt, und lässt dafür einen anderen Defender nicht spielen. 🤔 Mal sehen, wie sich die Defensive entwickelt! Let's go Oilers! 🏒 #Oilers #LetsGoOilers #EdmontonOilers\n\nQuelle: https://news.google.com/rss/articles/CBMitgFBVV95cUxPOEZ5LUlra1VKamlXRE5JTVhndWRsdW9ycjlmcVFQNk42Zm9UZ2ZUVWswbURBX2M3ZUxtcHpjVGs4RzRNMURudlcyVGxEQ3lFYWpHbGlHMUdwVFM3NUpTS3BBcmRVcU5DU2JrbDRkZHBqWjlraUQ5RDhMQ0lobW5GM0dhUG95TFJwYmQ5WUxKQVNMNnpVU09rRk9LQk40NkthRG9YVEJES1JxUkwyMEVROXFJMEs1QQ?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOEZ5LUlra1VKamlXRE5JTVhndWRsdW9ycjlmcVFQNk42Zm9UZ2ZUVWswbURBX2M3ZUxtcHpjVGs4RzRNMURudlcyVGxEQ3lFYWpHbGlHMUdwVFM3NUpTS3BBcmRVcU5DU2JrbDRkZHBqWjlraUQ5RDhMQ0lobW5GM0dhUG95TFJwYmQ5WUxKQVNMNnpVU09rRk9LQk40NkthRG9YVEJES1JxUkwyMEVROXFJMEs1QQ?oc=5",
-  "created": "2026-11-13T17:45:38+00:00"
- },
- {
-  "id": "894a3d5111b1",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact für heute! 🤩 Vasily Podkolzin hat in dieser Saison 20 Spiele gespielt und dabei 9 Tore und 6 Vorlagen gesammelt. Das macht zusammen 15 Punkte! 🏒 Let's go, Vasily! 🔥 #Oilers #LetsGoOilers #Podkolzin",
-  "image": "img/5c57d34b21cf.png",
-  "link": null,
-  "created": "2026-11-13T09:33:16+00:00"
  }
 ]
