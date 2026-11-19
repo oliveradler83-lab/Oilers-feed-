@@ -1,5 +1,38 @@
 [
  {
+  "id": "08bae0c4a9c1",
+  "type": "Quiz",
+  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Vorlagen bei den Oilers in dieser Saison?\n\nA) Ryan Nugent-Hopkins\nB) Leon Draisaitl\nC) Connor McDavid\nD) Kasperi Kapanen\n\nAntwort in den Kanal-Reaktionen! 👇",
+  "answer": "✅ Auflösung: C) Connor McDavid mit 42! 🔥\n#Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-11-19T00:24:28+00:00"
+ },
+ {
+  "id": "d2ad51e01f0b",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\n🔥 Fun Fact der Saison: Leon Draisaitl hat in 23 Spielen genau 23 Vorlagen gesammelt! Dazu kommen 21 Tore, also insgesamt 44 Punkte. Einfach unfassbar, was Leon da abliefert! 🏒 #Oilers #LetsGoOilers #Draisaitl",
+  "image": "img/16536e777c2d.png",
+  "link": null,
+  "created": "2026-11-19T00:24:30+00:00"
+ },
+ {
+  "id": "c1bd0da09264",
+  "type": "News",
+  "text": "📰 NEWS\n\nDie Oilers formen unter Babcock offenbar eine neue Identität! 🤔 Sportsnet hat zusammengefasst, was wir (vermutlich) schon wissen. Spannend, wie sich das Team gerade entwickelt. Was denkt ihr: Geht der Weg in die richtige Richtung? 🏒\n\n#Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMirgFBVV95cUxPQmlSMTM5Z0tEazg3NDk3T0NfTjFsVkR4TlRlcXZxM0JENkZBY25leUo3MkhGNjVhOW9DSmp6RlVCaUxaM1NVZ2RqUmNfMGZoNmxzQUNQYWhsNUgwaHFwQXgwcnVHTUFNX0hYU3VtZFVRQ3F3S1FjbEhUdlhXakZ6QzJ3bE1QWGJ1WjRhLTJkajNvUEs4WDJCNlN1U2NEdGw1ekRQWlo5d1o5RnZXQ1E?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQmlSMTM5Z0tEazg3NDk3T0NfTjFsVkR4TlRlcXZxM0JENkZBY25leUo3MkhGNjVhOW9DSmp6RlVCaUxaM1NVZ2RqUmNfMGZoNmxzQUNQYWhsNUgwaHFwQXgwcnVHTUFNX0hYU3VtZFVRQ3F3S1FjbEhUdlhXakZ6QzJ3bE1QWGJ1WjRhLTJkajNvUEs4WDJCNlN1U2NEdGw1ekRQWlo5d1o5RnZXQ1E?oc=5",
+  "created": "2026-11-19T00:24:39+00:00"
+ },
+ {
+  "id": "102a2c74ab3d",
+  "type": "News",
+  "text": "📰 NEWS\n\nDie Oilers finden gerade immer neue Wege zum Sieg! 🏒 Laut Oilers Nation gewinnt das Team auf ganz unterschiedliche Arten. Egal wie, Hauptsache Sieg! 🔥 Weiter so, Jungs! #Oilers #LetsGoOilers #OilersNation\n\nQuelle: https://news.google.com/rss/articles/CBMigwFBVV95cUxOcjIzdGtpZmZRUlcxNVAtY01WWEtlMHlkeC1XUlR6S3RaU0lNTnl0LUFuYWFJNHpiUVhFVTlKbmZLbFhDOWpJOEc5N3plbzNpS1l2SVJUUnhPT0pHQl90SG1ET2hOMnJFLW5OUVRabUZ0a0F0eDRoNFhJR3Z1Sm5TX3Jjdw?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcjIzdGtpZmZRUlcxNVAtY01WWEtlMHlkeC1XUlR6S3RaU0lNTnl0LUFuYWFJNHpiUVhFVTlKbmZLbFhDOWpJOEc5N3plbzNpS1l2SVJUUnhPT0pHQl90SG1ET2hOMnJFLW5OUVRabUZ0a0F0eDRoNFhJR3Z1Sm5TX3Jjdw?oc=5",
+  "created": "2026-11-19T00:24:39+00:00"
+ },
+ {
   "id": "5ba523c1c3bc",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\n🏒 Fun Fact der Woche: Leon Draisaitl hat in dieser Saison genauso viele Vorlagen (23) wie Spiele (23) gespielt! Dazu kommen 21 Tore, also insgesamt 44 Punkte. Was für eine Quote! 🔥 Wer glaubt, dass er heute wieder trifft? 👀\n\n#Oilers #LetsGoOilers #Draisaitl",
@@ -452,37 +485,5 @@
   "image": null,
   "link": null,
   "created": "2026-11-13T01:05:35+00:00"
- },
- {
-  "id": "289d6beb0aa1",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans! 🔥 Ryan Nugent-Hopkins hat in dieser Saison in 11 Spielen 11 Punkte gesammelt: 4 Tore und 7 Vorlagen. Genau so sieht ein echter Playmaker aus! 🏒 Wer hat Ryan Nugent-Hopkins heute schon gefeiert?\n\n#Oilers #LetsGoOilers #RNH",
-  "image": "img/fb6bcc196068.png",
-  "link": null,
-  "created": "2026-11-13T01:05:36+00:00"
- },
- {
-  "id": "b239f8efb383",
-  "type": "News",
-  "text": "📰 NEWS\n\n🏒 Ein Viertel der Saison ist durch, und Sportsnet hat ein Zwischenzeugnis für die Oilers verteilt: Der Start ist richtig vielversprechend! 🔥 Wie seht ihr das bisher? Let's go, Oilers! 💙 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVRfaWdXaE91dE56eTBXbDkwMVktYkFqVmZ2T0RBU2lOcmdGenpKRW04SXM2aWVUeUd0bWcxNFhJTm9BdlA4WFVMcG8xNEh0M1BYcmFKanVVV1kwbnFaZ2JHWFVqOF9abjFkVDNkZDlFWkNLb1RZSWROZENscmdaU0dPRThRd1REc1d2Nmpqa3RNcXhFTTZKY1BvbFlHTEJaTVF1d3I1VjNQdw?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVRfaWdXaE91dE56eTBXbDkwMVktYkFqVmZ2T0RBU2lOcmdGenpKRW04SXM2aWVUeUd0bWcxNFhJTm9BdlA4WFVMcG8xNEh0M1BYcmFKanVVV1kwbnFaZ2JHWFVqOF9abjFkVDNkZDlFWkNLb1RZSWROZENscmdaU0dPRThRd1REc1d2Nmpqa3RNcXhFTTZKY1BvbFlHTEJaTVF1d3I1VjNQdw?oc=5",
-  "created": "2026-11-13T01:05:46+00:00"
- },
- {
-  "id": "168638c6875c",
-  "type": "News",
-  "text": "📰 NEWS\n\nBabcock und sein \"Tough Love\"-Stil stehen vor der größten Herausforderung! 🏒 Laut Edmonton Journal wird es jetzt richtig spannend, ob seine harte Linie aufgeht. Wie das Team darauf reagiert, bleibt abzuwarten. Drückt die Daumen! 🔥 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVW13TUxaeVhzVnZLYThOV0xUWUlKa1B5SU1KX1Bxakpid1pTcXpJOW5OTk1QTXlKRzB4RFBBWDRMcURWTDJsc2pNSG94RHVHTEVMdUdjckF0QjZMZWhZUDVHb2lZVFVaVC1ncHNPUF9mN1RMR1Z5bS1JS0I5NzhVdGFtMWdTRlZtZmRROUlWa2JpUzdMQktSYWxoaWJvd29RczBPRi1DVHZzQzk2RHlSSFBURWUyMTFIZm4xYTYyVmNKYXFRRExLbGI1SElMek4wN2tsNVVB?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVW13TUxaeVhzVnZLYThOV0xUWUlKa1B5SU1KX1Bxakpid1pTcXpJOW5OTk1QTXlKRzB4RFBBWDRMcURWTDJsc2pNSG94RHVHTEVMdUdjckF0QjZMZWhZUDVHb2lZVFVaVC1ncHNPUF9mN1RMR1Z5bS1JS0I5NzhVdGFtMWdTRlZtZmRROUlWa2JpUzdMQktSYWxoaWJvd29RczBPRi1DVHZzQzk2RHlSSFBURWUyMTFIZm4xYTYyVmNKYXFRRExLbGI1SElMek4wN2tsNVVB?oc=5",
-  "created": "2026-11-13T01:05:46+00:00"
- },
- {
-  "id": "a14f86a6ab9b",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\n🏒 Fun Fact: Connor McDavid hat in dieser Saison schon nach nur 20 Spielen 49 Punkte gesammelt! 🔥 Dabei kommen 11 Tore und 38 Vorlagen zusammen. Das sind 38 Assists, die seine Mitspieler zum Strahlen bringen! 🤩 #Oilers #LetsGoOilers #McDavid",
-  "image": "img/a0ea9f702ee5.png",
-  "link": null,
-  "created": "2026-11-12T18:20:28+00:00"
  }
 ]
