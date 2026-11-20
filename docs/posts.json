@@ -1,5 +1,21 @@
 [
  {
+  "id": "6d804ad548b7",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact für heute! 🧠 Mattias Ekholm hat in dieser Saison bereits 22 Spiele absolviert und dabei 11 Punkte gesammelt: 3 Tore und 8 Vorlagen! Gerade die Assists zeigen, wie wichtig er für unser Spiel ist. 🔥 Wer hätte gedacht, dass ein Verteidiger so viel Offensive bringt? #Oilers #LetsGoOilers #Ekholm",
+  "image": "img/6b87cbb35a30.png",
+  "link": null,
+  "created": "2026-11-20T21:50:19+00:00"
+ },
+ {
+  "id": "6ae5b8f967ba",
+  "type": "News",
+  "text": "📰 NEWS\n\n🏒 Neu auf NHL.com: Im Video „RAW“ gibt's Einblicke mit Hallander, datiert auf den 20.11.26. Schaut rein und sagt uns, was ihr davon haltet! 🔥\n\n#Oilers #LetsGoOilers #NHL\n\nQuelle: https://news.google.com/rss/articles/CBMigAFBVV95cUxQdFdxUl9WU203VWhqR0xjbE9nc2JBX28wbnVMdnd6UlliWmxfVUZNWTF2M05lX3pLeHhqekJyM2MxQkNfNi1WSktnVEtIRFdEWFZZczdEUGtNbkFDUVpTcW5mQjZUcUpZdWZvcFF5YkpCSWJ0UU9OYW9HV1NWNmx5TQ?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdFdxUl9WU203VWhqR0xjbE9nc2JBX28wbnVMdnd6UlliWmxfVUZNWTF2M05lX3pLeHhqekJyM2MxQkNfNi1WSktnVEtIRFdEWFZZczdEUGtNbkFDUVpTcW5mQjZUcUpZdWZvcFF5YkpCSWJ0UU9OYW9HV1NWNmx5TQ?oc=5",
+  "created": "2026-11-20T21:50:25+00:00"
+ },
+ {
   "id": "fea694f5bbaa",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\nFun Fact der Woche 🏒 Mathieu Joseph hat in dieser Saison bisher 24 Spiele absolviert und dabei 3 Tore und 5 Vorlagen aufgelegt. Das macht stolze 8 Punkte! Man sieht: Er ist ein echter Teamplayer, der lieber den Pass spielt, damit andere treffen. Weiter so, Mathieu! 🔥\n\n#Oilers #LetsGoOilers #MathieuJoseph",
@@ -468,21 +484,5 @@
   "image": "img/6b87cbb35a30.png",
   "link": null,
   "created": "2026-11-15T01:56:39+00:00"
- },
- {
-  "id": "9e13b45cbd8c",
-  "type": "News",
-  "text": "📰 NEWS\n\n🏒 Heute geht's gegen die Maple Leafs! Die Oilers sind live in Toronto am Start, und NHL.com hat die Live-Updates parat. Schaut rein und verfolgt jeden Shift mit uns! 🔥\n\n#Oilers #LetsGoOilers #LeafsNation\n\nQuelle: https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmlfOWxVRGNUR0REOXRPd1pGY01nb1pqLTNyZjhEMEU4a1JBMjhtWFJTM25Yc1pPN3JkZTVycndSa3h2TW54WUhZTjdXelFIWmN6MVlIdkV2aUw0WnRjMUloSV9PTEkxYVp2dngwRE1yaVZUc2huR3QtZ2g2bV8yQg?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmlfOWxVRGNUR0REOXRPd1pGY01nb1pqLTNyZjhEMEU4a1JBMjhtWFJTM25Yc1pPN3JkZTVycndSa3h2TW54WUhZTjdXelFIWmN6MVlIdkV2aUw0WnRjMUloSV9PTEkxYVp2dngwRE1yaVZUc2huR3QtZ2g2bV8yQg?oc=5",
-  "created": "2026-11-15T01:56:48+00:00"
- },
- {
-  "id": "3c878a7ace40",
-  "type": "News",
-  "text": "📰 NEWS\n\n🏒 Achtung, Oilers-Fans! Oilers Nation hat drei Spieler herausgepickt, die man bei den anstehenden Trade-Überlegungen im Auge behalten sollte. Wer könnte im Trade-Karussell bald auftauchen? Den vollen Artikel gibt's bei Oilers Nation, lohnt sich! 👀\n\n#Oilers #LetsGoOilers #TradeTalk\n\nQuelle: https://news.google.com/rss/articles/CBMirwFBVV95cUxNbTdBSDM3dVpRUDZwVTJGdGpGLU85YnloOG9BQUFOX0x3R3VyQ3o0OGpWbFc4WUNadmRtMFpYVXBXUF9yRXZVRGNlNnkzMnJMcmhWX1huMnpHSjBUeUM2U1RLSFd5Y0NkSnZCMGJYRFRKbWlCazEyN2V2M2NoVFNuSFdtUWk5enFNcUpoS3NvQ0dFeUJBSkFqN1oxTzNMRXFKTWQyQlgwOEQ0TTNLSzdV?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbTdBSDM3dVpRUDZwVTJGdGpGLU85YnloOG9BQUFOX0x3R3VyQ3o0OGpWbFc4WUNadmRtMFpYVXBXUF9yRXZVRGNlNnkzMnJMcmhWX1huMnpHSjBUeUM2U1RLSFd5Y0NkSnZCMGJYRFRKbWlCazEyN2V2M2NoVFNuSFdtUWk5enFNcUpoS3NvQ0dFeUJBSkFqN1oxTzNMRXFKTWQyQlgwOEQ0TTNLSzdV?oc=5",
-  "created": "2026-11-15T01:56:48+00:00"
  }
 ]
