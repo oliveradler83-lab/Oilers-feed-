@@ -1,5 +1,29 @@
 [
  {
+  "id": "cd93b0d3afb8",
+  "type": "Vorschau",
+  "text": "🔜 SPIELVORSCHAU\n\nHeute schon Vorfreude getankt? 🔥 Am 23.11.2026 um 01:00 Uhr (deutsche Zeit) geht's für die Oilers auswärts gegen die St. Louis Blues im Enterprise Center! Stellt den Wecker, holt die Jerseys raus und fiebert mit uns mit. Jeder Fan zählt, auch um diese Uhrzeit! 🏒💙🧡 Let's go Oilers!\n\n#Oilers #LetsGoOilers #Mitfiebern",
+  "image": null,
+  "link": null,
+  "created": "2026-11-21T20:32:20+00:00"
+ },
+ {
+  "id": "9f3548c769f0",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\n🏒 Fun Fact: Connor McDavid hat in dieser Saison schon 42 Vorlagen in 24 Spielen gesammelt! Dazu kommen 13 Tore, also insgesamt 55 Punkte. Die meisten seiner Punkte legt er also mit seinen Pässen auf. Wer sieht den Captain heute Abend wieder glänzen? 🔥\n\n#Oilers #LetsGoOilers #McDavid",
+  "image": "img/a0ea9f702ee5.png",
+  "link": null,
+  "created": "2026-11-21T20:32:22+00:00"
+ },
+ {
+  "id": "084fa3e18b5e",
+  "type": "News",
+  "text": "📰 NEWS\n\nDie aktuellen Line-Kombinationen der Oilers sind da! 🏒 Wer mit wem auf dem Eis steht, steht jetzt auf Daily Faceoff. Schaut rein und lasst uns wissen, welche Reihe euch am meisten überzeugt! 🔥 #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMieEFVX3lxTE94aGNZeWNjSU9oV1hyQklGUmIwVS1NcVQ3b2s3aFR2eHlCUXplMDJvdU1HU3JBVExUWWVFcjFFS0tvNTZ3Z0p1aDFYME5qNDcyWDlsSmJmdEwtd0RnT2V4bVJMQm1OenFDd0FuUmg1OWM4M3NINThJeg?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94aGNZeWNjSU9oV1hyQklGUmIwVS1NcVQ3b2s3aFR2eHlCUXplMDJvdU1HU3JBVExUWWVFcjFFS0tvNTZ3Z0p1aDFYME5qNDcyWDlsSmJmdEwtd0RnT2V4bVJMQm1OenFDd0FuUmg1OWM4M3NINThJeg?oc=5",
+  "created": "2026-11-21T20:32:29+00:00"
+ },
+ {
   "id": "7d6bd9644733",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\nLeon Draisaitl mit 44 Punkten in nur 24 Spielen! 🔥 21 Tore und 23 Vorlagen, das ist pure Klasse. Fun Fact: Genau diese 21 Tore und 23 Vorlagen ergeben zusammen seine 44 Punkte. 🏒\n\n#Oilers #LetsGoOilers #Draisaitl",
@@ -460,29 +484,5 @@
   "image": null,
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXdsenNEeXlQRmVWbWVOU0ZNSmVsNnZZTDJFck9icEpQaWJodm1nNTNMeTAzUnpYcGRueUZDai05S0ZIVEhHY01SMG5mdlNSRmRRM3M5MWFVbGZNOExFbzhQOFdaZXBfeWdpZ25DZWxScDhuelZ6WkhTckV4VERDOW1CN2xJejFaOWdRZw?oc=5",
   "created": "2026-11-16T06:32:14+00:00"
- },
- {
-  "id": "a7690059130a",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact: Mathieu Joseph legt lieber auf, als selbst abzuschließen! 🎯 In 21 Spielen stehen 5 Vorlagen und 3 Tore auf dem Konto, das sind 8 Punkte insgesamt. Mehr Vorlagen als Tore, der Mann hat den Blick für den freien Mitspieler! 🔥 #Oilers #LetsGoOilers #MathieuJoseph",
-  "image": "img/cd595bc1808a.png",
-  "link": null,
-  "created": "2026-11-15T17:12:51+00:00"
- },
- {
-  "id": "342a1dcb60e7",
-  "type": "News",
-  "text": "📰 NEWS\n\nDie Oilers starten so stark wie seit Jahren nicht mehr! 🔥 Trotzdem fragt der Edmonton Journal: Warum haben wir eigentlich nicht mehr Spaß? 🤔 In ihrer Liste „9 Things“ gehen sie dem nach. Wie seht ihr das, Oilers-Fans? Schreibt's in die Kommentare! 🏒\n\n#Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTmE4a2xIbmVaRXpaQjFMZGpTWkZJZktHbEgyTUlLYzNFWGhxdVhIZ1RfN2xIU3JJZG5WYWJnM3lvSkhaaFY4UkRlWGtTLVVUb296MEo5ajZSQTBfbHJmekpUUElHVk94dEdRWEItSzJoLU12MHo5VFgwSTVpWGhaMHdIdHJfcVJHbzZmOXJoQTRWdnhfR3g2RzVyQ0lEeFFPTm51Z1lVU0ZXa0ZXSmtWVmtMYWltWDhoOWxpejJ6NHdBczlsQVQ0RmdTeUk2Z2NHRURJTjVzc1ZtRWprd2ZLUm9mYktYUkdvR3plOFBlOEdxTmRhV0Y3S2ZuZl8?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTmE4a2xIbmVaRXpaQjFMZGpTWkZJZktHbEgyTUlLYzNFWGhxdVhIZ1RfN2xIU3JJZG5WYWJnM3lvSkhaaFY4UkRlWGtTLVVUb296MEo5ajZSQTBfbHJmekpUUElHVk94dEdRWEItSzJoLU12MHo5VFgwSTVpWGhaMHdIdHJfcVJHbzZmOXJoQTRWdnhfR3g2RzVyQ0lEeFFPTm51Z1lVU0ZXa0ZXSmtWVmtMYWltWDhoOWxpejJ6NHdBczlsQVQ0RmdTeUk2Z2NHRURJTjVzc1ZtRWprd2ZLUm9mYktYUkdvR3plOFBlOEdxTmRhV0Y3S2ZuZl8?oc=5",
-  "created": "2026-11-15T17:12:59+00:00"
- },
- {
-  "id": "b3c77e23c484",
-  "type": "Spiel",
-  "text": "🏒 SPIELBERICHT\n\n🏒🔥 Sieg für die Oilers! Auswärts in Toronto haben wir die Maple Leafs mit 1:0 besiegt. Am 14.11.2026 hat unser Team gezeigt, was in ihm steckt. Was für ein Abend! 🙌\n\n#Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-11-15T09:28:20+00:00"
  }
 ]
