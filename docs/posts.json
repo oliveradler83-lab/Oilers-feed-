@@ -1,5 +1,21 @@
 [
  {
+  "id": "5d86f8fc8fdf",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact! 🤯 Vasily Podkolzin hat in dieser Saison in 25 Spielen 13 Tore erzielt und 8 Vorlagen gegeben. Das sind 21 Punkte, und jeder davon zählt! Wer hätte gedacht, dass er so zuverlässig trifft? 🔥 #Oilers #LetsGoOilers #Podkolzin",
+  "image": "img/5c57d34b21cf.png",
+  "link": null,
+  "created": "2026-11-22T17:50:46+00:00"
+ },
+ {
+  "id": "b1e79e4f9aa3",
+  "type": "News",
+  "text": "📰 NEWS\n\nDie Oilers sind bei den Blues gefragt! 🏒 NHL.com hat die voraussichtlichen Aufstellungen veröffentlicht, also schaut rein, wer wahrscheinlich aufs Eis geht. Wir sind gespannt, wie unsere Jungs in St. Louis auftreten! 🔥\n\n#Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMijgFBVV95cUxQU0djRFFyemkwT1U2b29KT3VrUUpwcFhkazJpT2RidU5CWmtDT0pPdXhHLWcxUkcyMmJ4WTJ6cEUyZ2tQaFQ2emdaaUF2U010ZlNLYndTMmJfUWpOVjRia091Nlk5TTFIRWdoRlFsTGVkcC1jVTM4eEFMZUVySnZYSjdxRWRQTzZhVWZpNlBn?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU0djRFFyemkwT1U2b29KT3VrUUpwcFhkazJpT2RidU5CWmtDT0pPdXhHLWcxUkcyMmJ4WTJ6cEUyZ2tQaFQ2emdaaUF2U010ZlNLYndTMmJfUWpOVjRia091Nlk5TTFIRWdoRlFsTGVkcC1jVTM4eEFMZUVySnZYSjdxRWRQTzZhVWZpNlBn?oc=5",
+  "created": "2026-11-22T17:50:51+00:00"
+ },
+ {
   "id": "dcb484354007",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\n🔥 Fun Fact: Evan Bouchard hat in dieser Saison nach 25 Spielen schon 38 Punkte auf dem Konto! 12 Tore und 26 Vorlagen, das ist richtig stark. Wer hätte gedacht, dass er so viel Offensivpower zeigt? 🏒 Let's go, Evan!\n\n#Oilers #LetsGoOilers #Bouchard",
@@ -468,21 +484,5 @@
   "image": null,
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMk9jZUdFTXR1bmxZV2hZemF1RTR4VG5FQVZ1cEd3Qm1DSzUwT0ZpdTJXZzltXzV2Z0NGM1ZSbTVrek5aSkQ5Z1JHNmIxYmJfZnFuYXhNSUJHR09iR3FINWwyT19GOVZnYmtmZDFOZklXVzFlR1ByRjlFeXJWQmJwaHZrSkI5TW11VXktUjRxUnRGdkhtRVFIUS1wZzNhWm8xd3IxcXd5Qmw4NWx0SDlXYkRzaVRRVUU?oc=5",
   "created": "2026-11-17T02:56:35+00:00"
- },
- {
-  "id": "e3395d4669c9",
-  "type": "News",
-  "text": "📰 NEWS\n\nOilers-Fans, aufgepasst! 🔥 Laut Daily Hive sind einige unserer Star-Spieler aktuell auf einem Tempo unterwegs, das fast schon absurd klingt. Ob sie das durchziehen? Ich bin jedenfalls mega gespannt! 🏒 #Oilers #LetsGoOilers #Edmonton\n\nQuelle: https://news.google.com/rss/articles/CBMifkFVX3lxTE15N1FOQ0RPTkcxdl8tX0lpRV9xNnFsU0dLU2kzMmt5MEtWdlF1ZXZFcGR4WnVuZVBEQlhzMnJueWdNcUZDUFZmR3NCUFI3MHBfTlNCcGZXd1lWSFluRUt6OUNKLXN1TFY3ZzlweFV2Yy14elgzdjVlSmk4NzEyUQ?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15N1FOQ0RPTkcxdl8tX0lpRV9xNnFsU0dLU2kzMmt5MEtWdlF1ZXZFcGR4WnVuZVBEQlhzMnJueWdNcUZDUFZmR3NCUFI3MHBfTlNCcGZXd1lWSFluRUt6OUNKLXN1TFY3ZzlweFV2Yy14elgzdjVlSmk4NzEyUQ?oc=5",
-  "created": "2026-11-17T02:56:35+00:00"
- },
- {
-  "id": "d8710826e006",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nKasperi Kapanen ist mit 22 Spielen, 5 Toren und 5 Vorlagen bei 10 Punkten in dieser Saison voll dabei! 🔥 Jeder Scorer zählt, und er hält die Offense am Laufen. Wie bewertet ihr seine Saison bisher? 🏒\n\n#Oilers #LetsGoOilers #Kapanen",
-  "image": "img/19c80e79b691.png",
-  "link": null,
-  "created": "2026-11-16T18:34:51+00:00"
  }
 ]
