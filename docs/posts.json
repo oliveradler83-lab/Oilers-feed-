@@ -1,5 +1,54 @@
 [
  {
+  "id": "11aa98316e68",
+  "type": "Spiel",
+  "text": "🏒 SPIELBERICHT\n\nAutsch, das tat weh! 😤 Am 21.11. mussten die Oilers auswärts bei den Carolina Hurricanes mit 4:7 die Segel streichen. Kopf hoch, Oilers-Fans! Wir stehen trotzdem hinter unseren Jungs und freuen uns aufs nächste Spiel! 💙🧡 #Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-11-22T02:14:51+00:00"
+ },
+ {
+  "id": "9e6e9c213370",
+  "type": "Quiz",
+  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Punkte bei den Oilers in dieser Saison?\n\nA) Vasily Podkolzin\nB) Connor McDavid\nC) Evan Bouchard\nD) Kasperi Kapanen\n\nAntwort in den Kanal-Reaktionen! 👇",
+  "answer": "✅ Auflösung: B) Connor McDavid mit 57! 🔥\n#Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-11-22T02:14:54+00:00"
+ },
+ {
+  "id": "d285ab444ac8",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\n🔥 Fun Fact: Leon Draisaitl hat in dieser Saison bisher 25 Spiele absolviert, dabei 22 Tore erzielt und 24 Vorlagen gegeben. Das macht stolze 46 Punkte, also fast zwei pro Spiel! Wahnsinn, was unser Leon da abliefert! 🏒 #Oilers #LetsGoOilers #Draisaitl",
+  "image": "img/16536e777c2d.png",
+  "link": null,
+  "created": "2026-11-22T02:14:56+00:00"
+ },
+ {
+  "id": "ba8e22334441",
+  "type": "Tabelle",
+  "text": "📊 TABELLE\n\nTabellen-Update! 🏒 Die Oilers stehen nach 25 Spielen bei 17 Siegen, 5 Niederlagen und 3 OT-Niederlagen, das sind 37 Punkte! 🔥 Platz 1 in der Pacific Division und Platz 2 in der Western Conference, richtig stark! Die letzten zwei Spiele gingen allerdings verloren, jetzt heißt es zurückschlagen! 💪 #Oilers #LetsGoOilers #Tabelle",
+  "image": null,
+  "link": null,
+  "created": "2026-11-22T02:14:59+00:00"
+ },
+ {
+  "id": "1ec98c98b476",
+  "type": "News",
+  "text": "📰 NEWS\n\nDiesmal hat's leider nicht gereicht: Die Oilers unterliegen den Hurricanes mit 4:7. 😤 Wer alle Details sehen will, schaut im Spielbericht auf NHL.com vorbei. Kopf hoch, Oilers-Familie, das nächste Spiel kommt bestimmt! 🛢️ #Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMif0FVX3lxTE1JZkVoRHM4Q3dUOUdXdm1TZnVreHhnYUhjRmJob2dUY1VIeUI1NEtlTjVPdWpYNEJWekVmTk1VSmQ5S18zei12eEE4eHUxV1h0RHc5OVlnYW5XSVVoS1ZycHdad0lzRjRfX3RwSEFaSkowMFVOSjNHNGd3MnRaMW8?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JZkVoRHM4Q3dUOUdXdm1TZnVreHhnYUhjRmJob2dUY1VIeUI1NEtlTjVPdWpYNEJWekVmTk1VSmQ5S18zei12eEE4eHUxV1h0RHc5OVlnYW5XSVVoS1ZycHdad0lzRjRfX3RwSEFaSkowMFVOSjNHNGd3MnRaMW8?oc=5",
+  "created": "2026-11-22T02:15:05+00:00"
+ },
+ {
+  "id": "8db43bcfb9e5",
+  "type": "News",
+  "text": "📰 NEWS\n\nAutsch! 😬 Laut Edmonton Journal haben die Carolina Hurricanes unsere Oilers über die kompletten 60 Minuten richtig verdroschen. Das war nichts für unsere Jungs, aber jetzt heißt es: Kopf hoch und im nächsten Spiel zurückschlagen! 💪 #Oilers #LetsGoOilers #Hurricanes\n\nQuelle: https://news.google.com/rss/articles/CBMipAFBVV95cUxQeHpaRl8yeGdnUjlqSWNLMEJua2d5cWY2T211ZVk2WkpSYk9HRlk3WFZHM2YzMFR0eUdfOFBDdndmOUwtandaZTJ0QzRZa0NKajBwREtBZkNuZGNETERQZzZfaERGbkp3ZTNvNExUTWlSQkFSZW4xMVFFZ1VwOUpBTTFNZ0pjaGVvTlRGR2JvXzBkX0t6ZC0xbFVUblF2blFCUXNPdQ?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeHpaRl8yeGdnUjlqSWNLMEJua2d5cWY2T211ZVk2WkpSYk9HRlk3WFZHM2YzMFR0eUdfOFBDdndmOUwtandaZTJ0QzRZa0NKajBwREtBZkNuZGNETERQZzZfaERGbkp3ZTNvNExUTWlSQkFSZW4xMVFFZ1VwOUpBTTFNZ0pjaGVvTlRGR2JvXzBkX0t6ZC0xbFVUblF2blFCUXNPdQ?oc=5",
+  "created": "2026-11-22T02:15:05+00:00"
+ },
+ {
   "id": "cd93b0d3afb8",
   "type": "Vorschau",
   "text": "🔜 SPIELVORSCHAU\n\nHeute schon Vorfreude getankt? 🔥 Am 23.11.2026 um 01:00 Uhr (deutsche Zeit) geht's für die Oilers auswärts gegen die St. Louis Blues im Enterprise Center! Stellt den Wecker, holt die Jerseys raus und fiebert mit uns mit. Jeder Fan zählt, auch um diese Uhrzeit! 🏒💙🧡 Let's go Oilers!\n\n#Oilers #LetsGoOilers #Mitfiebern",
@@ -435,54 +484,5 @@
   "image": null,
   "link": null,
   "created": "2026-11-16T06:32:01+00:00"
- },
- {
-  "id": "52c81480fa5a",
-  "type": "Vorschau",
-  "text": "🔜 SPIELVORSCHAU\n\nEs ist so weit, Oilers-Fans! 🔥 Am 18.11. um 01:00 Uhr (deutsche Zeit) geht's auswärts gegen die Florida Panthers in der Amerant Bank Arena. Wecker stellen, Snacks holen und mit uns mitfiebern! Jeder Schrei von der Couch zählt. 🏒 #Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-11-16T06:32:04+00:00"
- },
- {
-  "id": "e200599bf1b1",
-  "type": "Quiz",
-  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Vorlagen bei den Oilers in dieser Saison?\n\nA) Ryan Nugent-Hopkins\nB) Connor McDavid\nC) Evan Bouchard\nD) Leon Draisaitl\n\nAntwort in den Kanal-Reaktionen! 👇",
-  "answer": "✅ Auflösung: B) Connor McDavid mit 41! 🔥\n#Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-11-16T06:32:04+00:00"
- },
- {
-  "id": "702af7061626",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans! 🤩 Mathieu Joseph steht in dieser Saison nach 22 Spielen bei 8 Punkten: 3 Tore und 5 Vorlagen. Sein Anteil am Scoring ist echt stark und zeigt, dass er überall auf dem Eis Wirkung hat. Wie zufrieden seid ihr mit seiner Saison? 💙🧡\n\n#Oilers #LetsGoOilers #MathieuJoseph",
-  "image": "img/cd595bc1808a.png",
-  "link": null,
-  "created": "2026-11-16T06:32:06+00:00"
- },
- {
-  "id": "ff7035106df5",
-  "type": "Tabelle",
-  "text": "📊 TABELLE\n\n🔥 Die Oilers sind richtig in Form! Nach 22 Spielen stehen 16 Siege, 3 Niederlagen und 3 OT-Niederlagen zu Buche, also 35 Punkte! 🏒 Dazu Platz 1 in der Pacific Division und Platz 1 in der Western Conference! Und die Serie? 5 Siege in Folge 💙 #Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-11-16T06:32:09+00:00"
- },
- {
-  "id": "ae91e8e62358",
-  "type": "News",
-  "text": "📰 NEWS\n\nLeonsaisaitl... Moment, korrekt: Draisaitl hat wieder getroffen! 🔥 Die NHL-Highlights zeigen seinen zweiten Treffer, und das Video macht richtig Lust auf mehr Oilers-Hockey. Schaut euch die Szene unbedingt auf NHL.com an! 🏒 Let's go, Oilers! 💙🧡\n\n#Oilers #LetsGoOilers #Draisaitl\n\nQuelle: https://news.google.com/rss/articles/CBMimwFBVV95cUxPNmh1Y1pZRm9GVFhDZHZJREZwVFlkNng2WW50dE1CeXRJX25fVy11ZXo3azNMUDZfc05JWDhSWXRFbERsMDBuWUM3VFVQVlVmQjlUM0c1eHY4bG94V04wRmhDbzlSdGE4WUpXY2VuZ2E3cUVscVNJVFprSTQwS0tQcE5ONHk3dFg0SEJWbE92MGszVG96NmRsX1o2OA?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNmh1Y1pZRm9GVFhDZHZJREZwVFlkNng2WW50dE1CeXRJX25fVy11ZXo3azNMUDZfc05JWDhSWXRFbERsMDBuWUM3VFVQVlVmQjlUM0c1eHY4bG94V04wRmhDbzlSdGE4WUpXY2VuZ2E3cUVscVNJVFprSTQwS0tQcE5ONHk3dFg0SEJWbE92MGszVG96NmRsX1o2OA?oc=5",
-  "created": "2026-11-16T06:32:14+00:00"
- },
- {
-  "id": "6b9b2b330727",
-  "type": "News",
-  "text": "📰 NEWS\n\nDie Flyers mussten es auf die harte Tour lernen: Laut Edmonton Journal haben die Oilers das beste Torhütergespann der NHL! 🥅🔥 Unsere Goalies sind ein echter Trumpf, und die Gegner merken das gerade am eigenen Leib. Stolz sein, Oilers-Fans! 💙🧡\n\n#Oilers #LetsGoOilers #NHL\n\nQuelle: https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXdsenNEeXlQRmVWbWVOU0ZNSmVsNnZZTDJFck9icEpQaWJodm1nNTNMeTAzUnpYcGRueUZDai05S0ZIVEhHY01SMG5mdlNSRmRRM3M5MWFVbGZNOExFbzhQOFdaZXBfeWdpZ25DZWxScDhuelZ6WkhTckV4VERDOW1CN2xJejFaOWdRZw?oc=5",
-  "image": null,
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXdsenNEeXlQRmVWbWVOU0ZNSmVsNnZZTDJFck9icEpQaWJodm1nNTNMeTAzUnpYcGRueUZDai05S0ZIVEhHY01SMG5mdlNSRmRRM3M5MWFVbGZNOExFbzhQOFdaZXBfeWdpZ25DZWxScDhuelZ6WkhTckV4VERDOW1CN2xJejFaOWdRZw?oc=5",
-  "created": "2026-11-16T06:32:14+00:00"
  }
 ]
