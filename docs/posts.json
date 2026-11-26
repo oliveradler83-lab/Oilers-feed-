@@ -1,5 +1,38 @@
 [
  {
+  "id": "701e86831c54",
+  "type": "Quiz",
+  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Punkte bei den Oilers in dieser Saison?\n\nA) Mattias Ekholm\nB) Connor McDavid\nC) Evan Bouchard\nD) Vasily Podkolzin\n\nAntwort in den Kanal-Reaktionen! 👇",
+  "answer": "✅ Auflösung: B) Connor McDavid mit 59! 🔥\n#Oilers #LetsGoOilers",
+  "image": null,
+  "link": null,
+  "created": "2026-11-26T08:27:24+00:00"
+ },
+ {
+  "id": "866d6c0aee50",
+  "type": "Fact",
+  "text": "⭐ FACT DES TAGES\n\nFun Fact für alle Oilers-Fans: Mattias Ekholm hat in dieser Saison bisher 25 Spiele gemacht und dabei 11 Punkte gesammelt, davon 8 Vorlagen! 🔥 Der Mann legt seine Mitspieler richtig gut auf. Wer hätte gedacht, dass unser Verteidiger so zum Fan-Liebling wird? 🏒\n\n#Oilers #LetsGoOilers #Ekholm",
+  "image": "img/6b87cbb35a30.png",
+  "link": null,
+  "created": "2026-11-26T08:27:26+00:00"
+ },
+ {
+  "id": "a46274ea7db7",
+  "type": "News",
+  "text": "📰 NEWS\n\nNeues RAW-Video auf NHL.com mit Savoie! 🏒 Datiert auf den 25.11.26. Wer's noch nicht gesehen hat, sollte unbedingt reinschauen, Details gibt's direkt auf NHL.com. 👀\n\n#Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMie0FVX3lxTE5JYXpIT2ZjZ3ZiMncyVjJ2a25OeHdSLXpvVmJBY3BpbmszTU5Ja2JUbl9NQ2hPYi1ISWREX2hzZS1TVDBPWEdGc29MRE5BTGtnbWJZckcyN1ZlLXVxUTBCeGdrMVhGVE1pbklKVzgwbTI0Ukx1bzZwYW1nSQ?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JYXpIT2ZjZ3ZiMncyVjJ2a25OeHdSLXpvVmJBY3BpbmszTU5Ja2JUbl9NQ2hPYi1ISWREX2hzZS1TVDBPWEdGc29MRE5BTGtnbWJZckcyN1ZlLXVxUTBCeGdrMVhGVE1pbklKVzgwbTI0Ukx1bzZwYW1nSQ?oc=5",
+  "created": "2026-11-26T08:27:34+00:00"
+ },
+ {
+  "id": "f156bd01a1c5",
+  "type": "News",
+  "text": "📰 NEWS\n\nDie Oilers stecken gerade in einer Durststrecke 😤 Die gute Nachricht: Im Spielplan kommt eine etwas entspanntere Phase, in der sie Zeit zum Durchatmen und Neusortieren bekommen. Jetzt heißt es Kopf hoch und wieder in die Spur finden! 💪\n\n#Oilers #LetsGoOilers\n\nQuelle: https://news.google.com/rss/articles/CBMipwFBVV95cUxNckFjYjM2VGxuVkJJWkJTeWdJTWt6RFhKT1oweWFzQnlCSk9hV3g3dkRySUtMWFc4R2pQSVNNVEtpWFZ6MmxqRHZlMGl3cFNfbFd5aTc5RDFlNndUaW5lSGlmeFlVZXdVRUthb1FrUXFZRTRDNzZNR1c5QlBYVjZoU0dncERxNjBqdVRfVGVMcTZ4Z19hdGwyVEYyU1p6dlB4aElvdXc1OA?oc=5",
+  "image": null,
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNckFjYjM2VGxuVkJJWkJTeWdJTWt6RFhKT1oweWFzQnlCSk9hV3g3dkRySUtMWFc4R2pQSVNNVEtpWFZ6MmxqRHZlMGl3cFNfbFd5aTc5RDFlNndUaW5lSGlmeFlVZXdVRUthb1FrUXFZRTRDNzZNR1c5QlBYVjZoU0dncERxNjBqdVRfVGVMcTZ4Z19hdGwyVEYyU1p6dlB4aElvdXc1OA?oc=5",
+  "created": "2026-11-26T08:27:34+00:00"
+ },
+ {
   "id": "ecd6a035e3bc",
   "type": "Fact",
   "text": "⭐ FACT DES TAGES\n\n🏒 Fun Fact über Mathieu Joseph: In seinen 27 Spielen dieser Saison hat er 7 Vorlagen gesammelt, aber \"nur\" 4 Tore erzielt. Das macht insgesamt 11 Punkte! Er ist ein echter Playmaker, der seine Mitspieler immer wieder in Szene setzt. 🔥 Wie gefällt euch sein Spielstil? #Oilers #LetsGoOilers #MathieuJoseph",
@@ -451,38 +484,5 @@
   "image": null,
   "link": null,
   "created": "2026-11-20T03:17:38+00:00"
- },
- {
-  "id": "c4e293f4a57a",
-  "type": "Vorschau",
-  "text": "🔜 SPIELVORSCHAU\n\nDie Oilers sind wieder unterwegs! 🔥 Am 21.11.2026 um 19:00 Uhr (deutscher Zeit) geht's auswärts gegen die Carolina Hurricanes im Lenovo Center. Wer ist dabei und fiebert mit? 🏒 Ab auf die Couch, Trikot an und lautstark mitfiebern! 💙🧡 #Oilers #LetsGoOilers #NHL",
-  "image": null,
-  "link": null,
-  "created": "2026-11-20T03:17:40+00:00"
- },
- {
-  "id": "bc199c40572a",
-  "type": "Quiz",
-  "text": "🧠 OILERS-QUIZ\nWer hat aktuell die meisten Vorlagen bei den Oilers in dieser Saison?\n\nA) Evan Bouchard\nB) Ryan Nugent-Hopkins\nC) Connor McDavid\nD) Kasperi Kapanen\n\nAntwort in den Kanal-Reaktionen! 👇",
-  "answer": "✅ Auflösung: C) Connor McDavid mit 42! 🔥\n#Oilers #LetsGoOilers",
-  "image": null,
-  "link": null,
-  "created": "2026-11-20T03:17:40+00:00"
- },
- {
-  "id": "6970d3f4dd5b",
-  "type": "Fact",
-  "text": "⭐ FACT DES TAGES\n\nFun Fact: Evan Bouchard hat in dieser Saison schon 37 Punkte in 23 Spielen gesammelt! 🔥 Dazu kommen 12 Tore und satte 25 Vorlagen. Die Vorlagen-Maschine läuft auf Hochtouren! 🏒 #Oilers #LetsGoOilers",
-  "image": "img/ccb4cb73162c.png",
-  "link": null,
-  "created": "2026-11-20T03:17:42+00:00"
- },
- {
-  "id": "f545fb0eca80",
-  "type": "Tabelle",
-  "text": "📊 TABELLE\n\n🏒 Tabellen-Update! Die Oilers stehen nach 24 Spielen mit 37 Punkten auf Platz 1 in der Pacific Division und in der Western Conference! 🔥 17 Siege, 4 Niederlagen und 3 OT-Niederlagen. Das letzte Spiel ging zwar verloren, aber die Spitze halten wir! Let's go, Oilers! 💙🧡\n\n#Oilers #LetsGoOilers #NHL",
-  "image": null,
-  "link": null,
-  "created": "2026-11-20T03:17:44+00:00"
  }
 ]
